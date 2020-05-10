@@ -20,15 +20,20 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ## Keywords
 
-1. Keyword De-duplication
+1. Keyword De-duplication Techniques
 2. Comparing Keyword Lists
+
+## Google Sheets
+
 3. Google Sheets With Pygsheets
+
+## Screaming Frog Automation
+
 4. Technical SEO Automation with Screaming Frog
 
 ## Images
 
-5. Image Optimisation
-5.1 How To Download Images From A Website At Scale
+5. Image Optimisation + Downloading Images From A Website At Scale
 
 ## Rendering
 
@@ -42,7 +47,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 ## Schema Optimisation
 
 9. How to extract schema at scale
-10. How to create video or article schema at scale
+10. How to create video or article schema At Scale
 
 ## Google Cloud Platform
 
@@ -52,8 +57,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ## Content Performance With Pandas
 
-- 14. Analysing Content Performance With Pandas
-- 14.1 Leveling Up With Pandas
+- 14. Content Performance + Leveling Up With Pandas
 
 ## Content De-duplication Techniques
 
@@ -62,7 +66,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ## DataForSEO Pipelines
 
-17. Creating Data Engineering Pipelines with DataForSEO
+17. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
