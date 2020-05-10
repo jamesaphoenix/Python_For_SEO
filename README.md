@@ -1,4 +1,4 @@
-# 🐍 Python_For_SEO 🐍
+# 🐍 Python For SEO 🐍
 
 ![Image description](https://understandingdata.com/wp-content/uploads/2020/05/Copy-of-Make-Data-Work-For-You.png)
 
