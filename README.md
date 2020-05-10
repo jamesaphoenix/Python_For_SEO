@@ -1,14 +1,14 @@
-# Python_For_SEO
+# 🐍 Python_For_SEO 🐍
 A 40 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
-Pre-requisties:
-- Basic Programming Skills (variables, for loops, if statements)
+Prerequisites:
+- Basic Programming Skills (variables, for loops, if statements).
 - A willingness to learn packages, libraries * new methodologies.
 
 ----
 
-Its time to level up your SEO game, so grab a coffee and get ready to start learning some more Python!
+Its time to level up your SEO game, so grab a ☕ and get ready to start learning some more Python!
 
 ----
 
