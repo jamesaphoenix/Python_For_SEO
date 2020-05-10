@@ -1,4 +1,4 @@
-# 🐍 Python For SEO 🐍
+# 🐍 Python For SEO 🐍(In Progress)
 
 ![Image description](https://understandingdata.com/wp-content/uploads/2020/05/Copy-of-Make-Data-Work-For-You.png)
 
@@ -13,6 +13,10 @@ Prerequisites:
 ----
 
 Its time to level up your SEO game, so grab a ☕ and get ready to start learning some more Python!
+
+----
+
+The Blog Posts For Every Lesson Will Be Found Here: https://sempioneer.com/blog/
 
 ----
 
