@@ -12,7 +12,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ----
 
-<strong> Course Content: </strong>
+# Course Content:
 
 ## Keywords
 
