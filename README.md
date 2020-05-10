@@ -1,4 +1,8 @@
 # 🐍 Python_For_SEO 🐍
+
+![Image description](https://understandingdata.com/wp-content/uploads/2020/05/Copy-of-Make-Data-Work-For-You.png)
+
+
 A 40 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
@@ -48,8 +52,8 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ## Content Performance With Pandas
 
-14. Analysing Content Performance With Pandas
-14.1 Leveling Up With Pandas
+- 14. Analysing Content Performance With Pandas
+- 14.1 Leveling Up With Pandas
 
 ## Content De-duplication Techniques
 
