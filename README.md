@@ -56,8 +56,10 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 39. CausalImpact for SEO [Complete DIY SEO Experiment]
 40. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
-Bonus Content: How to prospect for local businesses (Google Maps) with Python
-Bonus Content: Reddit API Harvesting questions from reddit API
-Bonus Content: Web scraping Quora with Selenium
-Bonus Content: How to curate all of the Facebook Groups, LinkedIn Groups for a specific niche with Python
-Bonus Content: Automatically generate sentences / novels with GPT2
+----
+
+- Bonus Content: How to prospect for local businesses (Google Maps) with Python
+- Bonus Content: Reddit API Harvesting questions from reddit API
+- Bonus Content: Web scraping Quora with Selenium
+- Bonus Content: How to curate all of the Facebook Groups, LinkedIn Groups for a specific niche with Python
+- Bonus Content: Automatically generate sentences / novels with GPT2
