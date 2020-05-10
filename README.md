@@ -18,10 +18,10 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 # Course Content:
 
-## Keywords
+## [Keywords](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/1_Keywords)
 
-1. Keyword De-duplication Techniques
-2. Comparing Keyword Lists
+1. Keyword De-duplication Techniques + Comparing Keyword Lists
+2. Data Manipulation With Pandas + Stemming/Lemmatization With Pandas 
 
 ## Google Sheets
 
@@ -57,7 +57,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ## Content Performance With Pandas
 
-- 14. Content Performance + Leveling Up With Pandas
+14. Content Performance + Leveling Up With Pandas
 
 ## Content De-duplication Techniques
 
@@ -119,7 +119,7 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 36. SEO Split Test Using Python + CausalImpact + Tag Manager
 37. Stratified Sampling Using Google Analytics + Python
 38. SEO Split-Testing Experiments using Google Tag Manager
-39. CausalImpact for SEO [Complete DIY SEO Experiment]
+39. CausalImpact for SEO
 40. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
