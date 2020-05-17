@@ -24,7 +24,7 @@ The Blog Posts For Every Lesson Will Be Found Here: https://sempioneer.com/blog/
 1. Keyword De-duplication Techniques + Comparing Keyword Lists
 2. Data Manipulation With Pandas + Stemming/Lemmatization With Pandas
 
-## Bulk Operations With CSV Files[https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations]
+## Bulk Operations With CSV Files(https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
 
 3. Combining Multiple CSV Files
 
