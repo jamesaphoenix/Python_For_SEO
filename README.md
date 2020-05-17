@@ -1,8 +1,5 @@
 # 🐍 Python For SEO 🐍(In Progress)
 
-![Image description](https://understandingdata.com/wp-content/uploads/2020/05/Copy-of-Make-Data-Work-For-You.png)
-
-
 A 40 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
