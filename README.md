@@ -5,7 +5,7 @@ A 40 part free course demonstrating all of the different ways that you can use P
 
 Prerequisites:
 - Basic Programming Skills (variables, for loops, if statements).
-- If you don't have any programming experience, I would recommend [completing this course](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- If you don't have any programming experience, I would recommend [completing this python programming course.](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - A willingness to learn packages, libraries & new methodologies.
 
 ----
