@@ -5,7 +5,8 @@ A 40 part free course demonstrating all of the different ways that you can use P
 
 Prerequisites:
 - Basic Programming Skills (variables, for loops, if statements).
-- A willingness to learn packages, libraries * new methodologies.
+- If you don't have any programming experience, I would recommend [completing this course](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- A willingness to learn packages, libraries & new methodologies.
 
 ----
 
@@ -13,7 +14,11 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ----
 
-The Blog Posts For Every Lesson Will Be Found Here: https://sempioneer.com/blog/
+Every Lesson Can Be Found Under The PythonForSEO Section (within the main nav of https://sempioneer.com/)!
+You can also find the YouTube content on the two following channels:
+
+- Sempioneer: https://www.youtube.com/channel/UCui38sdG1wWlDk_tgyZiJ_w
+- UnderstandingData: https://www.youtube.com/channel/UCLKL6bVqM1WM8VJavfokGSg
 
 ----
 
