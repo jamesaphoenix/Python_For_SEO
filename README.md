@@ -103,7 +103,7 @@ You can also find the YouTube content on the two following channels:
 ## Wordpress Automation
 
 29. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-
+30. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
 ## Social Media Text-Mining
 
 30. Social Media
