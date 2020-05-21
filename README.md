@@ -104,37 +104,39 @@ You can also find the YouTube content on the two following channels:
 
 29. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
 30. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+31. Creating JSON-LD Schema With Python
+
 ## Social Media Text-Mining
 
-30. Social Media
+32. Social Media
 
 ## Intent Classification
 
-31. Intent Classification of Keywords With Deep Learning
+33. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-32. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-33. Find PeopleAlsoAsked Questions
+34. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+35. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-34. Internal Links Graphs with NetworkX + Internal Link Recommendations
+36. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-35. How to use Selemium With Python
-36. How to run CRON jobs for SEO
-37. How to run Cloud Functions + Cloud Tasks for SEO
+37. How to use Selemium With Python
+38. How to run CRON jobs for SEO
+39. How to run Cloud Functions + Cloud Tasks for SEO
 
 
 ## SEO Testing
 
-38. SEO Split Test Using Python + CausalImpact + Tag Manager
-39. Stratified Sampling Using Google Analytics + Python
-40. SEO Split-Testing Experiments using Google Tag Manager
-41. CausalImpact for SEO
-42. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+40. SEO Split Test Using Python + CausalImpact + Tag Manager
+41. Stratified Sampling Using Google Analytics + Python
+42. SEO Split-Testing Experiments using Google Tag Manager
+43. CausalImpact for SEO
+44. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
