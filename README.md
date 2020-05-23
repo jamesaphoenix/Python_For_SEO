@@ -28,7 +28,7 @@ You can also find the YouTube content on the two following channels:
 
 1. [Keyword De-duplication Techniques + Comparing Keyword Lists + Data Manipulation With Pandas + Stemming/Lemmatization With Pandas](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/1_Keywords)
 
-## [Bulk Operations With CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
+## Bulk Operations With CSV Files
 
 2. [Combining Multiple CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
 3. [Deleting Files, Folders And Specific File Types](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/3_how_to_delete_multiple_local_files)
