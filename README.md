@@ -131,14 +131,16 @@ You can also find the YouTube content on the two following channels:
 38. How to run CRON jobs for SEO
 39. How to run Cloud Functions + Cloud Tasks for SEO
 
+## SEO Migrations
+40. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-40. SEO Split Test Using Python + CausalImpact + Tag Manager
-41. Stratified Sampling Using Google Analytics + Python
-42. SEO Split-Testing Experiments using Google Tag Manager
-43. CausalImpact for SEO
-44. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+41. SEO Split Test Using Python + CausalImpact + Tag Manager
+42. Stratified Sampling Using Google Analytics + Python
+43. SEO Split-Testing Experiments using Google Tag Manager
+44. CausalImpact for SEO
+45. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
