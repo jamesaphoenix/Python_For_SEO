@@ -78,71 +78,76 @@ You can also find the YouTube content on the two following channels:
 16. Content De-duplication Techniques
 17. Grouping HTML Pages
 
+## The Power Of Python Combinations
+
+18. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
+19. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
+
 ## DataForSEO Pipelines
 
-18. Creating Data Pipelines with DataForSEO (Data Engineering)
+19. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
-19. Named Entity Recognition & Named Entity Linking
-20. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-21. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-22. IBM NLP Watson and Google's Natural Language API
-23. Categorising Queries From Google Search Console
+20. Named Entity Recognition & Named Entity Linking
+21. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
+22. Automatic Text Generation & Image Alt Tags / Article Summarisaition
+23. IBM NLP Watson and Google's Natural Language API
+24. Categorising Queries From Google Search Console
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-24. How to connect to your Bing API Data
-25. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-26. Identify Keyword Cannabilisation with GSC + GA
+25. How to connect to your Bing API Data
+26. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+27. Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-27. Log File Analysis
+28. Server Log File Analysis
 
 ## G-suite Automation
 
-28. Google Drive Automation 
+29. Google Drive Automation 
 
 ## Wordpress Automation
 
-29. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-30. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-31. Creating JSON-LD Schema With Python
+30. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+31. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+32. Creating JSON-LD Schema With Python
 
 ## Social Media Text-Mining
 
-32. Social Media
+33. Social Media
 
 ## Intent Classification
 
-33. Intent Classification of Keywords With Deep Learning
+34. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-34. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-35. Find PeopleAlsoAsked Questions
+35. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+36. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-36. Internal Links Graphs with NetworkX + Internal Link Recommendations
+37. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-37. How to use Selemium With Python
-38. How to run CRON jobs for SEO
-39. How to run Cloud Functions + Cloud Tasks for SEO
+38. How to use Selemium With Python
+39 How to run CRON jobs for SEO
+40. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-40. How To Find A List Of Old URLs with Wayback CDX API
+41. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-41. SEO Split Test Using Python + CausalImpact + Tag Manager
-42. Stratified Sampling Using Google Analytics + Python
-43. SEO Split-Testing Experiments using Google Tag Manager
-44. CausalImpact for SEO
-45. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+42. SEO Split Test Using Python + CausalImpact + Tag Manager
+43. Stratified Sampling Using Google Analytics + Python
+44. SEO Split-Testing Experiments using Google Tag Manager
+45. CausalImpact for SEO
+46. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
