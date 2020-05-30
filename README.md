@@ -121,37 +121,40 @@ You can also find the YouTube content on the two following channels:
 
 ## Social Media Text-Mining
 
-35. Social Media
+35. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+36. Topic Modelling With Social Media Data
+37. Network Analysis With Social Media Data
+38. How To Do Influencer Research With The Twitter API
 
 ## Intent Classification
 
-36. Intent Classification of Keywords With Deep Learning
+39. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-37. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-38. Find PeopleAlsoAsked Questions
+40. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+41. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-39. Internal Links Graphs with NetworkX + Internal Link Recommendations
+42. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-40. How to use Selemium With Python
-41 How to run CRON jobs for SEO
-42. How to run Cloud Functions + Cloud Tasks for SEO
+43. How to use Selemium With Python
+44 How to run CRON jobs for SEO
+45. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-43. How To Find A List Of Old URLs with Wayback CDX API
+46. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-44. SEO Split Test Using Python + CausalImpact + Tag Manager
-45. Stratified Sampling Using Google Analytics + Python
-46. SEO Split-Testing Experiments using Google Tag Manager
-47. CausalImpact for SEO
-48. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+47. SEO Split Test Using Python + CausalImpact + Tag Manager
+48. Stratified Sampling Using Google Analytics + Python
+49. SEO Split-Testing Experiments using Google Tag Manager
+50. CausalImpact for SEO
+51. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
