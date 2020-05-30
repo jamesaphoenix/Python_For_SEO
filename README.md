@@ -78,7 +78,7 @@ You can also find the YouTube content on the two following channels:
 16. Content De-duplication Techniques
 17. Grouping HTML Pages
 
-## The Power Of Python Combinations
+## The Power Of Python Combinations - https://www.sammyseo.com/product-comparison-keywords/
 
 18. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
 19. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
