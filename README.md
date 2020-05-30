@@ -83,71 +83,75 @@ You can also find the YouTube content on the two following channels:
 18. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
 19. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
 
+## Algorithm Updates
+
+20. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
+
 ## DataForSEO Pipelines
 
-19. Creating Data Pipelines with DataForSEO (Data Engineering)
+21. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
-20. Named Entity Recognition & Named Entity Linking
-21. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-22. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-23. IBM NLP Watson and Google's Natural Language API
-24. Categorising Queries From Google Search Console
+22. Named Entity Recognition & Named Entity Linking
+23. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
+24. Automatic Text Generation & Image Alt Tags / Article Summarisaition
+25. IBM NLP Watson and Google's Natural Language API
+26. Categorising Queries From Google Search Console
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-25. How to connect to your Bing API Data
-26. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-27. Identify Keyword Cannabilisation with GSC + GA
+27. How to connect to your Bing API Data
+28. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+29. Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-28. Server Log File Analysis
+30. Server Log File Analysis
 
 ## G-suite Automation
 
-29. Google Drive Automation 
+31. Google Drive Automation 
 
 ## Wordpress Automation
 
-30. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-31. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-32. Creating JSON-LD Schema With Python
+32. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+33. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+34. Creating JSON-LD Schema With Python
 
 ## Social Media Text-Mining
 
-33. Social Media
+35. Social Media
 
 ## Intent Classification
 
-34. Intent Classification of Keywords With Deep Learning
+36. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-35. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-36. Find PeopleAlsoAsked Questions
+37. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+38. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-37. Internal Links Graphs with NetworkX + Internal Link Recommendations
+39. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-38. How to use Selemium With Python
-39 How to run CRON jobs for SEO
-40. How to run Cloud Functions + Cloud Tasks for SEO
+40. How to use Selemium With Python
+41 How to run CRON jobs for SEO
+42. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-41. How To Find A List Of Old URLs with Wayback CDX API
+43. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-42. SEO Split Test Using Python + CausalImpact + Tag Manager
-43. Stratified Sampling Using Google Analytics + Python
-44. SEO Split-Testing Experiments using Google Tag Manager
-45. CausalImpact for SEO
-46. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+44. SEO Split Test Using Python + CausalImpact + Tag Manager
+45. Stratified Sampling Using Google Analytics + Python
+46. SEO Split-Testing Experiments using Google Tag Manager
+47. CausalImpact for SEO
+48. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
