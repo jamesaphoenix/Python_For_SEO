@@ -40,7 +40,7 @@ You can also find the YouTube content on the two following channels:
 
 ## Google Sheets
 
-5. Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)
+5. [Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/5_google_sheets_with_pandas)
 
 ## Screaming Frog Automation
 
