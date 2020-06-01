@@ -87,85 +87,87 @@ You can also find the YouTube content on the two following channels:
 
 20. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
 
-## DataForSEO Pipelines
+## Data Pipelines, DataForSEO & BigQuery
 
-21. Creating Data Pipelines with DataForSEO (Data Engineering)
+21. The Comprehensive Guide To GoogleBigQuery With Python
+22. How To Compare GSC Account Permissions vs GA Account Permissions
+23. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
-22. Named Entity Recognition & Named Entity Linking
-23. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-24. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-25. IBM NLP Watson and Google's Natural Language API
-26. Categorising Queries From Google Search Console
+24. Named Entity Recognition & Named Entity Linking
+25. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
+26. Automatic Text Generation & Image Alt Tags / Article Summarisaition
+27. IBM NLP Watson and Google's Natural Language API
+28. Categorising Queries From Google Search Console
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-27. How to connect to your Bing API Data
-28. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-29. Identify Keyword Cannabilisation with GSC + GA
+29. How to connect to your Bing API Data
+30. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+31. Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-30. Server Log File Analysis
+31. Server Log File Analysis
 
 ## G-suite Automation
 
-31. Google Drive Automation 
+32. Google Drive Automation 
 
 ## Wordpress Automation
 
-32. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-33. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-34. Creating JSON-LD Schema With Python
+33. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+34. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+35. Creating JSON-LD Schema With Python
 
 ## Content Promotion
 
-35. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-36. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
+36. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
+37. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
 
 ## Automatic Text Generation
 
-37. Automatically Creating Text With GP2-Simple
-38. Automatically Creating Title Tags + Meta Descriptions
+38. Automatically Creating Text With GP2-Simple
+39. Automatically Creating Title Tags + Meta Descriptions
 
 
 ## Social Media Text-Mining
 
-39. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-40. Topic Modelling With Social Media Data
-41. Network Analysis With Social Media Data
-42. How To Do Influencer Research With The Twitter API
+40. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+41. Topic Modelling With Social Media Data
+42. Network Analysis With Social Media Data
+43. How To Do Influencer Research With The Twitter API
 
 ## Intent Classification
 
-43. Intent Classification of Keywords With Deep Learning
+44. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-44. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-45. Find PeopleAlsoAsked Questions
+45. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+46. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-46. Internal Links Graphs with NetworkX + Internal Link Recommendations
+47. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-47. How to use Selemium With Python
-48 How to run CRON jobs for SEO
-49. How to run Cloud Functions + Cloud Tasks for SEO
+48. How to use Selemium With Python
+49 How to run CRON jobs for SEO
+50. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-50. How To Find A List Of Old URLs with Wayback CDX API
+51. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-51. SEO Split Test Using Python + CausalImpact + Tag Manager
-52. Stratified Sampling Using Google Analytics + Python
-53. SEO Split-Testing Experiments using Google Tag Manager
-54. CausalImpact for SEO
-55. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+52. SEO Split Test Using Python + CausalImpact + Tag Manager
+53. Stratified Sampling Using Google Analytics + Python
+54. SEO Split-Testing Experiments using Google Tag Manager
+55. CausalImpact for SEO
+56. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
