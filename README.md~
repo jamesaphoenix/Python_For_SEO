@@ -119,53 +119,42 @@ You can also find the YouTube content on the two following channels:
 33. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
 34. Creating JSON-LD Schema With Python
 
-## Content Promotion
-
-35. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-36. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
-
-## Automatic Text Generation
-
-37. Automatically Creating Text With GP2-Simple
-38. Automatically Creating Title Tags + Meta Descriptions
-
-
 ## Social Media Text-Mining
 
-39. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-40. Topic Modelling With Social Media Data
-41. Network Analysis With Social Media Data
-42. How To Do Influencer Research With The Twitter API
+35. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+36. Topic Modelling With Social Media Data
+37. Network Analysis With Social Media Data
+38. How To Do Influencer Research With The Twitter API
 
 ## Intent Classification
 
-43. Intent Classification of Keywords With Deep Learning
+39. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-44. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-45. Find PeopleAlsoAsked Questions
+40. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+41. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-46. Internal Links Graphs with NetworkX + Internal Link Recommendations
+42. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-47. How to use Selemium With Python
-48 How to run CRON jobs for SEO
-49. How to run Cloud Functions + Cloud Tasks for SEO
+43. How to use Selemium With Python
+44 How to run CRON jobs for SEO
+45. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-50. How To Find A List Of Old URLs with Wayback CDX API
+46. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-51. SEO Split Test Using Python + CausalImpact + Tag Manager
-52. Stratified Sampling Using Google Analytics + Python
-53. SEO Split-Testing Experiments using Google Tag Manager
-54. CausalImpact for SEO
-55. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+47. SEO Split Test Using Python + CausalImpact + Tag Manager
+48. Stratified Sampling Using Google Analytics + Python
+49. SEO Split-Testing Experiments using Google Tag Manager
+50. CausalImpact for SEO
+51. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
