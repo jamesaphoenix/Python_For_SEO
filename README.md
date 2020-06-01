@@ -42,13 +42,13 @@ You can also find the YouTube content on the two following channels:
 
 5. [Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/5_google_sheets_with_pandas)
 
+## Images 
+
+6. Image Optimisation + Downloading Images From A Website At Scale
+
 ## Screaming Frog Automation
 
-6. Technical SEO Automation with Screaming Frog
-
-## Images
-
-7. Image Optimisation + Downloading Images From A Website At Scale
+7. Technical SEO Automation with Screaming Frog
 
 ## Rendering
 
@@ -109,65 +109,65 @@ You can also find the YouTube content on the two following channels:
 
 ## Log File Analysis
 
-31. Server Log File Analysis
+32. Server Log File Analysis
 
 ## G-suite Automation
 
-32. Google Drive Automation 
+33. Google Drive Automation 
 
 ## Wordpress Automation
 
-33. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-34. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-35. Creating JSON-LD Schema With Python
+34. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+35. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+36. Creating JSON-LD Schema With Python
 
 ## Content Promotion
 
-36. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-37. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
+37. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
+38. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
 
 ## Automatic Text Generation
 
-38. Automatically Creating Text With GP2-Simple
-39. Automatically Creating Title Tags + Meta Descriptions
+39. Automatically Creating Text With GP2-Simple
+40. Automatically Creating Title Tags + Meta Descriptions
 
 
 ## Social Media Text-Mining
 
-40. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-41. Topic Modelling With Social Media Data
-42. Network Analysis With Social Media Data
-43. How To Do Influencer Research With The Twitter API
+41. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+42. Topic Modelling With Social Media Data
+43. Network Analysis With Social Media Data
+44. How To Do Influencer Research With The Twitter API
 
 ## Intent Classification
 
-44. Intent Classification of Keywords With Deep Learning
+45. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-45. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-46. Find PeopleAlsoAsked Questions
+46. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+47. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-47. Internal Links Graphs with NetworkX + Internal Link Recommendations
+48. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-48. How to use Selemium With Python
-49 How to run CRON jobs for SEO
-50. How to run Cloud Functions + Cloud Tasks for SEO
+49. How to use Selemium With Python
+50 How to run CRON jobs for SEO
+52. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-51. How To Find A List Of Old URLs with Wayback CDX API
+53. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-52. SEO Split Test Using Python + CausalImpact + Tag Manager
-53. Stratified Sampling Using Google Analytics + Python
-54. SEO Split-Testing Experiments using Google Tag Manager
-55. CausalImpact for SEO
-56. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+54. SEO Split Test Using Python + CausalImpact + Tag Manager
+55. Stratified Sampling Using Google Analytics + Python
+56. SEO Split-Testing Experiments using Google Tag Manager
+57. CausalImpact for SEO
+58. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
