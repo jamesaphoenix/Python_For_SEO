@@ -130,7 +130,7 @@ You can also find the YouTube content on the two following channels:
 
 39. Automatically Creating Text With GP2-Simple
 40. Automatically Creating Title Tags + Meta Descriptions
-
+40.1 Automatically Generate Image Captions with Pythia & MMF
 
 ## Social Media Text-Mining
 
