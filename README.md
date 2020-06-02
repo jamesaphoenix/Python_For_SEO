@@ -141,33 +141,35 @@ You can also find the YouTube content on the two following channels:
 
 ## Intent Classification
 
-45. Intent Classification of Keywords With Deep Learning
+45. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
+46. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
+
 
 ## Competitor / Content Research
 
-46. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-47. Find PeopleAlsoAsked Questions
+47. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+48. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-48. Internal Links Graphs with NetworkX + Internal Link Recommendations
+49. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-49. How to use Selemium With Python
-50 How to run CRON jobs for SEO
-51. How to run Cloud Functions + Cloud Tasks for SEO
+50. How to use Selemium With Python
+51 How to run CRON jobs for SEO
+52. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-52. How To Find A List Of Old URLs with Wayback CDX API
+53. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-53. SEO Split Test Using Python + CausalImpact + Tag Manager
-54. Stratified Sampling Using Google Analytics + Python
-55. SEO Split-Testing Experiments using Google Tag Manager
-56. CausalImpact for SEO
-57. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+54. SEO Split Test Using Python + CausalImpact + Tag Manager
+55. Stratified Sampling Using Google Analytics + Python
+56. SEO Split-Testing Experiments using Google Tag Manager
+57. CausalImpact for SEO
+58. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
