@@ -128,7 +128,7 @@ You can also find the YouTube content on the two following channels:
 
 ## Automatic Text Generation
 
-39. Automatically Creating Text With GP2-Simple
+39. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
 40. Automatically Creating Title Tags + Meta Descriptions
 40.1 Automatically Generate Image Captions with Pythia & MMF
 
