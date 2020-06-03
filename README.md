@@ -138,38 +138,39 @@ You can also find the YouTube content on the two following channels:
 42. Topic Modelling With Social Media Data
 43. Network Analysis With Social Media Data
 44. How To Do Influencer Research With The Twitter API
+45. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
 
 ## Intent Classification
 
-45. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
-46. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
+46. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
+47. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
 
 
 ## Competitor / Content Research
 
-47. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-48. Find PeopleAlsoAsked Questions
+48. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+49. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-49. Internal Links Graphs with NetworkX + Internal Link Recommendations
+50. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-50. How to use Selemium With Python
-51 How to run CRON jobs for SEO
-52. How to run Cloud Functions + Cloud Tasks for SEO
+51. How to use Selemium With Python
+52 How to run CRON jobs for SEO
+53. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-53. How To Find A List Of Old URLs with Wayback CDX API
+54. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-54. SEO Split Test Using Python + CausalImpact + Tag Manager
-55. Stratified Sampling Using Google Analytics + Python
-56. SEO Split-Testing Experiments using Google Tag Manager
-57. CausalImpact for SEO
-58. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+55. SEO Split Test Using Python + CausalImpact + Tag Manager
+56. Stratified Sampling Using Google Analytics + Python
+57. SEO Split-Testing Experiments using Google Tag Manager
+58. CausalImpact for SEO
+59. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
