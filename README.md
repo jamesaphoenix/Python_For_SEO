@@ -160,17 +160,18 @@ You can also find the YouTube content on the two following channels:
 51. How to use Selemium With Python
 52 How to run CRON jobs for SEO
 53. How to run Cloud Functions + Cloud Tasks for SEO
+54. How to run Screaming Frog inside of a .sh bash script / OS packages to automate your ScreamingFrog Data Pipelines!
 
 ## SEO Migrations
-54. How To Find A List Of Old URLs with Wayback CDX API
+55. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-55. SEO Split Test Using Python + CausalImpact + Tag Manager
-56. Stratified Sampling Using Google Analytics + Python
-57. SEO Split-Testing Experiments using Google Tag Manager
-58. CausalImpact for SEO
-59. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+56. SEO Split Test Using Python + CausalImpact + Tag Manager
+57. Stratified Sampling Using Google Analytics + Python
+58. SEO Split-Testing Experiments using Google Tag Manager
+59. CausalImpact for SEO
+60. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
