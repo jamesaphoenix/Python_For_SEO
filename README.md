@@ -2,7 +2,7 @@
 
 ![PythonForSEO](https://sempioneer.com/wp-content/uploads/2020/05/Python-For-SEO.png)
 
-A 40 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
+A 65 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
 Prerequisites:
@@ -115,63 +115,67 @@ You can also find the YouTube content on the two following channels:
 
 33. Google Drive Automation 
 
-## Wordpress Automation
+## Wordpress Automation + Shopify
 
 34. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
 35. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
 36. Creating JSON-LD Schema With Python
+37. How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
+38. How To Find The Fastest Shopify Theme Using Google Page Speed Insights
 
 ## Content Promotion
 
-37. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-38. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
+39. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
+40. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
 
 ## Automatic Text Generation
 
-39. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
-40. Automatically Creating Title Tags + Meta Descriptions
-40.1 Automatically Generate Image Captions with Pythia & MMF
+41. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
+42. Automatically Creating Title Tags + Meta Descriptions
+43. Automatically Generate Image Captions with Pythia & MMF
+44. Automatically Generate Meta Descriptions At Scale
 
 ## Social Media Text-Mining
 
-41. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-42. Topic Modelling With Social Media Data
-43. Network Analysis With Social Media Data
-44. How To Do Influencer Research With The Twitter API
-45. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
+45. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+46. Topic Modelling With Social Media Data
+47. Network Analysis With Social Media Data
+48. How To Do Influencer Research With The Twitter API
+49. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
 
 ## Intent Classification
 
-46. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
-47. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
+50. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
+51. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
 
 
 ## Competitor / Content Research
 
-48. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-49. Find PeopleAlsoAsked Questions
+52. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+53. Find PeopleAlsoAsked Questions
+54. How To Find SERP Feature Content Gaps (Comparing Existing Content Features on the SERPs vs JSON elements that map to these content elements) - https://www.slideshare.net/hamletbatista/scaling-keyword-research-to-find-content-gaps
 
 ## Internal Links
 
-50. Internal Links Graphs with NetworkX + Internal Link Recommendations
+55. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-51. How to use Selemium With Python
-52 How to run CRON jobs for SEO
-53. How to run Cloud Functions + Cloud Tasks for SEO
-54. How to run Screaming Frog inside of a .sh bash script / OS packages to automate your ScreamingFrog Data Pipelines!
+56. How to use Selemium With Python
+57 How to run CRON jobs for SEO
+58. How to run Cloud Functions + Cloud Tasks for SEO
+59. How to run Screaming Frog inside of a .sh bash script / OS packages to automate your ScreamingFrog Data Pipelines!
 
 ## SEO Migrations
-55. How To Find A List Of Old URLs with Wayback CDX API
+60. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-56. SEO Split Test Using Python + CausalImpact + Tag Manager
-57. Stratified Sampling Using Google Analytics + Python
-58. SEO Split-Testing Experiments using Google Tag Manager
-59. CausalImpact for SEO
-60. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+61. SEO Split Test Using Python + CausalImpact + Tag Manager
+62. Stratified Sampling Using Google Analytics + Python
+63. SEO Split-Testing Experiments using Google Tag Manager
+64. CausalImpact for SEO
+65. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
@@ -180,3 +184,29 @@ You can also find the YouTube content on the two following channels:
 - Bonus Content: Web scraping Quora with Selenium
 - Bonus Content: How to curate all of the Facebook Groups, LinkedIn Groups for a specific niche with Python
 - Bonus Content: Automatically generate sentences / novels with GPT2
+
+## Useful Python Packages For AI Marketers
+- [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+- [Sci-kit learn](https://scikit-learn.org/)
+- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- [Data Manipulation](https://pandas.pydata.org/)
+
+## Useful Resources For AI Marketers
+### SEO APIs
+[Dataforseo](https://dataforseo.com/)  
+[SEMrush](https://www.semrush.com/api-documentation/)  
+[Ahrefs](https://ahrefs.com/api)  
+[SEOmoz](https://moz.com/api) 
+[OPR](https://www.domcop.com/openpagerank/documentation)  
+[OnCrawl](http://developer.oncrawl.com/) 
+
+### Useful APIs for Internal Data Pipelines & Internal Operations / Reporting
+[Google Search Console](https://developers.google.com/webmaster-tools)
+[Google Analytics]((https://developers.google.com/analytics/devguides/reporting/core/v4)
+[Google Analytics Management API](https://developers.google.com/analytics/devguides/config/mgmt/v3)
+[Google Drive API](https://developers.google.com/drive/api/v3/about-sdk)
+[Google Docs API](https://developers.google.com/docs/api)
+[Google Sheets API](https://developers.google.com/sheets/api)
+
+### Link Database
+[CommonCrawl](https://commoncrawl.org/)
