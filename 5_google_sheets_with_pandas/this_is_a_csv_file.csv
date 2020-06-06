@@ -2,10 +2,7 @@ Keyword,Country,Difficulty,Volume,CPC,Clicks,CPS,Return Rate,Parent Keyword,Last
 coast,gb,42,70000,2.5,64715,NA,1.67,coast,2020-05-09 23:55:39,Sitelinks
 hubspot,gb,67,63000,5,59708,NA,2.34,hubspot,2020-05-09 00:57:01,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
 Test,Test,Test,Test,Test,Test,Test,Test,Test,Test,
-and digital,gb,11,3100,0,3219,NA,1.45,and digital,2020-05-09 12:29:16,"Sitelinks, Image pack"
-hub spot,gb,53,2600,7,1820,NA,1.37,hubspot,2020-05-05 05:59:21,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box"
-online marketing,gb,70,2200,10,1370,NA,1.23,online marketing,2020-05-07 12:26:37,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-digital marketer,gb,73,1500,Other,1096,NA,1.31,digital marketer,2020-05-05 15:13:56,"Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
+digital marketer,gb,73,1500,NaN,1096,NA,1.31,digital marketer,2020-05-05 15:13:56,"Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
 coast uk,gb,21,1400,0.15,1290,NA,1.6,coast,2020-05-10 07:36:46,"Sitelinks, Image pack"
 what is this,gb,39,1400,0,311,NA,1.08,what is this,2020-05-04 14:29:05,"Sitelinks, People also ask, Top stories, Thumbnails"
 climb online,gb,3,1300,0,1228,NA,1.2,climb online,2020-05-04 21:52:16,"Sitelinks, Top stories, Thumbnails"
@@ -39,7 +36,7 @@ digital marketing job description,gb,21,450,2.5,405,NA,1.25,digital marketing jo
 digital channels,gb,32,450,3.5,261,NA,1.19,digital marketing channels,2020-04-26 20:18:52,"Featured snippet, People also ask, Image pack, Top stories, Thumbnails"
 marketing digital,gb,69,450,6,291,NA,1.23,digital marketing,2020-04-29 06:22:36,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
 passion digital,gb,1,450,0.35,391,NA,1.43,digital marketing agency,2020-05-01 07:33:02,"Adwords top, Sitelinks, Top stories, Thumbnails"
-detailed online,gb,0,450,Other,391,NA,1.62,detailed online,2020-05-03 13:55:48,"Sitelinks, Top stories, Thumbnails"
+detailed online,gb,0,450,NaN,391,NA,1.62,detailed online,2020-05-03 13:55:48,"Sitelinks, Top stories, Thumbnails"
 digital agency london,gb,52,450,10,1297,NA,1.71,marketing agency,2020-04-29 07:33:16,"Adwords top, Sitelinks"
 define business,gb,64,400,0,46,NA,1.1,business definition,2020-04-30 23:54:18,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
 marketing agencies london,gb,21,400,4.5,675,NA,1.72,marketing agency,2020-05-01 20:07:21,People also ask
@@ -48,29 +45,29 @@ what is digital media,gb,13,400,0.8,226,NA,1.22,digital media,2020-05-04 08:46:4
 marketing services,gb,5,400,6,266,NA,1.26,marketing services,2020-05-05 10:51:03,"People also ask, Sitelinks, Image pack"
 digital marketing london,gb,41,400,9,777,NA,1.87,digital marketing agency,2020-05-02 02:45:42,"Sitelinks, Adwords bottom"
 digital business,gb,33,400,5,198,NA,1.19,digital company,2020-04-26 19:12:35,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
-agency online,gb,66,350,4.5,Other,NA,NaN,agency online,2020-04-15 18:50:27,"Sitelinks, Adwords bottom"
+agency online,gb,66,350,4.5,NaN,NA,NaN,agency online,2020-04-15 18:50:27,"Sitelinks, Adwords bottom"
 seo services london,gb,44,350,25,320,NA,2.74,seo services london,2020-05-01 03:22:55,"Adwords bottom, Sitelinks"
 define more,gb,85,350,0,25,NA,1.39,more,2020-05-07 08:19:44,"Knowledge card, Sitelinks, People also ask"
 digital technology definition,gb,12,350,1.4,207,NA,1.11,digital technology,2020-04-23 10:34:31,"Featured snippet, People also ask, Top stories, Thumbnails"
 digital marketing campaign,gb,39,300,11,217,NA,1.36,marketing pricing,2020-04-26 22:21:26,"Adwords top, Sitelinks, Featured snippet, People also ask"
 marketing online,gb,70,300,10,170,NA,1.25,online marketing,2020-05-03 04:10:16,"People also ask, Top stories, Thumbnails, Adwords bottom, Sitelinks"
 on digital,gb,62,300,0,229,NA,1.09,itv digital,2020-04-21 02:44:49,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
-www coast,gb,4,300,0.1,Other,NA,NaN,coast,2020-04-24 04:09:23,Sitelinks
-what is this?,gb,74,300,Other,122,NA,1.12,what is this,2020-04-29 07:44:47,"Sitelinks, Top stories, Thumbnails, Image pack"
+www coast,gb,4,300,0.1,NaN,NA,NaN,coast,2020-04-24 04:09:23,Sitelinks
+what is this?,gb,74,300,NaN,122,NA,1.12,what is this,2020-04-29 07:44:47,"Sitelinks, Top stories, Thumbnails, Image pack"
 social media companies,gb,25,300,7,236,NA,1.12,social media marketing agency,2020-05-03 17:36:49,"Adwords top, Sitelinks, People also ask, Adwords bottom"
 define numerous,gb,21,300,0,17,NA,1.16,numerous,2020-05-01 19:04:37,"Knowledge card, People also ask, Top stories, Thumbnails"
 online media,gb,22,300,1.2,92,NA,1.13,digital media,2020-04-26 07:13:11,"Sitelinks, People also ask, Top stories, Thumbnails"
 marketing blogs,gb,30,300,2,382,NA,1.2,marketing blogs,2020-04-28 10:39:10,Sitelinks
 what is digital,gb,30,300,0,310,NA,1.23,digital,2020-04-30 23:40:03,"People also ask, Sitelinks, Top stories, Thumbnails"
-define constitutes,gb,8,300,Other,23,NA,1.13,constitute,2020-05-04 07:32:28,"Knowledge card, People also ask"
+define constitutes,gb,8,300,NaN,23,NA,1.13,constitute,2020-05-04 07:32:28,"Knowledge card, People also ask"
 digital marketing agencies,gb,35,300,15,473,NA,1.48,digital marketing agency,2020-05-08 20:03:47,"Adwords top, Sitelinks, Adwords bottom"
 hibspot,gb,67,300,2,265,NA,1.7,hubspot,2020-04-28 19:35:38,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-www coast co uk,gb,4,300,0.35,Other,NA,NaN,coast,2020-04-16 15:46:51,Sitelinks
+www coast co uk,gb,4,300,0.35,NaN,NA,NaN,coast,2020-04-16 15:46:51,Sitelinks
 digital marketing specialist,gb,1,250,5,125,NA,1.14,digital marketing specialist,2020-04-17 06:52:02,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-discuss the market,gb,52,250,6,Other,NA,NaN,discuss the market,2020-04-25 21:11:47,"Sitelinks, Top stories, Thumbnails"
+discuss the market,gb,52,250,6,NaN,NA,NaN,discuss the market,2020-04-25 21:11:47,"Sitelinks, Top stories, Thumbnails"
 digital marketing companies,gb,46,250,14,429,NA,1.3,digital marketing agency,2020-04-26 20:53:34,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-online marketing company,gb,63,250,13,Other,NA,NaN,online marketing company,2020-04-29 13:28:21,"People also ask, Sitelinks"
-digital marketing agencies london,gb,44,250,Other,460,NA,1.49,marketing agency,2020-04-27 18:11:44,NaN
+online marketing company,gb,63,250,13,NaN,NA,NaN,online marketing company,2020-04-29 13:28:21,"People also ask, Sitelinks"
+digital marketing agencies london,gb,44,250,NaN,460,NA,1.49,marketing agency,2020-04-27 18:11:44,NaN
 hubsport,gb,63,250,3,158,NA,1.06,hubspot,2020-04-21 05:01:09,"Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
 digital marketing agency near me,gb,59,250,12,134,NA,1.27,digital marketing agency,2020-05-07 19:24:04,NaN
 marketing companies near me,gb,22,250,5,456,NA,1.49,digital marketing agency london,2020-04-24 22:54:04,"Adwords top, Sitelinks, Adwords bottom"
@@ -79,28 +76,28 @@ email marketing agency,gb,8,250,17,480,NA,2,email marketing agency,2020-04-25 12
 what is a media agency,gb,2,250,3.5,214,NA,1.32,media agency,2020-05-07 10:29:32,"People also ask, Top stories, Thumbnails"
 define digital,gb,42,250,0,84,NA,1.24,digital,2020-04-28 12:56:47,"Knowledge card, People also ask, Top stories, Thumbnails"
 marketing companies london,gb,10,250,3,352,NA,1.59,marketing agency,2020-04-17 03:12:18,People also ask
-services meaning,gb,48,200,Other,30,NA,1.18,services,2020-05-09 12:28:03,"Knowledge card, People also ask, Sitelinks, Videos"
+services meaning,gb,48,200,NaN,30,NA,1.18,services,2020-05-09 12:28:03,"Knowledge card, People also ask, Sitelinks, Videos"
 digital agencies london,gb,50,200,17,456,NA,1.91,digital marketing agency,2020-04-19 12:13:25,"Adwords top, Sitelinks, Adwords bottom"
 social media marketing london,gb,8,200,8,294,NA,1.73,social media agency london,2020-04-20 08:50:31,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
 digital campaign,gb,41,200,0,134,NA,1.2,digital campaign,2020-04-22 16:30:04,"People also ask, Image pack"
 types of digital marketing,gb,42,200,11,184,NA,1.13,types of digital marketing,2020-05-02 02:09:05,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-internet marketing service,gb,39,200,4,Other,NA,NaN,digital marketing services,2020-04-14 02:30:47,"People also ask, Sitelinks"
-marketeer meaning,gb,6,200,Other,23,NA,1.18,marketeer,2020-04-24 09:50:43,"Knowledge card, People also ask, Videos, Image pack"
-regardless marketing,gb,0,200,Other,211,NA,1.5,regardless marketing,2020-05-04 07:36:25,NaN
+internet marketing service,gb,39,200,4,NaN,NA,NaN,digital marketing services,2020-04-14 02:30:47,"People also ask, Sitelinks"
+marketeer meaning,gb,6,200,NaN,23,NA,1.18,marketeer,2020-04-24 09:50:43,"Knowledge card, People also ask, Videos, Image pack"
+regardless marketing,gb,0,200,NaN,211,NA,1.5,regardless marketing,2020-05-04 07:36:25,NaN
 social media marketing companies,gb,15,200,13,221,NA,1.25,social media agency,2020-04-24 05:41:15,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
 search marketing,gb,28,200,6,149,NA,1.23,search engine marketing,2020-05-02 19:25:26,People also ask
-digital marketing companies london,gb,41,200,11,Other,NA,NaN,digital marketing agency london,2020-04-20 16:40:13,"Adwords top, Sitelinks, Adwords bottom"
+digital marketing companies london,gb,41,200,11,NaN,NA,NaN,digital marketing agency london,2020-04-20 16:40:13,"Adwords top, Sitelinks, Adwords bottom"
 online meaning,gb,29,200,2.5,53,NA,1.07,online,2020-04-25 13:44:02,"Knowledge card, People also ask, Top stories, Thumbnails"
 digital media definition,gb,10,200,0.5,73,NA,1.13,digital media,2020-04-28 06:10:21,"Sitelinks, People also ask, Videos, Top stories, Thumbnails"
 digital marketing techniques,gb,62,200,9,219,NA,1.26,digital marketing techniques,2020-05-01 15:45:19,"Featured snippet, Thumbnails, People also ask, Top stories"
-marketing-online,gb,70,200,12,Other,NA,NaN,online marketing,2020-05-03 04:10:27,"People also ask, Top stories, Thumbnails"
+marketing-online,gb,70,200,12,NaN,NA,NaN,online marketing,2020-05-03 04:10:27,"People also ask, Top stories, Thumbnails"
 coast online,gb,2,200,0.15,190,NA,1.69,coast,2020-05-01 16:30:44,Sitelinks
-media channels,gb,33,200,Other,87,NA,1.1,marketing channels,2020-04-28 06:11:20,"Featured snippet, Thumbnails, People also ask"
+media channels,gb,33,200,NaN,87,NA,1.1,marketing channels,2020-04-28 06:11:20,"Featured snippet, Thumbnails, People also ask"
 can definition,gb,19,200,0,28,NA,1.09,can,2020-05-01 08:25:22,"Knowledge card, Sitelinks, People also ask"
-internet marketing agency,gb,49,200,8,Other,NA,NaN,digital marketing agency,2020-05-09 00:49:38,NaN
-world of digital,gb,33,200,0,Other,NA,NaN,world of digital,2020-05-05 14:28:57,"Sitelinks, Top stories, Thumbnails"
-on-digital,gb,10,200,Other,Other,NA,NaN,itv digital,2020-05-01 14:22:17,"Sitelinks, People also ask, Top stories, Thumbnails"
-digital agency uk,gb,45,200,6,Other,NA,NaN,digital marketing agency,2020-04-29 16:12:19,Sitelinks
+internet marketing agency,gb,49,200,8,NaN,NA,NaN,digital marketing agency,2020-05-09 00:49:38,NaN
+world of digital,gb,33,200,0,NaN,NA,NaN,world of digital,2020-05-05 14:28:57,"Sitelinks, Top stories, Thumbnails"
+on-digital,gb,10,200,NaN,NaN,NA,NaN,itv digital,2020-05-01 14:22:17,"Sitelinks, People also ask, Top stories, Thumbnails"
+digital agency uk,gb,45,200,6,NaN,NA,NaN,digital marketing agency,2020-04-29 16:12:19,Sitelinks
 email meaning,gb,29,200,0.35,23,NA,1.14,definition of email,2020-05-02 09:05:41,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
 services marketing,gb,9,200,6,167,NA,1.32,what is service marketing,2020-04-29 01:22:22,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
 social media agency london,gb,28,200,11,457,NA,1.67,social media agency london,2020-05-07 14:34:02,"Sitelinks, Adwords bottom"
@@ -112,546 +109,545 @@ digital marketing blog,gb,69,150,6,158,NA,1.14,digital marketing blog,2020-04-17
 marketing blog,gb,30,150,6,208,NA,1.3,marketing blog,2020-04-26 11:08:57,Sitelinks
 seo digital marketing,gb,36,150,13,158,NA,1.36,seo marketing,2020-04-19 04:23:05,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails, Adwords bottom"
 digital media examples,gb,17,150,0,123,NA,1.06,digital media examples,2020-04-21 18:52:26,"Featured snippet, Thumbnails, People also ask"
-the who.com,gb,74,150,Other,131,NA,1.27,the who,2020-05-07 09:36:59,"Adwords top, Sitelinks, Top stories, Thumbnails, Image pack"
+the who.com,gb,74,150,NaN,131,NA,1.27,the who,2020-05-07 09:36:59,"Adwords top, Sitelinks, Top stories, Thumbnails, Image pack"
 digital media agency,gb,45,150,11,221,NA,1.22,marketing agency,2020-04-28 13:31:22,"Sitelinks, People also ask"
 coasr,gb,42,150,0.25,89,NA,1.1,coast,2020-04-29 23:11:46,"Sitelinks, People also ask, Top stories, Thumbnails"
 coadt,gb,43,150,0.15,111,NA,1.07,coast,2020-05-01 03:16:24,Sitelinks
 digital media marketing,gb,66,150,9,73,NA,1.16,digital marketing,2020-04-30 09:40:00,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
-marketing agencies near me,gb,46,150,4.5,Other,NA,NaN,marketing agency,2020-05-09 21:25:59,"Adwords top, Sitelinks, Adwords bottom"
+marketing agencies near me,gb,46,150,4.5,NaN,NA,NaN,marketing agency,2020-05-09 21:25:59,"Adwords top, Sitelinks, Adwords bottom"
 define all,gb,23,150,0,26,NA,1.26,all,2020-04-28 09:46:15,"Knowledge card, Sitelinks, People also ask, Top stories, Thumbnails"
-hubspo,gb,63,150,Other,148,NA,1.46,hubspot,2020-04-26 01:10:38,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+hubspo,gb,63,150,NaN,148,NA,1.46,hubspot,2020-04-26 01:10:38,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
 whats more,gb,0,150,0,41,NA,1.1,what's more,2020-04-26 16:57:16,"Knowledge card, People also ask, Top stories, Thumbnails"
-london digital agency,gb,56,150,11,Other,NA,NaN,marketing agency,2020-04-29 14:02:27,"Adwords top, Sitelinks, Adwords bottom"
+london digital agency,gb,56,150,11,NaN,NA,NaN,marketing agency,2020-04-29 14:02:27,"Adwords top, Sitelinks, Adwords bottom"
 website marketing,gb,30,150,7,75,NA,1.13,marketing website,2020-04-29 16:37:11,"Featured snippet, People also ask"
 post meaning after,gb,37,150,0,34,NA,1.2,post,2020-05-01 14:52:01,"Featured snippet, People also ask, Videos"
-marketing agency reading,gb,6,150,6,Other,NA,NaN,marketing agency reading,2020-05-01 22:59:53,NaN
-the who .com,gb,77,150,1.3,Other,NA,NaN,the who,2020-04-19 21:42:36,"Sitelinks, Top stories, Thumbnails"
+marketing agency reading,gb,6,150,6,NaN,NA,NaN,marketing agency reading,2020-05-01 22:59:53,NaN
+the who .com,gb,77,150,1.3,NaN,NA,NaN,the who,2020-04-19 21:42:36,"Sitelinks, Top stories, Thumbnails"
 digital marketing blogs,gb,64,150,6,178,NA,1.44,digital marketing blog,2020-05-02 11:59:44,Sitelinks
-what's the time today,gb,68,150,0,Other,NA,NaN,time,2020-04-19 05:39:57,"Knowledge card, Sitelinks, People also ask"
+what's the time today,gb,68,150,0,NaN,NA,NaN,time,2020-04-19 05:39:57,"Knowledge card, Sitelinks, People also ask"
 online post,gb,77,150,0,138,NA,2.35,click and drop,2020-04-17 00:38:55,Sitelinks
-marketer meaning,gb,3,150,Other,42,NA,1.13,marketer,2020-05-04 08:17:54,"Knowledge card, People also ask"
+marketer meaning,gb,3,150,NaN,42,NA,1.13,marketer,2020-05-04 08:17:54,"Knowledge card, People also ask"
 full fat pr,gb,0,150,0,184,NA,1.3,full fat,2020-04-30 15:45:29,"Sitelinks, Top stories, Thumbnails, Videos"
 digital uk website,gb,67,150,0.8,150,NA,1.08,digital uk,2020-04-29 17:18:51,"Sitelinks, People also ask"
-digital marketing services birmingham,gb,17,150,Other,Other,NA,NaN,digital agency birmingham,2020-05-09 20:34:54,Featured snippet
+digital marketing services birmingham,gb,17,150,NaN,NaN,NA,NaN,digital agency birmingham,2020-05-09 20:34:54,Featured snippet
 top marketing agencies london,gb,10,150,6,162,NA,1.32,marketing agency,2020-05-03 02:45:08,People also ask
-who is this?,gb,95,150,Other,40,NA,1.23,whois,2020-05-03 21:53:48,"Sitelinks, Top stories, Thumbnails"
+who is this?,gb,95,150,NaN,40,NA,1.23,whois,2020-05-03 21:53:48,"Sitelinks, Top stories, Thumbnails"
 digital promotion,gb,6,150,2.5,109,NA,1.25,digital promotion,2020-05-08 23:54:42,"Featured snippet, People also ask, Videos"
 head of digital marketing,gb,0,150,0.9,53,NA,1.24,head of digital marketing,2020-04-16 22:07:17,NaN
 digital marketing examples,gb,35,150,4.5,141,NA,1.13,digital marketing,2020-04-25 11:17:09,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-internet marketing company,gb,38,150,12,Other,NA,NaN,marketing company,2020-05-03 07:23:11,"Featured snippet, People also ask"
+internet marketing company,gb,38,150,12,NaN,NA,NaN,marketing company,2020-05-03 07:23:11,"Featured snippet, People also ask"
 online marketing agency,gb,64,150,14,198,NA,1.15,digital marketing agency,2020-04-26 03:58:13,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-website design nottingham,gb,37,150,13,Other,NA,NaN,web design nottingham,2020-04-29 15:39:22,"Adwords bottom, Sitelinks"
+website design nottingham,gb,37,150,13,NaN,NA,NaN,web design nottingham,2020-04-29 15:39:22,"Adwords bottom, Sitelinks"
 garish definition,gb,9,150,0,28,NA,1.1,garish,2020-05-04 01:27:31,"Knowledge card, People also ask, Videos"
-digitals,gb,61,150,Other,37,NA,1.21,digital spy,2020-04-20 19:58:53,"Sitelinks, People also ask, Image pack"
+digitals,gb,61,150,NaN,37,NA,1.21,digital spy,2020-04-20 19:58:53,"Sitelinks, People also ask, Image pack"
 info meaning,gb,4,150,0,54,NA,1.11,info meaning,2020-04-28 02:17:15,"Knowledge card, People also ask, Videos"
 who is website,gb,95,150,0.8,202,NA,1.12,whois,2020-04-22 17:23:17,Sitelinks
-according to meaning,gb,9,150,Other,14,NA,1.13,according,2020-04-17 21:30:15,"Featured snippet, People also ask"
+according to meaning,gb,9,150,NaN,14,NA,1.13,according,2020-04-17 21:30:15,"Featured snippet, People also ask"
 learn digital marketing,gb,49,150,11,90,NA,1.13,digital,2020-04-30 23:50:55,"Adwords top, Featured snippet, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-the who com,gb,75,150,1.2,Other,NA,NaN,the who,2020-04-29 03:17:16,"Sitelinks, Tweet box, Top stories, Thumbnails"
-media-marketing,gb,84,150,6,Other,NA,NaN,social media marketing,2020-05-04 09:37:45,"Featured snippet, Thumbnails"
-strategy internet marketing,gb,68,150,8,Other,NA,NaN,strategy internet marketing,2020-04-29 08:17:15,"Featured snippet, Thumbnails, People also ask"
+the who com,gb,75,150,1.2,NaN,NA,NaN,the who,2020-04-29 03:17:16,"Sitelinks, Tweet box, Top stories, Thumbnails"
+media-marketing,gb,84,150,6,NaN,NA,NaN,social media marketing,2020-05-04 09:37:45,"Featured snippet, Thumbnails"
+strategy internet marketing,gb,68,150,8,NaN,NA,NaN,strategy internet marketing,2020-04-29 08:17:15,"Featured snippet, Thumbnails, People also ask"
 online marketing strategies,gb,56,150,7,109,NA,1.62,online marketing,2020-04-27 14:54:17,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
 why digital marketing,gb,63,150,0,102,NA,1.05,digital marketing,2020-05-01 08:08:36,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
-who's definition,gb,2,150,Other,21,NA,1.13,who 's,2020-04-27 02:58:15,"Knowledge card, People also ask"
-why is digital marketing important,gb,43,150,Other,131,NA,1.2,role of digital marketing,2020-04-18 11:24:52,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-digital and social media marketing,gb,42,150,4,Other,NA,NaN,types of digital marketing,2020-04-26 13:14:20,"Adwords top, Sitelinks, Featured snippet, People also ask, Adwords bottom"
-search marketing agency,gb,51,150,25,Other,NA,NaN,search marketing agency,2020-04-24 18:47:07,"Adwords top, Sitelinks, Adwords bottom"
+who's definition,gb,2,150,NaN,21,NA,1.13,who 's,2020-04-27 02:58:15,"Knowledge card, People also ask"
+why is digital marketing important,gb,43,150,NaN,131,NA,1.2,role of digital marketing,2020-04-18 11:24:52,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+digital and social media marketing,gb,42,150,4,NaN,NA,NaN,types of digital marketing,2020-04-26 13:14:20,"Adwords top, Sitelinks, Featured snippet, People also ask, Adwords bottom"
+search marketing agency,gb,51,150,25,NaN,NA,NaN,search marketing agency,2020-04-24 18:47:07,"Adwords top, Sitelinks, Adwords bottom"
 methods digital,gb,0,150,0,166,NA,1.5,methods,2020-04-25 00:22:36,Sitelinks
 digital market,gb,83,150,30,78,NA,1.32,digital marketplace,2020-04-24 15:59:15,"Sitelinks, People also ask, Top stories, Thumbnails"
-advertising agencies near me,gb,32,150,4,Other,NA,NaN,advertising agencies near me,2020-05-08 16:46:06,People also ask
-role of digital marketing,gb,39,150,2.5,Other,NA,NaN,role of digital marketing,2020-04-16 00:32:32,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+advertising agencies near me,gb,32,150,4,NaN,NA,NaN,advertising agencies near me,2020-05-08 16:46:06,People also ask
+role of digital marketing,gb,39,150,2.5,NaN,NA,NaN,role of digital marketing,2020-04-16 00:32:32,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
 digital media companies,gb,25,150,4,162,NA,1.43,american internet and media company,2020-04-29 08:37:33,"Featured snippet, People also ask"
 social media company,gb,35,150,8,113,NA,1.26,social media marketing agency,2020-04-29 14:51:36,"People also ask, Image pack"
-whowhatwhy,gb,17,150,0,Other,NA,NaN,whowhatwhy,2020-04-25 19:07:23,"Sitelinks, Tweet box, Top stories, Thumbnails, Image pack, Videos"
-london marketing agency,gb,39,150,6,Other,NA,NaN,digital agency,2020-04-30 19:16:09,Sitelinks
+whowhatwhy,gb,17,150,0,NaN,NA,NaN,whowhatwhy,2020-04-25 19:07:23,"Sitelinks, Tweet box, Top stories, Thumbnails, Image pack, Videos"
+london marketing agency,gb,39,150,6,NaN,NA,NaN,digital agency,2020-04-30 19:16:09,Sitelinks
 website meaning,gb,49,150,1.1,18,NA,1.08,website - definition,2020-04-25 14:15:39,"Knowledge card, People also ask, Sitelinks"
-full service agency,gb,5,150,4,Other,NA,NaN,full service agency,2020-04-23 15:34:16,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-content marketing agency london,gb,36,150,16,Other,NA,NaN,content marketing agency,2020-04-30 01:56:51,"Featured snippet, Sitelinks"
+full service agency,gb,5,150,4,NaN,NA,NaN,full service agency,2020-04-23 15:34:16,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+content marketing agency london,gb,36,150,16,NaN,NA,NaN,content marketing agency,2020-04-30 01:56:51,"Featured snippet, Sitelinks"
 media companies near me,gb,29,150,2,184,NA,1.43,social media management,2020-04-17 08:51:38,NaN
-marketing work,gb,23,100,3,Other,NA,NaN,marketing executive,2020-04-15 22:12:02,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories, Image pack, Adwords bottom"
-huspot,gb,67,100,Other,62,NA,1,hubspot,2020-04-28 22:51:53,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-online marketing services,gb,26,100,7,Other,NA,NaN,digital marketing services,2020-04-26 10:57:52,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-content marketing companies,gb,10,100,Other,Other,NA,NaN,content marketing agency,2020-04-18 15:20:02,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Adwords bottom"
+marketing work,gb,23,100,3,NaN,NA,NaN,marketing executive,2020-04-15 22:12:02,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories, Image pack, Adwords bottom"
+huspot,gb,67,100,NaN,62,NA,1,hubspot,2020-04-28 22:51:53,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+online marketing services,gb,26,100,7,NaN,NA,NaN,digital marketing services,2020-04-26 10:57:52,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+content marketing companies,gb,10,100,NaN,NaN,NA,NaN,content marketing agency,2020-04-18 15:20:02,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Adwords bottom"
 what is digital advertising,gb,12,100,1.8,99,NA,1.29,what is digital advertising,2020-05-08 01:19:59,"People also ask, Sitelinks, Top stories, Thumbnails"
 digital marketing solutions,gb,39,100,7,64,NA,1.17,digital marketing solutions,2020-04-17 01:45:34,"Adwords top, Sitelinks, Featured snippet, People also ask, Adwords bottom"
 definition of digital marketing,gb,66,100,0,102,NA,1.35,digital marketing,2020-04-21 08:06:04,"Sitelinks, People also ask, Top stories, Thumbnails"
 define digital marketing,gb,64,100,0,65,NA,1.22,digital marketing,2020-04-26 19:21:19,"Adwords top, People also ask, Sitelinks, Top stories, Thumbnails"
 what does comprise mean,gb,14,100,0,7,NA,1.1,comprise,2020-04-23 01:17:28,"Knowledge card, People also ask, Top stories, Thumbnails"
-hubspot marketing blog,gb,79,100,0,Other,NA,NaN,marketing blog,2020-04-17 04:19:42,"Sitelinks, Image pack"
-online marketing london,gb,41,100,1,Other,NA,NaN,online marketing london,2020-04-23 10:40:58,NaN
-search marketing company,gb,71,100,12,Other,NA,NaN,digital marketing agency,2020-05-10 03:55:11,NaN
+hubspot marketing blog,gb,79,100,0,NaN,NA,NaN,marketing blog,2020-04-17 04:19:42,"Sitelinks, Image pack"
+online marketing london,gb,41,100,1,NaN,NA,NaN,online marketing london,2020-04-23 10:40:58,NaN
+search marketing company,gb,71,100,12,NaN,NA,NaN,digital marketing agency,2020-05-10 03:55:11,NaN
 ppc online,gb,71,100,13,72,NA,1.19,nhs prepayment card,2020-04-28 12:36:43,"People also ask, Top stories, Thumbnails"
-meaning of create,gb,15,100,Other,Other,NA,NaN,create,2020-05-03 07:08:20,"Knowledge card, People also ask"
+meaning of create,gb,15,100,NaN,NaN,NA,NaN,create,2020-05-03 07:08:20,"Knowledge card, People also ask"
 why work in digital marketing,gb,0,100,0,157,NA,1.67,why work in digital marketing,2020-04-28 15:00:24,"Featured snippet, Thumbnails, People also ask"
-digital marketing companies in uk,gb,56,100,14,Other,NA,NaN,digital marketing agency,2020-05-04 10:38:02,"Featured snippet, Adwords bottom, Sitelinks"
-like digital,gb,1,100,Other,86,NA,1.32,like digital,2020-05-06 07:16:55,"Sitelinks, Image pack, Top stories, Thumbnails"
+digital marketing companies in uk,gb,56,100,14,NaN,NA,NaN,digital marketing agency,2020-05-04 10:38:02,"Featured snippet, Adwords bottom, Sitelinks"
+like digital,gb,1,100,NaN,86,NA,1.32,like digital,2020-05-06 07:16:55,"Sitelinks, Image pack, Top stories, Thumbnails"
 how to get into digital marketing,gb,5,100,12,131,NA,1.22,how to get into marketing,2020-04-23 13:33:47,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
-digital company,gb,46,100,4.5,Other,NA,NaN,top it companies,2020-05-08 13:31:18,"Top stories, Thumbnails, People also ask"
-online marketing strategy,gb,62,100,6,Other,NA,NaN,strategy internet marketing,2020-04-18 10:01:05,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails, Image pack"
-online marketing business,gb,56,100,8,Other,NA,NaN,marketing agency,2020-05-05 22:21:52,"People also ask, Top stories, Thumbnails"
-marketing agency essex,gb,47,100,3.5,Other,NA,NaN,revive digital media,2020-05-05 18:36:36,NaN
-social media companies london,gb,17,100,8,Other,NA,NaN,social media marketing agency,2020-04-23 19:06:43,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
-define services,gb,13,100,Other,Other,NA,NaN,service's,2020-05-05 23:20:15,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
-definition of a business,gb,65,100,0,Other,NA,NaN,business definition,2020-05-05 22:14:51,"Knowledge card, People also ask, Sitelinks, Videos"
-top digital marketing agencies,gb,24,100,14,Other,NA,NaN,marketing agency,2020-04-14 06:42:38,"Sitelinks, People also ask"
+digital company,gb,46,100,4.5,NaN,NA,NaN,top it companies,2020-05-08 13:31:18,"Top stories, Thumbnails, People also ask"
+online marketing strategy,gb,62,100,6,NaN,NA,NaN,strategy internet marketing,2020-04-18 10:01:05,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails, Image pack"
+online marketing business,gb,56,100,8,NaN,NA,NaN,marketing agency,2020-05-05 22:21:52,"People also ask, Top stories, Thumbnails"
+marketing agency essex,gb,47,100,3.5,NaN,NA,NaN,revive digital media,2020-05-05 18:36:36,NaN
+social media companies london,gb,17,100,8,NaN,NA,NaN,social media marketing agency,2020-04-23 19:06:43,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
+define services,gb,13,100,NaN,NaN,NA,NaN,service's,2020-05-05 23:20:15,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
+definition of a business,gb,65,100,0,NaN,NA,NaN,business definition,2020-05-05 22:14:51,"Knowledge card, People also ask, Sitelinks, Videos"
+top digital marketing agencies,gb,24,100,14,NaN,NA,NaN,marketing agency,2020-04-14 06:42:38,"Sitelinks, People also ask"
 digital marketing platforms,gb,73,100,5,98,NA,1.17,digital marketing platforms,2020-05-04 01:48:16,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-definition of digital,gb,34,100,0,Other,NA,NaN,digital,2020-04-19 23:09:45,"Knowledge card, People also ask"
-online marketing companies,gb,48,100,25,Other,NA,NaN,digital marketing agency,2020-04-18 10:50:21,"Featured snippet, People also ask"
-business define,gb,64,100,Other,45,NA,1.11,business definition,2020-04-24 22:00:55,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
-social media advertising agency,gb,7,100,13,Other,NA,NaN,social media advertising,2020-05-08 20:20:04,"Adwords top, Sitelinks, Adwords bottom"
+definition of digital,gb,34,100,0,NaN,NA,NaN,digital,2020-04-19 23:09:45,"Knowledge card, People also ask"
+online marketing companies,gb,48,100,25,NaN,NA,NaN,digital marketing agency,2020-04-18 10:50:21,"Featured snippet, People also ask"
+business define,gb,64,100,NaN,45,NA,1.11,business definition,2020-04-24 22:00:55,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
+social media advertising agency,gb,7,100,13,NaN,NA,NaN,social media advertising,2020-05-08 20:20:04,"Adwords top, Sitelinks, Adwords bottom"
 digital marketing roles,gb,12,100,4,63,NA,1.09,digital marketing job description,2020-05-01 03:10:23,"Featured snippet, Thumbnails, People also ask, Sitelinks"
 importance of digital marketing,gb,40,100,4.5,100,NA,1.17,role of digital marketing,2020-04-24 13:52:05,"Adwords top, Featured snippet, Thumbnails, People also ask"
-key-digital,gb,4,100,Other,Other,NA,NaN,key digital,2020-05-03 04:46:31,"Adwords top, Sitelinks, Top stories, Thumbnails"
+key-digital,gb,4,100,NaN,NaN,NA,NaN,key digital,2020-05-03 04:46:31,"Adwords top, Sitelinks, Top stories, Thumbnails"
 digital marketing uk,gb,56,100,7,72,NA,1.14,digital marketing agency,2020-05-05 05:17:18,"Adwords bottom, Sitelinks"
 caost,gb,42,100,0.2,89,NA,1.14,coast,2020-04-20 13:12:03,"Sitelinks, People also ask, Image pack, Top stories, Thumbnails"
 digital marketing agency uk,gb,56,100,14,155,NA,1.43,digital marketing agency,2020-04-25 20:13:55,NaN
 top digital marketing agencies london,gb,22,100,14,211,NA,1.29,digital marketing agency,2020-05-04 19:50:10,NaN
-digital advertising agency,gb,31,100,10,Other,NA,NaN,digital advertising agency,2020-04-20 22:38:14,"People also ask, Sitelinks"
-web marketing company,gb,25,100,11,Other,NA,NaN,online marketing company,2020-04-16 18:29:22,"Adwords top, Adwords bottom, Sitelinks"
-web marketing services,gb,23,100,7,Other,NA,NaN,web marketing services,2020-04-17 15:02:19,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+digital advertising agency,gb,31,100,10,NaN,NA,NaN,digital advertising agency,2020-04-20 22:38:14,"People also ask, Sitelinks"
+web marketing company,gb,25,100,11,NaN,NA,NaN,online marketing company,2020-04-16 18:29:22,"Adwords top, Adwords bottom, Sitelinks"
+web marketing services,gb,23,100,7,NaN,NA,NaN,web marketing services,2020-04-17 15:02:19,"Adwords top, Sitelinks, People also ask, Adwords bottom"
 define online,gb,23,100,0,12,NA,1.1,online,2020-04-20 23:59:40,"Knowledge card, People also ask, Top stories, Thumbnails"
-all digital,gb,48,100,Other,Other,NA,NaN,alldigital,2020-04-24 20:48:34,"Sitelinks, Top stories, Thumbnails"
-marketing website,gb,38,100,8,Other,NA,NaN,website agency,2020-04-26 15:41:58,NaN
-define in fact,gb,3,100,Other,Other,NA,NaN,infact,2020-04-18 10:56:19,"Knowledge card, People also ask"
+all digital,gb,48,100,NaN,NaN,NA,NaN,alldigital,2020-04-24 20:48:34,"Sitelinks, Top stories, Thumbnails"
+marketing website,gb,38,100,8,NaN,NA,NaN,website agency,2020-04-26 15:41:58,NaN
+define in fact,gb,3,100,NaN,NaN,NA,NaN,infact,2020-04-18 10:56:19,"Knowledge card, People also ask"
 what is online marketing,gb,77,100,4,68,NA,1.04,online marketing,2020-04-25 15:30:19,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
 what does according mean,gb,5,100,0,22,NA,1.13,according,2020-04-25 04:31:14,"Knowledge card, People also ask, Videos"
-nottingham web design,gb,37,100,8,Other,NA,NaN,web design nottingham,2020-04-20 13:01:16,"Adwords top, Sitelinks, Adwords bottom"
-what does defined mean,gb,20,100,Other,13,NA,1.05,defined,2020-04-23 10:51:20,"Knowledge card, People also ask, Videos"
-online marketing agency london,gb,45,100,10,Other,NA,NaN,digital marketing agency,2020-05-04 17:49:12,Sitelinks
-what is e-marketing,gb,17,100,11,Other,NA,NaN,what is emarketing,2020-04-21 17:28:59,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
-internet marketing strategies,gb,57,100,8,Other,NA,NaN,internet marketing,2020-05-01 23:13:32,"Featured snippet, Thumbnails, People also ask, Top stories"
-trends definition in business,gb,17,100,Other,Other,NA,NaN,trends definition in business,2020-05-09 00:34:19,"Featured snippet, Thumbnails, People also ask, Videos"
+nottingham web design,gb,37,100,8,NaN,NA,NaN,web design nottingham,2020-04-20 13:01:16,"Adwords top, Sitelinks, Adwords bottom"
+what does defined mean,gb,20,100,NaN,13,NA,1.05,defined,2020-04-23 10:51:20,"Knowledge card, People also ask, Videos"
+online marketing agency london,gb,45,100,10,NaN,NA,NaN,digital marketing agency,2020-05-04 17:49:12,Sitelinks
+what is e-marketing,gb,17,100,11,NaN,NA,NaN,what is emarketing,2020-04-21 17:28:59,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
+internet marketing strategies,gb,57,100,8,NaN,NA,NaN,internet marketing,2020-05-01 23:13:32,"Featured snippet, Thumbnails, People also ask, Top stories"
+trends definition in business,gb,17,100,NaN,NaN,NA,NaN,trends definition in business,2020-05-09 00:34:19,"Featured snippet, Thumbnails, People also ask, Videos"
 define including,gb,22,100,0,18,NA,1.17,including,2020-04-25 20:36:21,"Knowledge card, People also ask, Sitelinks"
-define an english person,gb,2,100,0,Other,NA,NaN,define an english person,2020-05-05 01:37:11,NaN
-what is for,gb,30,100,Other,Other,NA,NaN,for,2020-04-28 07:35:06,"People also ask, Top stories, Thumbnails"
-digital marketing campaigns,gb,28,100,Other,91,NA,1.42,digital campaign,2020-04-20 03:12:22,"Adwords top, People also ask"
-hubstop,gb,67,100,Other,Other,NA,NaN,hubspot,2020-05-09 12:25:10,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-who what why,gb,20,100,Other,64,NA,1,5 ws,2020-04-22 17:39:50,"Sitelinks, People also ask, Videos, Tweet box, Image pack"
+define an english person,gb,2,100,0,NaN,NA,NaN,define an english person,2020-05-05 01:37:11,NaN
+what is for,gb,30,100,NaN,NaN,NA,NaN,for,2020-04-28 07:35:06,"People also ask, Top stories, Thumbnails"
+digital marketing campaigns,gb,28,100,NaN,91,NA,1.42,digital campaign,2020-04-20 03:12:22,"Adwords top, People also ask"
+hubstop,gb,67,100,NaN,NaN,NA,NaN,hubspot,2020-05-09 12:25:10,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+who what why,gb,20,100,NaN,64,NA,1,5 ws,2020-04-22 17:39:50,"Sitelinks, People also ask, Videos, Tweet box, Image pack"
 coast logo,gb,0,100,2,68,NA,1.13,coast logo,2020-04-30 14:57:31,Sitelinks
-digital technology examples,gb,23,100,8,Other,NA,NaN,digital technology,2020-05-02 06:23:27,"Featured snippet, Thumbnails, People also ask"
-marketing concept definition,gb,19,100,1.6,Other,NA,NaN,marketing concept,2020-04-25 13:00:23,"Featured snippet, Thumbnails, People also ask, Top stories"
+digital technology examples,gb,23,100,8,NaN,NA,NaN,digital technology,2020-05-02 06:23:27,"Featured snippet, Thumbnails, People also ask"
+marketing concept definition,gb,19,100,1.6,NaN,NA,NaN,marketing concept,2020-04-25 13:00:23,"Featured snippet, Thumbnails, People also ask, Top stories"
 what is a digital agency,gb,11,100,8,52,NA,1.07,what is a digital agency,2020-04-23 13:46:44,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
 marketing vs advertising,gb,22,100,0.9,67,NA,1.06,difference between marketing and advertising,2020-04-26 13:23:01,"Featured snippet, Thumbnails, People also ask, Top stories"
-lucy definition,gb,3,100,Other,Other,NA,NaN,lucy definition,2020-04-15 18:16:50,"People also ask, Top stories, Thumbnails"
-digital marketing services london,gb,55,100,8,Other,NA,NaN,marketing agency,2020-04-19 19:29:36,Sitelinks
-what is e marketing,gb,15,100,4.5,Other,NA,NaN,e marketing,2020-04-25 09:29:13,"Adwords top, People also ask, Top stories, Thumbnails"
-digital marketing theory,gb,2,100,Other,Other,NA,NaN,digital marketing theory,2020-04-19 13:22:52,"People also ask, Image pack"
-digital marketing expert,gb,13,100,9,Other,NA,NaN,digital marketing consultant,2020-04-19 02:28:26,"Sitelinks, People also ask, Top stories, Thumbnails"
+lucy definition,gb,3,100,NaN,NaN,NA,NaN,lucy definition,2020-04-15 18:16:50,"People also ask, Top stories, Thumbnails"
+digital marketing services london,gb,55,100,8,NaN,NA,NaN,marketing agency,2020-04-19 19:29:36,Sitelinks
+what is e marketing,gb,15,100,4.5,NaN,NA,NaN,e marketing,2020-04-25 09:29:13,"Adwords top, People also ask, Top stories, Thumbnails"
+digital marketing theory,gb,2,100,NaN,NaN,NA,NaN,digital marketing theory,2020-04-19 13:22:52,"People also ask, Image pack"
+digital marketing expert,gb,13,100,9,NaN,NA,NaN,digital marketing consultant,2020-04-19 02:28:26,"Sitelinks, People also ask, Top stories, Thumbnails"
 social media marketing uk,gb,9,100,6,142,NA,1.3,social media management agency,2020-05-08 15:19:08,Sitelinks
-marketing agency uk,gb,48,100,4.5,Other,NA,NaN,digital marketing agency,2020-04-21 01:01:22,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Adwords bottom"
-online advertising agency,gb,28,100,11,Other,NA,NaN,online advertising agency,2020-04-19 15:18:35,"Adwords top, Sitelinks, Adwords bottom"
-internet marketing services uk,gb,31,90,Other,Other,NA,NaN,internet marketing agency,2020-05-07 13:58:08,"Adwords bottom, Sitelinks"
-coast website,gb,61,90,0.2,Other,NA,NaN,coast,2020-04-24 21:14:24,Sitelinks
-www coast com,gb,2,90,0.15,Other,NA,NaN,coast,2020-04-15 20:15:11,Sitelinks
-lucy alexander age,gb,4,90,Other,Other,NA,NaN,lucy alexander,2020-04-26 20:37:18,"People also ask, Sitelinks"
+marketing agency uk,gb,48,100,4.5,NaN,NA,NaN,digital marketing agency,2020-04-21 01:01:22,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Adwords bottom"
+online advertising agency,gb,28,100,11,NaN,NA,NaN,online advertising agency,2020-04-19 15:18:35,"Adwords top, Sitelinks, Adwords bottom"
+internet marketing services uk,gb,31,90,NaN,NaN,NA,NaN,internet marketing agency,2020-05-07 13:58:08,"Adwords bottom, Sitelinks"
+coast website,gb,61,90,0.2,NaN,NA,NaN,coast,2020-04-24 21:14:24,Sitelinks
+www coast com,gb,2,90,0.15,NaN,NA,NaN,coast,2020-04-15 20:15:11,Sitelinks
+lucy alexander age,gb,4,90,NaN,NaN,NA,NaN,lucy alexander,2020-04-26 20:37:18,"People also ask, Sitelinks"
 digital marketing strategies,gb,64,90,12,107,NA,1.13,marketing strategy,2020-04-17 11:58:50,"Featured snippet, Thumbnails, People also ask, Top stories"
-what does a digital marketer do,gb,17,90,Other,Other,NA,NaN,digital marketing,2020-04-15 14:45:05,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
-types of digital media,gb,24,90,1.6,Other,NA,NaN,digital media,2020-04-17 02:05:24,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack, Videos"
-marketing firms london,gb,43,90,3,Other,NA,NaN,marketing agency,2020-04-27 21:14:11,"Featured snippet, People also ask"
-marketing media,gb,84,90,0,Other,NA,NaN,the drum,2020-05-08 11:58:48,"Featured snippet, People also ask, Top stories, Thumbnails"
-top digital marketing companies,gb,39,90,25,Other,NA,NaN,digital marketing company,2020-04-16 17:50:50,"Sitelinks, People also ask"
-online marketing expert,gb,8,90,9,Other,NA,NaN,online marketing expert,2020-05-10 13:19:28,"Adwords top, Sitelinks, Top stories, Thumbnails, Adwords bottom"
-digital content marketing,gb,24,90,13,Other,NA,NaN,digital content marketing,2020-05-05 09:32:31,"Featured snippet, People also ask"
-content marketing agency uk,gb,8,90,20,Other,NA,NaN,content marketing agency,2020-05-05 09:12:49,NaN
-digital companies london,gb,36,90,1.9,Other,NA,NaN,digital marketing agency london,2020-04-17 17:59:32,NaN
+what does a digital marketer do,gb,17,90,NaN,NaN,NA,NaN,digital marketing,2020-04-15 14:45:05,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
+types of digital media,gb,24,90,1.6,NaN,NA,NaN,digital media,2020-04-17 02:05:24,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack, Videos"
+marketing firms london,gb,43,90,3,NaN,NA,NaN,marketing agency,2020-04-27 21:14:11,"Featured snippet, People also ask"
+marketing media,gb,84,90,0,NaN,NA,NaN,the drum,2020-05-08 11:58:48,"Featured snippet, People also ask, Top stories, Thumbnails"
+top digital marketing companies,gb,39,90,25,NaN,NA,NaN,digital marketing company,2020-04-16 17:50:50,"Sitelinks, People also ask"
+online marketing expert,gb,8,90,9,NaN,NA,NaN,online marketing expert,2020-05-10 13:19:28,"Adwords top, Sitelinks, Top stories, Thumbnails, Adwords bottom"
+digital content marketing,gb,24,90,13,NaN,NA,NaN,digital content marketing,2020-05-05 09:32:31,"Featured snippet, People also ask"
+content marketing agency uk,gb,8,90,20,NaN,NA,NaN,content marketing agency,2020-05-05 09:12:49,NaN
+digital companies london,gb,36,90,1.9,NaN,NA,NaN,digital marketing agency london,2020-04-17 17:59:32,NaN
 define encompasses,gb,9,90,0,9,NA,1.15,encompass,2020-04-26 10:25:26,"Knowledge card, People also ask"
-digital media agency london,gb,51,90,9,Other,NA,NaN,digital marketing agency,2020-04-21 23:30:45,NaN
-digital marketing industry,gb,57,90,6,Other,NA,NaN,digital marketing,2020-04-14 07:47:15,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-social media marketing services,gb,22,90,10,Other,NA,NaN,social media marketing agency,2020-04-22 05:46:59,"Adwords top, Sitelinks, Adwords bottom"
+digital media agency london,gb,51,90,9,NaN,NA,NaN,digital marketing agency,2020-04-21 23:30:45,NaN
+digital marketing industry,gb,57,90,6,NaN,NA,NaN,digital marketing,2020-04-14 07:47:15,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+social media marketing services,gb,22,90,10,NaN,NA,NaN,social media marketing agency,2020-04-22 05:46:59,"Adwords top, Sitelinks, Adwords bottom"
 what is flr,gb,21,90,0,42,NA,1.1,for,2020-05-10 19:53:24,"Featured snippet, People also ask, Top stories, Thumbnails"
-essex digital awards,gb,0,90,1.4,Other,NA,NaN,essex digital awards,2020-04-23 12:35:02,Image pack
-get on with it meaning,gb,0,90,0,Other,NA,NaN,get on with it,2020-05-07 12:38:23,"Featured snippet, People also ask, Videos"
-marketing sector,gb,10,90,0,Other,NA,NaN,marketing industry,2020-04-19 22:18:14,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack"
-w-hat,gb,89,90,Other,Other,NA,NaN,what,2020-04-29 19:42:02,"Sitelinks, Top stories, Thumbnails, Image pack, Videos"
-web marketing agency,gb,57,90,8,Other,NA,NaN,web marketing agency,2020-05-02 04:50:13,"People also ask, Adwords bottom, Sitelinks"
-what does comprised mean,gb,22,90,0,Other,NA,NaN,comprised,2020-04-21 05:24:47,"Knowledge card, People also ask"
-social media marketing cost,gb,23,90,6,Other,NA,NaN,social media manager,2020-04-22 07:48:01,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Adwords bottom"
-what why,gb,28,90,Other,Other,NA,NaN,5 ws,2020-04-16 04:49:22,"Top stories, Thumbnails, Sitelinks, People also ask, Image pack"
-edigital research,gb,2,90,Other,Other,NA,NaN,edigital research,2020-04-24 14:26:15,Sitelinks
-is website up,gb,92,90,0,Other,NA,NaN,is it down,2020-04-23 17:09:16,"Sitelinks, People also ask"
+essex digital awards,gb,0,90,1.4,NaN,NA,NaN,essex digital awards,2020-04-23 12:35:02,Image pack
+get on with it meaning,gb,0,90,0,NaN,NA,NaN,get on with it,2020-05-07 12:38:23,"Featured snippet, People also ask, Videos"
+marketing sector,gb,10,90,0,NaN,NA,NaN,marketing industry,2020-04-19 22:18:14,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack"
+w-hat,gb,89,90,NaN,NaN,NA,NaN,what,2020-04-29 19:42:02,"Sitelinks, Top stories, Thumbnails, Image pack, Videos"
+web marketing agency,gb,57,90,8,NaN,NA,NaN,web marketing agency,2020-05-02 04:50:13,"People also ask, Adwords bottom, Sitelinks"
+what does comprised mean,gb,22,90,0,NaN,NA,NaN,comprised,2020-04-21 05:24:47,"Knowledge card, People also ask"
+social media marketing cost,gb,23,90,6,NaN,NA,NaN,social media manager,2020-04-22 07:48:01,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Adwords bottom"
+what why,gb,28,90,NaN,NaN,NA,NaN,5 ws,2020-04-16 04:49:22,"Top stories, Thumbnails, Sitelinks, People also ask, Image pack"
+edigital research,gb,2,90,NaN,NaN,NA,NaN,edigital research,2020-04-24 14:26:15,Sitelinks
+is website up,gb,92,90,0,NaN,NA,NaN,is it down,2020-04-23 17:09:16,"Sitelinks, People also ask"
 social media marketing agency london,gb,24,90,11,149,NA,1.19,social media marketing agency,2020-04-16 19:45:03,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
-top digital agencies london,gb,7,90,9,Other,NA,NaN,digital marketing agency,2020-05-05 07:50:28,"Adwords bottom, Sitelinks"
+top digital agencies london,gb,7,90,9,NaN,NA,NaN,digital marketing agency,2020-05-05 07:50:28,"Adwords bottom, Sitelinks"
 online campaign,gb,42,90,2,45,NA,1.04,online marketing campaign,2020-04-18 03:33:53,People also ask
-define digital media,gb,13,90,0,Other,NA,NaN,digital media,2020-05-03 03:27:41,"Sitelinks, People also ask, Top stories, Thumbnails"
-digital blog,gb,47,90,1.2,Other,NA,NaN,digital marketing,2020-05-01 19:11:57,NaN
-internet marketing services,gb,34,90,14,Other,NA,NaN,digital marketing services,2020-04-19 15:12:27,People also ask
-marketing essex,gb,26,90,0.1,Other,NA,NaN,marketing essex,2020-05-06 15:58:34,NaN
+define digital media,gb,13,90,0,NaN,NA,NaN,digital media,2020-05-03 03:27:41,"Sitelinks, People also ask, Top stories, Thumbnails"
+digital blog,gb,47,90,1.2,NaN,NA,NaN,digital marketing,2020-05-01 19:11:57,NaN
+internet marketing services,gb,34,90,14,NaN,NA,NaN,digital marketing services,2020-04-19 15:12:27,People also ask
+marketing essex,gb,26,90,0.1,NaN,NA,NaN,marketing essex,2020-05-06 15:58:34,NaN
 make it up to you meaning,gb,0,90,0,22,NA,1.21,make it up to you,2020-05-07 08:29:24,"Featured snippet, People also ask, Videos"
-digital london,gb,36,90,2,Other,NA,NaN,digital london,2020-04-28 10:50:27,"Adwords top, Sitelinks"
-understanding digital marketing,gb,5,80,4,Other,NA,NaN,understanding digital marketing,2020-04-15 01:38:41,"Featured snippet, Thumbnails, Top stories"
+digital london,gb,36,90,2,NaN,NA,NaN,digital london,2020-04-28 10:50:27,"Adwords top, Sitelinks"
+understanding digital marketing,gb,5,80,4,NaN,NA,NaN,understanding digital marketing,2020-04-15 01:38:41,"Featured snippet, Thumbnails, Top stories"
 what is digital marketing strategy,gb,33,80,4,56,NA,1.05,digital marketing strategy,2020-04-14 11:23:40,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories, Image pack"
-social media marketing company,gb,19,80,8,Other,NA,NaN,social media agency,2020-04-21 18:26:15,"Adwords top, Sitelinks, Adwords bottom"
+social media marketing company,gb,19,80,8,NaN,NA,NaN,social media agency,2020-04-21 18:26:15,"Adwords top, Sitelinks, Adwords bottom"
 online definition,gb,16,80,0,11,NA,1.11,online,2020-04-30 12:33:37,"Knowledge card, People also ask, Sitelinks"
-digital marketing websites,gb,59,80,6,Other,NA,NaN,marketing website,2020-05-10 14:37:39,"Featured snippet, Thumbnails, Sitelinks"
-best digital,gb,11,80,Other,Other,NA,NaN,best digital,2020-04-17 01:04:09,Image pack
-web design agency nottingham,gb,37,80,8,Other,NA,NaN,web design nottingham,2020-04-29 23:10:33,"Adwords bottom, Sitelinks"
-market trends definition,gb,6,80,0,Other,NA,NaN,bull market,2020-04-19 23:45:51,"Sitelinks, People also ask, Top stories, Thumbnails"
-best digital agencies london,gb,18,80,11,Other,NA,NaN,digital agency,2020-05-01 06:42:19,"Featured snippet, Thumbnails, Adwords bottom, Sitelinks"
-what is digital content,gb,5,80,0,Other,NA,NaN,what is digital content,2020-05-07 14:49:11,"People also ask, Sitelinks, Top stories, Thumbnails"
-online digital marketing,gb,57,80,10,Other,NA,NaN,digital marketing course,2020-04-29 08:08:31,"Sitelinks, People also ask, Top stories, Thumbnails"
-hupspot,gb,62,80,Other,Other,NA,NaN,hubspot,2020-04-29 04:59:49,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-social media marketing companies uk,gb,7,80,10,Other,NA,NaN,social media marketing agency,2020-05-07 23:46:05,NaN
-climb marketing,gb,0,80,Other,Other,NA,NaN,climb online,2020-04-17 00:31:31,"Sitelinks, Top stories, Thumbnails, Image pack"
-full service digital agency,gb,9,80,12,Other,NA,NaN,full service digital agency,2020-04-25 15:23:37,People also ask
-digital search,gb,20,80,Other,Other,NA,NaN,digital marketing agency london,2020-04-14 01:25:19,"Featured snippet, Sitelinks"
-email marketing agency london,gb,8,80,15,Other,NA,NaN,marketing email,2020-04-26 23:44:02,Featured snippet
-digital ad agency,gb,48,80,9,Other,NA,NaN,digital marketing agency,2020-05-04 12:45:25,People also ask
-marketing agencies uk,gb,22,80,4.5,Other,NA,NaN,digital marketing agency,2020-04-28 00:03:46,"Featured snippet, Thumbnails"
-marketing agency ipswich,gb,30,80,3.5,Other,NA,NaN,crafted,2020-05-03 06:43:12,"Sitelinks, Top stories, Thumbnails"
-www.coast.co.uk,gb,26,80,Other,Other,NA,NaN,coast.co.uk,2020-05-01 00:47:17,Sitelinks
-impressions marketing,gb,26,80,Other,Other,NA,NaN,impression internet,2020-05-10 01:28:15,"Featured snippet, People also ask, Sitelinks, Top stories, Thumbnails"
-digital does,gb,23,80,0,Other,NA,NaN,does,2020-05-10 07:47:48,"Sitelinks, Image pack"
-marketing companies essex,gb,37,80,6,Other,NA,NaN,cjam,2020-04-15 13:25:31,"Adwords top, Sitelinks, Adwords bottom"
-digitalmarketing,gb,74,80,Other,Other,NA,NaN,digital marketing,2020-04-14 16:29:02,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-best digital marketing agency,gb,47,80,20,Other,NA,NaN,marketing agency,2020-04-14 21:52:02,Sitelinks
-digital platform definition,gb,11,80,8,Other,NA,NaN,digital platform definition,2020-04-16 09:04:48,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-w hat,gb,80,80,Other,Other,NA,NaN,what,2020-04-19 18:20:11,"Image pack, Top stories, Thumbnails, Sitelinks, Shopping results"
-digital marketing basics,gb,58,80,2.5,Other,NA,NaN,digital marketing basics,2020-04-20 08:02:35,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
-digitales,gb,42,80,Other,Other,NA,NaN,digitales,2020-05-02 05:12:22,Sitelinks
-search engine marketing agency,gb,12,80,Other,Other,NA,NaN,search engine marketing agency,2020-04-27 22:07:04,NaN
-marketing companies in london,gb,22,80,4,Other,NA,NaN,marketing agency,2020-04-23 12:52:34,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-coast near london,gb,2,80,2,Other,NA,NaN,beaches near london,2020-04-26 03:43:38,"Featured snippet, Thumbnails, People also ask"
-digital marketer job description,gb,14,80,Other,Other,NA,NaN,digital marketing job description,2020-04-16 22:57:20,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-digital marketing life cycle,gb,0,80,15,Other,NA,NaN,digital marketing life cycle,2020-04-14 13:04:01,"Featured snippet, Thumbnails, People also ask, Image pack, Videos, Top stories"
-seo and digital marketing,gb,17,80,20,Other,NA,NaN,seo marketing,2020-04-19 23:46:13,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails, Adwords bottom"
-hubpot,gb,67,80,Other,Other,NA,NaN,hubspot,2020-05-10 12:04:59,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-digital marketing agency essex,gb,55,80,9,Other,NA,NaN,absolute digital media,2020-04-16 06:52:01,"Adwords top, Sitelinks, Adwords bottom"
-marketing means,gb,58,80,Other,Other,NA,NaN,marketing means,2020-04-18 23:47:20,"Sitelinks, People also ask, Top stories, Thumbnails"
-best internet marketing company,gb,45,80,Other,Other,NA,NaN,best internet marketing company,2020-04-17 14:27:17,"Sitelinks, People also ask"
-digital marketing implementation services,gb,Other,80,Other,Other,NA,NaN,NaN,NaN,NaN
-business to business definition,gb,51,70,0,Other,NA,NaN,b2b,2020-04-21 04:22:37,"People also ask, Top stories, Thumbnails"
-why digital marketing is important,gb,43,70,1.3,Other,NA,NaN,role of digital marketing,2020-05-10 12:35:02,"Featured snippet, Thumbnails, People also ask"
-top digital agencies uk,gb,5,70,4,Other,NA,NaN,digital agency,2020-05-06 15:03:12,Featured snippet
-form digital,gb,0,70,0.06,Other,NA,NaN,form digital,2020-04-17 02:54:52,"Sitelinks, Image pack, Top stories, Thumbnails"
-what is the marketing concept,gb,24,70,0,Other,NA,NaN,marketing concept,2020-04-18 13:10:15,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
-social media marketing agency uk,gb,6,70,13,Other,NA,NaN,social media marketing agency,2020-05-10 00:11:43,"Adwords top, Sitelinks, Adwords bottom"
-digital marketing essex,gb,48,70,5,Other,NA,NaN,revive digital media,2020-04-19 06:01:25,"Sitelinks, Adwords bottom"
-internet marketing solutions,gb,10,70,Other,Other,NA,NaN,digital marketing solutions,2020-05-04 08:51:48,"Featured snippet, Thumbnails, Sitelinks, People also ask"
-who what,gb,12,70,Other,Other,NA,NaN,who what wear,2020-05-07 08:54:16,"Top stories, Thumbnails, Sitelinks, Videos"
-london marketing agencies,gb,31,70,4.5,Other,NA,NaN,marketing agency,2020-04-25 12:57:16,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-digitsl,gb,89,70,0,Other,NA,NaN,digital,2020-04-20 20:16:50,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
-which-what,gb,11,70,Other,Other,NA,NaN,which or what,2020-05-02 16:05:51,"Top stories, Thumbnails, People also ask"
-social media agencies london,gb,13,70,Other,Other,NA,NaN,social media marketing agency,2020-05-07 06:20:56,Featured snippet
+digital marketing websites,gb,59,80,6,NaN,NA,NaN,marketing website,2020-05-10 14:37:39,"Featured snippet, Thumbnails, Sitelinks"
+best digital,gb,11,80,NaN,NaN,NA,NaN,best digital,2020-04-17 01:04:09,Image pack
+web design agency nottingham,gb,37,80,8,NaN,NA,NaN,web design nottingham,2020-04-29 23:10:33,"Adwords bottom, Sitelinks"
+market trends definition,gb,6,80,0,NaN,NA,NaN,bull market,2020-04-19 23:45:51,"Sitelinks, People also ask, Top stories, Thumbnails"
+best digital agencies london,gb,18,80,11,NaN,NA,NaN,digital agency,2020-05-01 06:42:19,"Featured snippet, Thumbnails, Adwords bottom, Sitelinks"
+what is digital content,gb,5,80,0,NaN,NA,NaN,what is digital content,2020-05-07 14:49:11,"People also ask, Sitelinks, Top stories, Thumbnails"
+online digital marketing,gb,57,80,10,NaN,NA,NaN,digital marketing course,2020-04-29 08:08:31,"Sitelinks, People also ask, Top stories, Thumbnails"
+hupspot,gb,62,80,NaN,NaN,NA,NaN,hubspot,2020-04-29 04:59:49,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+social media marketing companies uk,gb,7,80,10,NaN,NA,NaN,social media marketing agency,2020-05-07 23:46:05,NaN
+climb marketing,gb,0,80,NaN,NaN,NA,NaN,climb online,2020-04-17 00:31:31,"Sitelinks, Top stories, Thumbnails, Image pack"
+full service digital agency,gb,9,80,12,NaN,NA,NaN,full service digital agency,2020-04-25 15:23:37,People also ask
+digital search,gb,20,80,NaN,NaN,NA,NaN,digital marketing agency london,2020-04-14 01:25:19,"Featured snippet, Sitelinks"
+email marketing agency london,gb,8,80,15,NaN,NA,NaN,marketing email,2020-04-26 23:44:02,Featured snippet
+digital ad agency,gb,48,80,9,NaN,NA,NaN,digital marketing agency,2020-05-04 12:45:25,People also ask
+marketing agencies uk,gb,22,80,4.5,NaN,NA,NaN,digital marketing agency,2020-04-28 00:03:46,"Featured snippet, Thumbnails"
+marketing agency ipswich,gb,30,80,3.5,NaN,NA,NaN,crafted,2020-05-03 06:43:12,"Sitelinks, Top stories, Thumbnails"
+www.coast.co.uk,gb,26,80,NaN,NaN,NA,NaN,coast.co.uk,2020-05-01 00:47:17,Sitelinks
+impressions marketing,gb,26,80,NaN,NaN,NA,NaN,impression internet,2020-05-10 01:28:15,"Featured snippet, People also ask, Sitelinks, Top stories, Thumbnails"
+digital does,gb,23,80,0,NaN,NA,NaN,does,2020-05-10 07:47:48,"Sitelinks, Image pack"
+marketing companies essex,gb,37,80,6,NaN,NA,NaN,cjam,2020-04-15 13:25:31,"Adwords top, Sitelinks, Adwords bottom"
+digitalmarketing,gb,74,80,NaN,NaN,NA,NaN,digital marketing,2020-04-14 16:29:02,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
+best digital marketing agency,gb,47,80,20,NaN,NA,NaN,marketing agency,2020-04-14 21:52:02,Sitelinks
+digital platform definition,gb,11,80,8,NaN,NA,NaN,digital platform definition,2020-04-16 09:04:48,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+w hat,gb,80,80,NaN,NaN,NA,NaN,what,2020-04-19 18:20:11,"Image pack, Top stories, Thumbnails, Sitelinks, Shopping results"
+digital marketing basics,gb,58,80,2.5,NaN,NA,NaN,digital marketing basics,2020-04-20 08:02:35,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
+digitales,gb,42,80,NaN,NaN,NA,NaN,digitales,2020-05-02 05:12:22,Sitelinks
+search engine marketing agency,gb,12,80,NaN,NaN,NA,NaN,search engine marketing agency,2020-04-27 22:07:04,NaN
+marketing companies in london,gb,22,80,4,NaN,NA,NaN,marketing agency,2020-04-23 12:52:34,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+coast near london,gb,2,80,2,NaN,NA,NaN,beaches near london,2020-04-26 03:43:38,"Featured snippet, Thumbnails, People also ask"
+digital marketer job description,gb,14,80,NaN,NaN,NA,NaN,digital marketing job description,2020-04-16 22:57:20,"Featured snippet, Thumbnails, People also ask, Sitelinks"
+digital marketing life cycle,gb,0,80,15,NaN,NA,NaN,digital marketing life cycle,2020-04-14 13:04:01,"Featured snippet, Thumbnails, People also ask, Image pack, Videos, Top stories"
+seo and digital marketing,gb,17,80,20,NaN,NA,NaN,seo marketing,2020-04-19 23:46:13,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails, Adwords bottom"
+hubpot,gb,67,80,NaN,NaN,NA,NaN,hubspot,2020-05-10 12:04:59,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+digital marketing agency essex,gb,55,80,9,NaN,NA,NaN,absolute digital media,2020-04-16 06:52:01,"Adwords top, Sitelinks, Adwords bottom"
+marketing means,gb,58,80,NaN,NaN,NA,NaN,marketing means,2020-04-18 23:47:20,"Sitelinks, People also ask, Top stories, Thumbnails"
+best internet marketing company,gb,45,80,NaN,NaN,NA,NaN,best internet marketing company,2020-04-17 14:27:17,"Sitelinks, People also ask"
+digital marketing implementation services,gb,NaN,80,NaN,NaN,NA,NaN,NaN,NaN,NaN
+business to business definition,gb,51,70,0,NaN,NA,NaN,b2b,2020-04-21 04:22:37,"People also ask, Top stories, Thumbnails"
+why digital marketing is important,gb,43,70,1.3,NaN,NA,NaN,role of digital marketing,2020-05-10 12:35:02,"Featured snippet, Thumbnails, People also ask"
+top digital agencies uk,gb,5,70,4,NaN,NA,NaN,digital agency,2020-05-06 15:03:12,Featured snippet
+form digital,gb,0,70,0.06,NaN,NA,NaN,form digital,2020-04-17 02:54:52,"Sitelinks, Image pack, Top stories, Thumbnails"
+what is the marketing concept,gb,24,70,0,NaN,NA,NaN,marketing concept,2020-04-18 13:10:15,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
+social media marketing agency uk,gb,6,70,13,NaN,NA,NaN,social media marketing agency,2020-05-10 00:11:43,"Adwords top, Sitelinks, Adwords bottom"
+digital marketing essex,gb,48,70,5,NaN,NA,NaN,revive digital media,2020-04-19 06:01:25,"Sitelinks, Adwords bottom"
+internet marketing solutions,gb,10,70,NaN,NaN,NA,NaN,digital marketing solutions,2020-05-04 08:51:48,"Featured snippet, Thumbnails, Sitelinks, People also ask"
+who what,gb,12,70,NaN,NaN,NA,NaN,who what wear,2020-05-07 08:54:16,"Top stories, Thumbnails, Sitelinks, Videos"
+london marketing agencies,gb,31,70,4.5,NaN,NA,NaN,marketing agency,2020-04-25 12:57:16,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+digitsl,gb,89,70,0,NaN,NA,NaN,digital,2020-04-20 20:16:50,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
+which-what,gb,11,70,NaN,NaN,NA,NaN,which or what,2020-05-02 16:05:51,"Top stories, Thumbnails, People also ask"
+social media agencies london,gb,13,70,NaN,NaN,NA,NaN,social media marketing agency,2020-05-07 06:20:56,Featured snippet
 digital media services uk ltd,gb,0,70,0,65,NA,1.12,dms,2020-04-15 00:08:40,"Adwords top, Sitelinks"
-digtal,gb,80,70,0.9,Other,NA,NaN,digital,2020-05-07 22:16:24,"Sitelinks, People also ask, Image pack"
-online marketing definition,gb,72,70,4.5,Other,NA,NaN,online marketing,2020-05-02 07:22:00,"People also ask, Top stories, Thumbnails"
-digital marketing business,gb,26,70,Other,Other,NA,NaN,digital marketing agency,2020-04-15 20:55:27,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
-social media marketing examples,gb,58,70,5,Other,NA,NaN,social media strategy example,2020-04-17 14:41:42,"Featured snippet, Thumbnails, People also ask"
-digital agency reading,gb,25,70,8,Other,NA,NaN,digital agency reading,2020-04-17 16:12:08,"Adwords top, Sitelinks, Adwords bottom"
-digital co uk,gb,41,70,Other,Other,NA,NaN,digital uk,2020-05-03 14:51:19,Sitelinks
-digital devices online,gb,1,70,0,Other,NA,NaN,digital devices,2020-04-24 17:46:48,"Sitelinks, Top stories, Thumbnails"
-define digital technology,gb,12,70,0,Other,NA,NaN,digital technology,2020-04-14 21:02:17,"Featured snippet, People also ask"
-how to market a website,gb,53,70,1.9,Other,NA,NaN,how to market a website,2020-04-20 03:10:05,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
-impressions digital marketing,gb,23,70,14,Other,NA,NaN,digital marketing agency,2020-04-16 08:59:23,"Sitelinks, People also ask, Top stories, Thumbnails"
-search social media by email,gb,36,70,0.6,Other,NA,NaN,username search,2020-04-15 22:39:32,"Adwords top, Featured snippet, Thumbnails, People also ask"
-digital marketing articles,gb,17,70,4,Other,NA,NaN,digital marketing articles,2020-04-28 02:40:41,NaN
-full service marketing agency,gb,8,70,8,Other,NA,NaN,full service agency,2020-04-20 03:06:45,People also ask
+digtal,gb,80,70,0.9,NaN,NA,NaN,digital,2020-05-07 22:16:24,"Sitelinks, People also ask, Image pack"
+online marketing definition,gb,72,70,4.5,NaN,NA,NaN,online marketing,2020-05-02 07:22:00,"People also ask, Top stories, Thumbnails"
+digital marketing business,gb,26,70,NaN,NaN,NA,NaN,digital marketing agency,2020-04-15 20:55:27,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
+social media marketing examples,gb,58,70,5,NaN,NA,NaN,social media strategy example,2020-04-17 14:41:42,"Featured snippet, Thumbnails, People also ask"
+digital agency reading,gb,25,70,8,NaN,NA,NaN,digital agency reading,2020-04-17 16:12:08,"Adwords top, Sitelinks, Adwords bottom"
+digital co uk,gb,41,70,NaN,NaN,NA,NaN,digital uk,2020-05-03 14:51:19,Sitelinks
+digital devices online,gb,1,70,0,NaN,NA,NaN,digital devices,2020-04-24 17:46:48,"Sitelinks, Top stories, Thumbnails"
+define digital technology,gb,12,70,0,NaN,NA,NaN,digital technology,2020-04-14 21:02:17,"Featured snippet, People also ask"
+how to market a website,gb,53,70,1.9,NaN,NA,NaN,how to market a website,2020-04-20 03:10:05,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
+impressions digital marketing,gb,23,70,14,NaN,NA,NaN,digital marketing agency,2020-04-16 08:59:23,"Sitelinks, People also ask, Top stories, Thumbnails"
+search social media by email,gb,36,70,0.6,NaN,NA,NaN,username search,2020-04-15 22:39:32,"Adwords top, Featured snippet, Thumbnails, People also ask"
+digital marketing articles,gb,17,70,4,NaN,NA,NaN,digital marketing articles,2020-04-28 02:40:41,NaN
+full service marketing agency,gb,8,70,8,NaN,NA,NaN,full service agency,2020-04-20 03:06:45,People also ask
 media marketing,gb,83,70,4,34,NA,1.27,social media marketing,2020-04-26 12:00:13,"Adwords top, Sitelinks, People also ask"
-marketing agencies in london,gb,36,70,6,Other,NA,NaN,marketing agency,2020-04-27 13:07:38,People also ask
-market online,gb,54,70,7,Other,NA,NaN,market .com,2020-04-24 23:22:58,"Adwords top, Sitelinks"
-define increasing,gb,26,70,Other,Other,NA,NaN,increase,2020-04-19 07:05:47,"Knowledge card, People also ask, Top stories, Thumbnails"
-marketing agency colchester,gb,22,70,3.5,Other,NA,NaN,marketing agency colchester,2020-04-19 07:26:06,"Adwords top, Sitelinks, Adwords bottom"
-performance marketing agency,gb,48,70,7,Other,NA,NaN,digital marketing agency,2020-05-08 03:10:38,Sitelinks
-digital marketing activities,gb,62,70,Other,Other,NA,NaN,digital marketing,2020-04-29 01:58:15,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack"
-agency services,gb,1,70,1.4,Other,NA,NaN,agency services,2020-05-10 18:43:53,People also ask
-online services definition,gb,1,70,0,Other,NA,NaN,what is online services,2020-05-09 06:29:57,People also ask
-digital media meaning,gb,13,70,0,Other,NA,NaN,digital media,2020-04-23 12:01:32,"Sitelinks, People also ask, Top stories, Thumbnails"
-digital agency services,gb,6,70,12,Other,NA,NaN,digital marketing services,2020-04-16 16:37:22,People also ask
-digital marketing firm,gb,43,70,8,Other,NA,NaN,marketing agency,2020-04-24 06:28:24,"Adwords top, Sitelinks, Top stories, Thumbnails, Adwords bottom"
-marketing information,gb,6,70,2.5,Other,NA,NaN,marketing information,2020-04-24 05:28:59,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
-description of a market,gb,1,60,0,Other,NA,NaN,description of a market,2020-04-17 21:16:47,"Featured snippet, People also ask, Image pack"
-how to do online marketing,gb,68,60,3.5,Other,NA,NaN,online marketing,2020-04-17 01:06:15,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails"
-types of online marketing,gb,31,60,1.6,Other,NA,NaN,types of digital marketing,2020-04-15 06:48:02,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-digital.co.uk,gb,35,60,Other,Other,NA,NaN,digital.co.uk,2020-04-15 01:29:59,Sitelinks
-examples of digital media,gb,9,60,0.02,Other,NA,NaN,digital media examples,2020-04-27 11:46:15,"Featured snippet, Thumbnails, People also ask, Top stories"
-do you meaning,gb,6,60,Other,Other,NA,NaN,do you,2020-04-15 10:50:49,"Featured snippet, People also ask, Top stories, Thumbnails"
-digital marketing agency reading,gb,1,60,16,Other,NA,NaN,digital marketing agency reading,2020-04-16 04:59:53,"Adwords top, Sitelinks, Videos, Image pack, Adwords bottom"
-digital media companies london,gb,27,60,4,Other,NA,NaN,digital agency,2020-04-16 06:06:42,"Adwords top, Sitelinks, Adwords bottom"
-www.coast,gb,3,60,Other,Other,NA,NaN,coast,2020-04-22 22:46:31,Sitelinks
-marketers or marketeers,gb,3,60,Other,Other,NA,NaN,marketeer,2020-05-10 01:00:19,"Featured snippet, Thumbnails, People also ask, Top stories"
-uses of internet in business,gb,6,60,2.5,Other,NA,NaN,uses of internet in business,2020-04-16 10:34:32,"Featured snippet, Thumbnails, People also ask, Image pack"
-internet marketing firm,gb,70,60,Other,Other,NA,NaN,best internet marketing company,2020-04-17 02:17:12,People also ask
-it marketing,gb,4,60,3.5,Other,NA,NaN,it marketing,2020-04-19 05:05:18,"Adwords top, Sitelinks, Image pack, Adwords bottom"
-internet marketing bristol,gb,53,60,0,Other,NA,NaN,digirank,2020-05-04 04:12:27,Sitelinks
-online strategy,gb,68,60,2.5,Other,NA,NaN,strategy internet marketing,2020-04-26 10:38:20,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
-social media marketing companies london,gb,24,60,7,Other,NA,NaN,social media agency,2020-04-19 08:24:12,"Adwords top, Sitelinks, Adwords bottom"
-how to find out if a company is still in business,gb,10,60,Other,Other,NA,NaN,company insolvency register,2020-04-19 22:21:47,People also ask
-what does entails mean,gb,11,60,0,Other,NA,NaN,entail,2020-04-17 23:44:24,"Knowledge card, People also ask"
-new digital media,gb,37,60,0,Other,NA,NaN,new media,2020-05-10 11:50:02,"Sitelinks, People also ask"
-digital media industry,gb,16,60,0,Other,NA,NaN,digital media,2020-04-29 01:44:40,"Sitelinks, People also ask, Top stories, Thumbnails"
-social media marketing bristol,gb,0,60,0.6,Other,NA,NaN,social media marketing bristol,2020-05-09 17:28:24,NaN
-lucy online free,gb,2,60,0,Other,NA,NaN,watch lucy online free,2020-04-17 19:02:30,"Knowledge card, Top stories, Thumbnails, Adwords bottom, Sitelinks"
-climbonline,gb,5,60,Other,63,NA,1.1,climb online,2020-05-04 13:28:21,"Adwords top, Sitelinks"
-digital results,gb,12,60,0,Other,NA,NaN,forge agency,2020-04-25 05:14:29,"Top stories, Thumbnails, Image pack"
-digital def,gb,42,60,Other,Other,NA,NaN,digital,2020-05-03 14:43:48,"Knowledge card, People also ask"
-internet marketing company uk,gb,48,60,Other,Other,NA,NaN,digital marketing agency,2020-04-14 14:51:33,"Featured snippet, Thumbnails, Sitelinks"
-market details,gb,41,60,1.8,Other,NA,NaN,android market,2020-04-17 05:39:47,"Top stories, Thumbnails"
-understanding digital marketing: marketing strategies for engaging the digital generation,gb,1,60,Other,Other,NA,NaN,understanding digital marketing,2020-05-10 12:24:50,"Top stories, Thumbnails, Image pack"
-impression digital,gb,4,60,Other,40,NA,1.18,digital marketing agency,2020-04-21 13:35:44,"Sitelinks, Top stories, Thumbnails, Image pack"
-what is a.,gb,54,60,Other,Other,NA,NaN,a,2020-04-18 20:23:53,"Knowledge card, People also ask, Top stories, Thumbnails"
-online marketing blog,gb,82,60,0,Other,NA,NaN,digital marketing blogs,2020-04-26 22:47:18,"Adwords top, Sitelinks"
-creative agency essex,gb,26,60,2.5,Other,NA,NaN,design agency essex,2020-05-09 03:06:27,"Adwords top, Sitelinks, Adwords bottom"
-what is &,gb,36,60,0,Other,NA,NaN,ampersand,2020-05-03 19:59:15,"Sitelinks, People also ask, Top stories, Thumbnails"
-hubspor,gb,63,60,Other,Other,NA,NaN,hubspot,2020-04-20 15:43:26,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-work digital,gb,3,60,0,Other,NA,NaN,work digital,2020-04-19 08:34:05,"Top stories, Thumbnails, Image pack"
-online marketing firm,gb,55,60,4,Other,NA,NaN,marketing agency,2020-04-18 07:13:57,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-what is digital business,gb,19,60,Other,Other,NA,NaN,digital company,2020-04-14 19:32:51,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
-digital media company,gb,50,60,Other,Other,NA,NaN,dms,2020-04-16 11:46:09,"People also ask, Adwords bottom, Sitelinks"
-areas of marketing,gb,17,60,0,Other,NA,NaN,areas of marketing,2020-05-06 04:55:48,"Featured snippet, People also ask, Sitelinks, Image pack"
-digital marketing strategist,gb,39,60,13,Other,NA,NaN,digital marketing strategist,2020-05-08 10:13:13,"Featured snippet, Thumbnails, People also ask, Top stories"
-digital marketing social media,gb,75,60,9,Other,NA,NaN,social media marketing,2020-04-14 01:33:47,"Featured snippet, Sitelinks, Top stories, Thumbnails"
-digital marketing communication,gb,23,60,6,Other,NA,NaN,digital marketing,2020-05-10 19:43:12,"Adwords top, Sitelinks, Featured snippet, People also ask"
-digital advertising agency london,gb,47,60,8,Other,NA,NaN,digital agency,2020-04-25 09:49:43,"Featured snippet, Thumbnails"
-web design company nottingham,gb,43,60,7,Other,NA,NaN,web design nottingham,2020-05-05 18:07:19,"Adwords bottom, Sitelinks"
-search marketing services,gb,23,60,Other,Other,NA,NaN,search engine marketing company,2020-05-09 10:52:14,NaN
-internet businesses,gb,59,60,1.2,Other,NA,NaN,online business ideas,2020-05-02 05:59:48,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories, Adwords bottom"
-coast head office london,gb,5,60,0.8,Other,NA,NaN,coast customer services,2020-04-15 05:26:58,NaN
-digital marketing methods,gb,67,60,1.6,Other,NA,NaN,digital marketing strategy,2020-05-07 23:24:30,"Featured snippet, Thumbnails, People also ask, Image pack"
-بازاریابی,gb,8,60,Other,Other,NA,NaN,بازاریابی,2020-04-19 20:56:28,Sitelinks
-digital media products,gb,6,60,4,Other,NA,NaN,digital media products,2020-05-10 15:26:48,"Featured snippet, Thumbnails, People also ask"
-marketing companys,gb,7,60,5,Other,NA,NaN,marketing agency,2020-05-09 03:29:09,"Adwords top, Sitelinks, People also ask, Image pack"
-introduction to digital marketing,gb,51,60,7,Other,NA,NaN,google certification,2020-04-18 10:47:53,"Featured snippet, Top stories, Thumbnails, Sitelinks, People also ask"
-like who what what what where,gb,0,60,Other,Other,NA,NaN,who and what and where song,2020-05-03 16:48:26,"Top stories, Thumbnails, Videos"
-digital marketing images,gb,4,60,0,Other,NA,NaN,digital marketing images,2020-05-07 10:04:31,"Image pack, Sitelinks"
-elements of internet marketing,gb,1,60,4.5,Other,NA,NaN,elements of internet marketing,2020-05-04 14:43:40,"Featured snippet, Thumbnails, People also ask"
-internet marketing seo,gb,81,60,0,Other,NA,NaN,internet marketing seo,2020-05-07 06:25:11,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-market definition example,gb,37,60,Other,Other,NA,NaN,market definition example,2020-04-19 15:12:07,"Featured snippet, People also ask, Top stories, Thumbnails, Image pack"
-online web marketing,gb,49,60,0,Other,NA,NaN,online web marketing,2020-04-20 09:40:08,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-digital define,gb,35,60,Other,Other,NA,NaN,digital,2020-04-23 13:29:58,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
+marketing agencies in london,gb,36,70,6,NaN,NA,NaN,marketing agency,2020-04-27 13:07:38,People also ask
+market online,gb,54,70,7,NaN,NA,NaN,market .com,2020-04-24 23:22:58,"Adwords top, Sitelinks"
+define increasing,gb,26,70,NaN,NaN,NA,NaN,increase,2020-04-19 07:05:47,"Knowledge card, People also ask, Top stories, Thumbnails"
+marketing agency colchester,gb,22,70,3.5,NaN,NA,NaN,marketing agency colchester,2020-04-19 07:26:06,"Adwords top, Sitelinks, Adwords bottom"
+performance marketing agency,gb,48,70,7,NaN,NA,NaN,digital marketing agency,2020-05-08 03:10:38,Sitelinks
+digital marketing activities,gb,62,70,NaN,NaN,NA,NaN,digital marketing,2020-04-29 01:58:15,"Featured snippet, Thumbnails, People also ask, Sitelinks, Image pack"
+agency services,gb,1,70,1.4,NaN,NA,NaN,agency services,2020-05-10 18:43:53,People also ask
+online services definition,gb,1,70,0,NaN,NA,NaN,what is online services,2020-05-09 06:29:57,People also ask
+digital media meaning,gb,13,70,0,NaN,NA,NaN,digital media,2020-04-23 12:01:32,"Sitelinks, People also ask, Top stories, Thumbnails"
+digital agency services,gb,6,70,12,NaN,NA,NaN,digital marketing services,2020-04-16 16:37:22,People also ask
+digital marketing firm,gb,43,70,8,NaN,NA,NaN,marketing agency,2020-04-24 06:28:24,"Adwords top, Sitelinks, Top stories, Thumbnails, Adwords bottom"
+marketing information,gb,6,70,2.5,NaN,NA,NaN,marketing information,2020-04-24 05:28:59,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
+description of a market,gb,1,60,0,NaN,NA,NaN,description of a market,2020-04-17 21:16:47,"Featured snippet, People also ask, Image pack"
+how to do online marketing,gb,68,60,3.5,NaN,NA,NaN,online marketing,2020-04-17 01:06:15,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails"
+types of online marketing,gb,31,60,1.6,NaN,NA,NaN,types of digital marketing,2020-04-15 06:48:02,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+digital.co.uk,gb,35,60,NaN,NaN,NA,NaN,digital.co.uk,2020-04-15 01:29:59,Sitelinks
+examples of digital media,gb,9,60,0.02,NaN,NA,NaN,digital media examples,2020-04-27 11:46:15,"Featured snippet, Thumbnails, People also ask, Top stories"
+do you meaning,gb,6,60,NaN,NaN,NA,NaN,do you,2020-04-15 10:50:49,"Featured snippet, People also ask, Top stories, Thumbnails"
+digital marketing agency reading,gb,1,60,16,NaN,NA,NaN,digital marketing agency reading,2020-04-16 04:59:53,"Adwords top, Sitelinks, Videos, Image pack, Adwords bottom"
+digital media companies london,gb,27,60,4,NaN,NA,NaN,digital agency,2020-04-16 06:06:42,"Adwords top, Sitelinks, Adwords bottom"
+www.coast,gb,3,60,NaN,NaN,NA,NaN,coast,2020-04-22 22:46:31,Sitelinks
+marketers or marketeers,gb,3,60,NaN,NaN,NA,NaN,marketeer,2020-05-10 01:00:19,"Featured snippet, Thumbnails, People also ask, Top stories"
+uses of internet in business,gb,6,60,2.5,NaN,NA,NaN,uses of internet in business,2020-04-16 10:34:32,"Featured snippet, Thumbnails, People also ask, Image pack"
+internet marketing firm,gb,70,60,NaN,NaN,NA,NaN,best internet marketing company,2020-04-17 02:17:12,People also ask
+it marketing,gb,4,60,3.5,NaN,NA,NaN,it marketing,2020-04-19 05:05:18,"Adwords top, Sitelinks, Image pack, Adwords bottom"
+internet marketing bristol,gb,53,60,0,NaN,NA,NaN,digirank,2020-05-04 04:12:27,Sitelinks
+online strategy,gb,68,60,2.5,NaN,NA,NaN,strategy internet marketing,2020-04-26 10:38:20,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
+social media marketing companies london,gb,24,60,7,NaN,NA,NaN,social media agency,2020-04-19 08:24:12,"Adwords top, Sitelinks, Adwords bottom"
+how to find out if a company is still in business,gb,10,60,NaN,NaN,NA,NaN,company insolvency register,2020-04-19 22:21:47,People also ask
+what does entails mean,gb,11,60,0,NaN,NA,NaN,entail,2020-04-17 23:44:24,"Knowledge card, People also ask"
+new digital media,gb,37,60,0,NaN,NA,NaN,new media,2020-05-10 11:50:02,"Sitelinks, People also ask"
+digital media industry,gb,16,60,0,NaN,NA,NaN,digital media,2020-04-29 01:44:40,"Sitelinks, People also ask, Top stories, Thumbnails"
+social media marketing bristol,gb,0,60,0.6,NaN,NA,NaN,social media marketing bristol,2020-05-09 17:28:24,NaN
+lucy online free,gb,2,60,0,NaN,NA,NaN,watch lucy online free,2020-04-17 19:02:30,"Knowledge card, Top stories, Thumbnails, Adwords bottom, Sitelinks"
+climbonline,gb,5,60,NaN,63,NA,1.1,climb online,2020-05-04 13:28:21,"Adwords top, Sitelinks"
+digital results,gb,12,60,0,NaN,NA,NaN,forge agency,2020-04-25 05:14:29,"Top stories, Thumbnails, Image pack"
+digital def,gb,42,60,NaN,NaN,NA,NaN,digital,2020-05-03 14:43:48,"Knowledge card, People also ask"
+internet marketing company uk,gb,48,60,NaN,NaN,NA,NaN,digital marketing agency,2020-04-14 14:51:33,"Featured snippet, Thumbnails, Sitelinks"
+market details,gb,41,60,1.8,NaN,NA,NaN,android market,2020-04-17 05:39:47,"Top stories, Thumbnails"
+understanding digital marketing: marketing strategies for engaging the digital generation,gb,1,60,NaN,NaN,NA,NaN,understanding digital marketing,2020-05-10 12:24:50,"Top stories, Thumbnails, Image pack"
+impression digital,gb,4,60,NaN,40,NA,1.18,digital marketing agency,2020-04-21 13:35:44,"Sitelinks, Top stories, Thumbnails, Image pack"
+what is a.,gb,54,60,NaN,NaN,NA,NaN,a,2020-04-18 20:23:53,"Knowledge card, People also ask, Top stories, Thumbnails"
+online marketing blog,gb,82,60,0,NaN,NA,NaN,digital marketing blogs,2020-04-26 22:47:18,"Adwords top, Sitelinks"
+creative agency essex,gb,26,60,2.5,NaN,NA,NaN,design agency essex,2020-05-09 03:06:27,"Adwords top, Sitelinks, Adwords bottom"
+what is &,gb,36,60,0,NaN,NA,NaN,ampersand,2020-05-03 19:59:15,"Sitelinks, People also ask, Top stories, Thumbnails"
+hubspor,gb,63,60,NaN,NaN,NA,NaN,hubspot,2020-04-20 15:43:26,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+work digital,gb,3,60,0,NaN,NA,NaN,work digital,2020-04-19 08:34:05,"Top stories, Thumbnails, Image pack"
+online marketing firm,gb,55,60,4,NaN,NA,NaN,marketing agency,2020-04-18 07:13:57,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
+what is digital business,gb,19,60,NaN,NaN,NA,NaN,digital company,2020-04-14 19:32:51,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
+digital media company,gb,50,60,NaN,NaN,NA,NaN,dms,2020-04-16 11:46:09,"People also ask, Adwords bottom, Sitelinks"
+areas of marketing,gb,17,60,0,NaN,NA,NaN,areas of marketing,2020-05-06 04:55:48,"Featured snippet, People also ask, Sitelinks, Image pack"
+digital marketing strategist,gb,39,60,13,NaN,NA,NaN,digital marketing strategist,2020-05-08 10:13:13,"Featured snippet, Thumbnails, People also ask, Top stories"
+digital marketing social media,gb,75,60,9,NaN,NA,NaN,social media marketing,2020-04-14 01:33:47,"Featured snippet, Sitelinks, Top stories, Thumbnails"
+digital marketing communication,gb,23,60,6,NaN,NA,NaN,digital marketing,2020-05-10 19:43:12,"Adwords top, Sitelinks, Featured snippet, People also ask"
+digital advertising agency london,gb,47,60,8,NaN,NA,NaN,digital agency,2020-04-25 09:49:43,"Featured snippet, Thumbnails"
+web design company nottingham,gb,43,60,7,NaN,NA,NaN,web design nottingham,2020-05-05 18:07:19,"Adwords bottom, Sitelinks"
+search marketing services,gb,23,60,NaN,NaN,NA,NaN,search engine marketing company,2020-05-09 10:52:14,NaN
+internet businesses,gb,59,60,1.2,NaN,NA,NaN,online business ideas,2020-05-02 05:59:48,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories, Adwords bottom"
+coast head office london,gb,5,60,0.8,NaN,NA,NaN,coast customer services,2020-04-15 05:26:58,NaN
+digital marketing methods,gb,67,60,1.6,NaN,NA,NaN,digital marketing strategy,2020-05-07 23:24:30,"Featured snippet, Thumbnails, People also ask, Image pack"
+بازاریابی,gb,8,60,NaN,NaN,NA,NaN,بازاریابی,2020-04-19 20:56:28,Sitelinks
+digital media products,gb,6,60,4,NaN,NA,NaN,digital media products,2020-05-10 15:26:48,"Featured snippet, Thumbnails, People also ask"
+marketing companys,gb,7,60,5,NaN,NA,NaN,marketing agency,2020-05-09 03:29:09,"Adwords top, Sitelinks, People also ask, Image pack"
+introduction to digital marketing,gb,51,60,7,NaN,NA,NaN,google certification,2020-04-18 10:47:53,"Featured snippet, Top stories, Thumbnails, Sitelinks, People also ask"
+like who what what what where,gb,0,60,NaN,NaN,NA,NaN,who and what and where song,2020-05-03 16:48:26,"Top stories, Thumbnails, Videos"
+digital marketing images,gb,4,60,0,NaN,NA,NaN,digital marketing images,2020-05-07 10:04:31,"Image pack, Sitelinks"
+elements of internet marketing,gb,1,60,4.5,NaN,NA,NaN,elements of internet marketing,2020-05-04 14:43:40,"Featured snippet, Thumbnails, People also ask"
+internet marketing seo,gb,81,60,0,NaN,NA,NaN,internet marketing seo,2020-05-07 06:25:11,"Featured snippet, Thumbnails, People also ask, Sitelinks"
+market definition example,gb,37,60,NaN,NaN,NA,NaN,market definition example,2020-04-19 15:12:07,"Featured snippet, People also ask, Top stories, Thumbnails, Image pack"
+online web marketing,gb,49,60,0,NaN,NA,NaN,online web marketing,2020-04-20 09:40:08,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+digital define,gb,35,60,NaN,NaN,NA,NaN,digital,2020-04-23 13:29:58,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails"
 digital sales,gb,0,60,0,20,NA,1.12,digital sales,2020-05-07 11:16:51,"Featured snippet, People also ask, Top stories, Thumbnails, Image pack"
-what is the who,gb,50,60,0,Other,NA,NaN,who is who,2020-04-20 18:25:37,"Sitelinks, Tweet box"
-how to become a digital marketer,gb,15,60,5,Other,NA,NaN,how to become a digital marketer,2020-05-09 13:35:38,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
-best marketing agencies london,gb,11,60,3.5,Other,NA,NaN,marketing agency,2020-04-18 23:55:21,"Adwords top, Sitelinks, People also ask, Adwords bottom"
-online marketing uk,gb,50,60,8,Other,NA,NaN,digital marketing agency,2020-04-21 08:17:52,NaN
-fundamentals of digital marketing,gb,8,60,Other,Other,NA,NaN,google certification,2020-04-14 23:18:06,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
-what are digital channels,gb,19,60,Other,Other,NA,NaN,digital marketing channels,2020-04-19 21:12:18,"Featured snippet, Thumbnails, People also ask, Top stories"
-method digital,gb,42,60,Other,Other,NA,NaN,method,2020-04-16 20:42:22,"Sitelinks, Top stories, Thumbnails"
-whats the use,gb,3,50,Other,Other,NA,NaN,mac miller what's the use,2020-04-16 10:08:17,"Top stories, Thumbnails, Sitelinks"
-online marketing campaign,gb,48,50,7,Other,NA,NaN,marketing campaign,2020-05-06 05:50:33,People also ask
-best online marketing,gb,45,50,4.5,Other,NA,NaN,online marketing,2020-04-17 09:23:23,"Featured snippet, Thumbnails, People also ask"
-marketing business definition,gb,70,50,0,Other,NA,NaN,what is marketing,2020-04-29 12:43:17,"Featured snippet, Thumbnails, People also ask, Videos, Image pack"
-digitally meaning,gb,12,50,0,Other,NA,NaN,digitally,2020-04-17 20:58:27,"Knowledge card, People also ask, Videos, Top stories, Thumbnails"
-encompasses means,gb,9,50,Other,Other,NA,NaN,encompass,2020-04-20 19:07:03,"Knowledge card, People also ask"
-online marketing news,gb,59,50,8,Other,NA,NaN,marketing news,2020-05-08 16:23:15,Sitelinks
-digital media channels,gb,33,50,Other,Other,NA,NaN,digital marketing channels,2020-04-15 19:38:44,"Featured snippet, People also ask, Image pack"
-see define,gb,33,50,Other,Other,NA,NaN,see meaning,2020-05-08 01:47:21,"Knowledge card, People also ask"
-mobile marketing companies,gb,9,50,40,Other,NA,NaN,mobile marketing agency,2020-05-04 12:55:50,Featured snippet
-coast media,gb,1,50,Other,Other,NA,NaN,coast media,2020-04-16 18:09:18,Image pack
-digital marketing ipswich,gb,28,50,0.9,Other,NA,NaN,digital marketing ipswich,2020-05-10 10:01:10,Image pack
-one digitals reviews,gb,35,50,Other,Other,NA,NaN,onedigitals co uk review,2020-04-28 17:04:15,NaN
-marketing concept examples,gb,22,50,1.3,Other,NA,NaN,marketing concepts,2020-04-15 13:23:14,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
-hubspoy,gb,64,50,Other,Other,NA,NaN,hubspot,2020-04-16 00:26:16,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
-digital transformation agency london,gb,47,50,9,Other,NA,NaN,digital transformation agency london,2020-04-20 21:59:34,Adwords bottom
-design agency colchester,gb,24,50,4,Other,NA,NaN,design agency colchester,2020-05-05 10:39:08,Image pack
-digital marketing news uk,gb,40,50,7,Other,NA,NaN,digital marketing,2020-04-15 10:44:33,"Adwords top, Sitelinks"
-digital marketing terms,gb,10,50,1.1,Other,NA,NaN,digital marketing terms,2020-05-08 00:08:11,"Featured snippet, Thumbnails"
-digital media manager,gb,2,50,0,Other,NA,NaN,digital media manager,2020-05-07 06:31:08,People also ask
-social media companies uk,gb,22,50,7,Other,NA,NaN,social media marketing agency,2020-04-14 00:03:20,Featured snippet
-examples of digital marketing,gb,39,50,4,Other,NA,NaN,digital marketing,2020-04-15 05:37:41,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-online marketing plan,gb,51,50,6,Other,NA,NaN,online marketing plan,2020-04-20 11:45:35,"People also ask, Image pack"
-define used to,gb,3,50,0,Other,NA,NaN,used to definition,2020-04-30 00:40:39,"Knowledge card, People also ask"
-can do meaning,gb,5,50,Other,Other,NA,NaN,can do attitude,2020-04-16 21:22:53,"Knowledge card, People also ask, Top stories, Thumbnails, Image pack"
-web designers nottingham,gb,37,50,13,Other,NA,NaN,web design nottingham,2020-04-30 12:22:10,"Adwords bottom, Sitelinks"
-meaning of digital,gb,30,50,0,Other,NA,NaN,digital,2020-04-24 07:03:51,"Knowledge card, People also ask, Top stories, Thumbnails"
-it digital,gb,7,50,Other,Other,NA,NaN,it digital,2020-04-16 17:56:26,"People also ask, Top stories, Thumbnails, Image pack"
-passion digital ltd,gb,0,50,Other,Other,NA,NaN,digital marketing agency,2020-05-09 15:42:52,"Sitelinks, Image pack"
-what is a media company,gb,12,50,0,Other,NA,NaN,media company,2020-05-09 09:08:00,"Featured snippet, Thumbnails, People also ask, Top stories"
-what is.a,gb,35,50,Other,Other,NA,NaN,a,2020-04-15 05:11:53,"Knowledge card, People also ask, Top stories, Thumbnails"
-market://details,gb,5,50,Other,Other,NA,NaN,android market,2020-04-20 10:57:24,"Top stories, Thumbnails"
-what is a com,gb,68,50,0,Other,NA,NaN,microsoft.com,2020-05-03 00:50:51,"Sitelinks, People also ask"
-go digital reviews,gb,0,50,Other,Other,NA,NaN,go digital reviews,2020-05-06 17:13:07,NaN
-marketing message definition,gb,17,50,Other,Other,NA,NaN,marketing message examples,2020-05-10 12:26:06,"Featured snippet, People also ask"
-whats digital marketing,gb,67,50,6,Other,NA,NaN,digital marketing,2020-04-15 18:37:51,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
-web designer nottingham,gb,37,50,9,Other,NA,NaN,web design nottingham,2020-04-16 10:21:07,"Sitelinks, Image pack"
-which and what,gb,9,50,0,Other,NA,NaN,which or what,2020-04-26 16:12:27,"Featured snippet, People also ask, Top stories, Thumbnails"
-who's online,gb,1,50,0,Other,NA,NaN,who's online,2020-04-19 23:46:11,"Featured snippet, Top stories, Thumbnails"
-digital marketing technology,gb,41,50,Other,Other,NA,NaN,digital marketing technology,2020-05-03 02:14:31,"People also ask, Sitelinks"
-online marketing channels,gb,40,50,9,Other,NA,NaN,marketing channels,2020-04-16 04:53:23,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
-internet marketing business,gb,76,50,4.5,Other,NA,NaN,online marketing business,2020-04-14 21:47:38,"People also ask, Top stories, Thumbnails, Adwords bottom, Sitelinks"
-didgital,gb,79,50,0,Other,NA,NaN,digital spy,2020-04-19 08:00:34,"Sitelinks, People also ask, Image pack"
-internet channels,gb,56,50,0.15,Other,NA,NaN,best wifi channel,2020-05-06 13:13:35,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
-digital advertising companies,gb,28,50,25,Other,NA,NaN,digital agency,2020-04-15 21:26:20,"Adwords top, Adwords bottom, Sitelinks"
-definition of digital media,gb,13,50,0,Other,NA,NaN,digital media,2020-05-01 09:26:01,"Sitelinks, People also ask, Top stories, Thumbnails, Videos"
-essex traffic twitter,gb,0,50,Other,Other,NA,NaN,essex travel news,2020-05-07 02:22:09,"Tweet box, Top stories, Thumbnails, Image pack, Videos"
-digital marketers,gb,80,50,Other,Other,NA,NaN,digital marketer,2020-04-19 12:47:06,"Sitelinks, People also ask, Top stories, Thumbnails"
-internet description,gb,51,50,0,Other,NA,NaN,internet,2020-05-10 17:19:42,"Featured snippet, People also ask, Sitelinks, Videos"
-detail online,gb,5,50,Other,Other,NA,NaN,detail online,2020-05-07 13:19:17,"Sitelinks, Image pack"
-digital marketing for financial services,gb,0,50,13,Other,NA,NaN,digital marketing for financial services,2020-04-17 06:01:48,"Adwords top, Sitelinks, Adwords bottom"
-digital marketing colchester,gb,0,50,3,Other,NA,NaN,digital marketing colchester,2020-04-15 08:27:47,"Adwords top, Sitelinks, Adwords bottom"
-digital world meaning,gb,1,50,Other,Other,NA,NaN,digital world meaning,2020-05-01 05:41:57,"Featured snippet, People also ask"
-london digital marketing,gb,39,50,Other,Other,NA,NaN,digital marketing agency,2020-05-05 09:48:09,"Adwords top, Sitelinks, Adwords bottom"
-digital marketing experts,gb,9,50,Other,Other,NA,NaN,online marketing expert,2020-04-27 11:20:45,"Featured snippet, Thumbnails, Sitelinks, People also ask, Top stories"
-internet marketing london,gb,54,40,2,Other,NA,NaN,digital marketing agency,2020-04-30 15:02:47,"Featured snippet, Thumbnails, Sitelinks"
-small world marketing,gb,0,40,Other,Other,NA,NaN,small world marketing,2020-04-28 02:51:23,"Sitelinks, Image pack"
-clim online,gb,24,40,0,Other,NA,NaN,climb online,2020-04-28 13:06:51,"Adwords top, Sitelinks"
-blog internet marketing,gb,83,40,0,Other,NA,NaN,internet marketing blog,2020-04-29 05:25:21,NaN
-what is a ',gb,35,40,Other,Other,NA,NaN,a,2020-04-18 11:10:53,"Knowledge card, Top stories, Thumbnails"
-the who website,gb,88,40,Other,Other,NA,NaN,the who,2020-04-24 20:34:17,Sitelinks
-market description,gb,17,40,0,Other,NA,NaN,description of a market,2020-04-26 04:39:23,"Featured snippet, Thumbnails, People also ask, Top stories"
-digitial,gb,79,40,0,Other,NA,NaN,digital,2020-04-26 12:06:18,"Sitelinks, People also ask, Top stories, Thumbnails"
-now digital,gb,5,40,0,Other,NA,NaN,now digital,2020-04-24 07:03:43,"Top stories, Thumbnails"
-space marketing,gb,4,40,Other,Other,NA,NaN,space marketing,2020-05-06 17:56:23,"Top stories, Thumbnails, Image pack"
-digital 1,gb,26,40,0,Other,NA,NaN,digital 1,2020-04-21 18:13:04,"Sitelinks, Top stories, Thumbnails, Image pack"
-how of,gb,48,40,0,Other,NA,NaN,how of,2020-05-08 17:04:27,People also ask
-online marketer,gb,28,40,Other,Other,NA,NaN,online marketing,2020-04-25 20:30:41,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-online marketing solutions,gb,2,40,5,Other,NA,NaN,online marketing solutions,2020-04-15 09:20:52,"Adwords top, Sitelinks, Adwords bottom"
-the search marketing shop,gb,0,40,25,Other,NA,NaN,the search marketing shop,2020-04-19 02:19:27,"Sitelinks, Image pack"
-dogital,gb,80,40,Other,Other,NA,NaN,digital,2020-05-07 21:34:12,"Sitelinks, People also ask, Image pack"
-marketing channels examples,gb,37,40,2.5,Other,NA,NaN,marketing channels,2020-04-19 18:19:44,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-biddable media definition,gb,0,40,0,Other,NA,NaN,biddable media,2020-04-25 15:38:07,"Featured snippet, Thumbnails"
-what will be will be meaning,gb,0,40,0,Other,NA,NaN,what will be will be,2020-05-07 13:04:17,"Featured snippet, People also ask, Image pack, Videos"
-information marketing,gb,24,40,0.7,Other,NA,NaN,information marketing,2020-04-19 11:35:27,"Featured snippet, Thumbnails, People also ask, Top stories"
-digital means,gb,23,40,0,Other,NA,NaN,digital,2020-05-08 05:32:48,"Knowledge card, People also ask, Top stories, Thumbnails"
-define increased,gb,30,40,Other,Other,NA,NaN,increased,2020-04-30 11:12:28,"Knowledge card, People also ask"
-direct and digital marketing,gb,1,40,0,Other,NA,NaN,direct and digital marketing,2020-04-23 10:55:58,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails"
-the digital,gb,86,40,0,Other,NA,NaN,the digital picture,2020-04-28 09:01:55,"Sitelinks, Top stories, Thumbnails, Image pack"
-market sector definition,gb,11,40,0,Other,NA,NaN,market sector definition,2020-05-09 03:12:46,People also ask
-digital marketing communications,gb,26,40,18,Other,NA,NaN,digital marketing,2020-04-27 05:12:26,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Image pack"
-full-service,gb,3,40,1.5,Other,NA,NaN,the full service,2020-04-20 13:59:29,"Adwords top, Sitelinks, People also ask"
-what does .com,gb,5,40,Other,Other,NA,NaN,what does .com,2020-04-21 04:27:13,"People also ask, Sitelinks, Top stories, Thumbnails"
-media and marketing,gb,10,40,2,Other,NA,NaN,media and marketing,2020-05-08 18:57:52,"Featured snippet, People also ask"
-digital online,gb,57,40,1.1,Other,NA,NaN,google digital garage,2020-04-24 23:51:14,"People also ask, Sitelinks"
-social media marketing companies for small business,gb,41,40,6,Other,NA,NaN,social media marketing agency,2020-04-14 07:12:20,"Featured snippet, Sitelinks"
-interactive media examples,gb,9,40,1.3,Other,NA,NaN,interactive media,2020-04-19 11:45:53,"Featured snippet, People also ask, Top stories, Thumbnails, Videos"
-b2b digital marketing agency,gb,40,40,20,Other,NA,NaN,NaN,NaN,NaN
-social media and digital marketing,gb,61,40,8,Other,NA,NaN,social media marketing,2020-04-29 04:55:42,"Featured snippet, People also ask"
-go umbrella time online,gb,5,40,11,Other,NA,NaN,go umbrella time online,2020-05-07 09:55:25,Adwords top
-ccoast,gb,42,40,0.2,Other,NA,NaN,coast,2020-04-22 03:22:21,"Sitelinks, People also ask, Image pack"
-social media agency bristol,gb,4,40,10,Other,NA,NaN,social media marketing bristol,2020-05-06 19:31:49,Sitelinks
-internet marketing companies,gb,64,40,60,Other,NA,NaN,digital marketing agency,2020-04-29 00:18:03,Featured snippet
-service definition business,gb,20,40,Other,Other,NA,NaN,service business definition,2020-04-26 00:11:10,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-media industry definition,gb,3,40,Other,Other,NA,NaN,media industry,2020-05-10 16:45:31,People also ask
-business market definition,gb,38,40,4,Other,NA,NaN,business market definition,2020-05-10 00:04:00,"People also ask, Sitelinks, Top stories, Thumbnails"
-coast to coast ipswich menu,gb,0,40,Other,Other,NA,NaN,coast to coast ipswich,2020-05-07 20:14:22,"Sitelinks, Image pack"
-coast digital colchester,gb,0,40,Other,Other,NA,NaN,digital marketing agency,2020-05-03 15:27:03,Sitelinks
-digital agencies uk,gb,28,40,9,Other,NA,NaN,digital agency uk,2020-04-29 08:19:51,"Featured snippet, Thumbnails"
-digital space definition,gb,8,40,0,Other,NA,NaN,digital space definition,2020-04-22 05:03:43,"Featured snippet, People also ask"
-like who who what what where,gb,0,40,Other,Other,NA,NaN,who and what and where song,2020-05-07 19:52:49,"Top stories, Thumbnails, Videos, Image pack"
-internet marketing strategy,gb,65,40,9,Other,NA,NaN,strategy internet marketing,2020-04-15 02:06:14,"Featured snippet, Thumbnails, Top stories, Image pack"
-define: business,gb,64,40,Other,Other,NA,NaN,business definition,2020-04-16 08:11:14,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails, Image pack"
-online service definition,gb,1,40,Other,Other,NA,NaN,what is online services,2020-04-29 22:12:56,"People also ask, Sitelinks"
-website marketing strategy,gb,45,40,6,Other,NA,NaN,marketing website,2020-04-24 01:13:53,"Adwords top, Sitelinks, Featured snippet, Thumbnails"
-content marketing agencies london,gb,31,40,Other,Other,NA,NaN,content agency london,2020-05-04 11:14:13,"Adwords top, Sitelinks, Adwords bottom"
-digital media advertising,gb,12,40,3,Other,NA,NaN,digital advertising,2020-04-25 11:19:50,"Featured snippet, Thumbnails, People also ask"
-digital media agencies,gb,39,40,14,Other,NA,NaN,marketing agency,2020-05-09 20:56:34,"Adwords top, Sitelinks, Adwords bottom"
-full personal service,gb,0,40,0,Other,NA,NaN,full personal service,2020-05-10 02:07:25,"People also ask, Top stories, Thumbnails"
-sales and marketing companies,gb,9,40,2.5,Other,NA,NaN,shs,2020-04-21 17:33:01,"Sitelinks, People also ask, Image pack"
-digial,gb,78,40,0,Other,NA,NaN,digital,2020-04-20 13:03:16,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
-the help agency,gb,1,40,0,Other,NA,NaN,the help agency,2020-05-08 15:25:51,Sitelinks
-coast agency,gb,2,40,0,Other,NA,NaN,marketing agency poole,2020-04-26 04:51:56,"Sitelinks, Image pack, Videos"
-digital agency essex,gb,55,40,3.5,Other,NA,NaN,marketing agency essex,2020-05-10 00:47:16,Image pack
-what does encompasses mean,gb,7,40,Other,Other,NA,NaN,encompass,2020-04-28 10:03:52,"Knowledge card, People also ask, Videos"
-digital marketing what is it,gb,67,40,3,Other,NA,NaN,digital marketing,2020-04-14 02:00:24,"People also ask, Sitelinks, Top stories, Thumbnails"
-what does market mean,gb,43,40,Other,Other,NA,NaN,market,2020-04-18 01:54:46,"Knowledge card, People also ask, Top stories, Thumbnails"
-web development nottingham,gb,41,40,7,Other,NA,NaN,web design nottingham,2020-05-07 10:22:48,"Sitelinks, Adwords bottom"
-new media marketing,gb,72,40,0,Other,NA,NaN,media-marketing,2020-05-03 19:41:57,People also ask
-be website,gb,47,40,0,Other,NA,NaN,british eventing,2020-04-25 02:23:23,"Sitelinks, Image pack"
-website marketing company,gb,48,40,7,Other,NA,NaN,online marketing company,2020-04-24 04:47:03,Sitelinks
-digitla,gb,69,40,0,Other,NA,NaN,digital spy,2020-04-20 08:13:41,"Sitelinks, People also ask, Image pack"
-digital seo.net,gb,41,40,Other,Other,NA,NaN,seo sussex,2020-05-06 22:41:36,NaN
-integrated marketing agency london,gb,36,40,7,Other,NA,NaN,integrated marketing agency london,2020-04-18 17:07:59,NaN
-constitutes define,gb,9,30,0,Other,NA,NaN,constitute,2020-04-15 00:35:46,"Knowledge card, People also ask"
-uk agency services,gb,56,30,0,Other,NA,NaN,uk agency,2020-05-08 20:06:59,NaN
+what is the who,gb,50,60,0,NaN,NA,NaN,who is who,2020-04-20 18:25:37,"Sitelinks, Tweet box"
+how to become a digital marketer,gb,15,60,5,NaN,NA,NaN,how to become a digital marketer,2020-05-09 13:35:38,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories, Adwords bottom"
+best marketing agencies london,gb,11,60,3.5,NaN,NA,NaN,marketing agency,2020-04-18 23:55:21,"Adwords top, Sitelinks, People also ask, Adwords bottom"
+online marketing uk,gb,50,60,8,NaN,NA,NaN,digital marketing agency,2020-04-21 08:17:52,NaN
+fundamentals of digital marketing,gb,8,60,NaN,NaN,NA,NaN,google certification,2020-04-14 23:18:06,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
+what are digital channels,gb,19,60,NaN,NaN,NA,NaN,digital marketing channels,2020-04-19 21:12:18,"Featured snippet, Thumbnails, People also ask, Top stories"
+method digital,gb,42,60,NaN,NaN,NA,NaN,method,2020-04-16 20:42:22,"Sitelinks, Top stories, Thumbnails"
+whats the use,gb,3,50,NaN,NaN,NA,NaN,mac miller what's the use,2020-04-16 10:08:17,"Top stories, Thumbnails, Sitelinks"
+online marketing campaign,gb,48,50,7,NaN,NA,NaN,marketing campaign,2020-05-06 05:50:33,People also ask
+best online marketing,gb,45,50,4.5,NaN,NA,NaN,online marketing,2020-04-17 09:23:23,"Featured snippet, Thumbnails, People also ask"
+marketing business definition,gb,70,50,0,NaN,NA,NaN,what is marketing,2020-04-29 12:43:17,"Featured snippet, Thumbnails, People also ask, Videos, Image pack"
+digitally meaning,gb,12,50,0,NaN,NA,NaN,digitally,2020-04-17 20:58:27,"Knowledge card, People also ask, Videos, Top stories, Thumbnails"
+encompasses means,gb,9,50,NaN,NaN,NA,NaN,encompass,2020-04-20 19:07:03,"Knowledge card, People also ask"
+online marketing news,gb,59,50,8,NaN,NA,NaN,marketing news,2020-05-08 16:23:15,Sitelinks
+digital media channels,gb,33,50,NaN,NaN,NA,NaN,digital marketing channels,2020-04-15 19:38:44,"Featured snippet, People also ask, Image pack"
+see define,gb,33,50,NaN,NaN,NA,NaN,see meaning,2020-05-08 01:47:21,"Knowledge card, People also ask"
+mobile marketing companies,gb,9,50,40,NaN,NA,NaN,mobile marketing agency,2020-05-04 12:55:50,Featured snippet
+coast media,gb,1,50,NaN,NaN,NA,NaN,coast media,2020-04-16 18:09:18,Image pack
+digital marketing ipswich,gb,28,50,0.9,NaN,NA,NaN,digital marketing ipswich,2020-05-10 10:01:10,Image pack
+one digitals reviews,gb,35,50,NaN,NaN,NA,NaN,onedigitals co uk review,2020-04-28 17:04:15,NaN
+marketing concept examples,gb,22,50,1.3,NaN,NA,NaN,marketing concepts,2020-04-15 13:23:14,"Featured snippet, Thumbnails, People also ask, Top stories, Image pack"
+hubspoy,gb,64,50,NaN,NaN,NA,NaN,hubspot,2020-04-16 00:26:16,"Adwords top, Sitelinks, Top stories, Thumbnails, People also ask, Tweet box, Image pack"
+digital transformation agency london,gb,47,50,9,NaN,NA,NaN,digital transformation agency london,2020-04-20 21:59:34,Adwords bottom
+design agency colchester,gb,24,50,4,NaN,NA,NaN,design agency colchester,2020-05-05 10:39:08,Image pack
+digital marketing news uk,gb,40,50,7,NaN,NA,NaN,digital marketing,2020-04-15 10:44:33,"Adwords top, Sitelinks"
+digital marketing terms,gb,10,50,1.1,NaN,NA,NaN,digital marketing terms,2020-05-08 00:08:11,"Featured snippet, Thumbnails"
+digital media manager,gb,2,50,0,NaN,NA,NaN,digital media manager,2020-05-07 06:31:08,People also ask
+social media companies uk,gb,22,50,7,NaN,NA,NaN,social media marketing agency,2020-04-14 00:03:20,Featured snippet
+examples of digital marketing,gb,39,50,4,NaN,NA,NaN,digital marketing,2020-04-15 05:37:41,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+online marketing plan,gb,51,50,6,NaN,NA,NaN,online marketing plan,2020-04-20 11:45:35,"People also ask, Image pack"
+define used to,gb,3,50,0,NaN,NA,NaN,used to definition,2020-04-30 00:40:39,"Knowledge card, People also ask"
+can do meaning,gb,5,50,NaN,NaN,NA,NaN,can do attitude,2020-04-16 21:22:53,"Knowledge card, People also ask, Top stories, Thumbnails, Image pack"
+web designers nottingham,gb,37,50,13,NaN,NA,NaN,web design nottingham,2020-04-30 12:22:10,"Adwords bottom, Sitelinks"
+meaning of digital,gb,30,50,0,NaN,NA,NaN,digital,2020-04-24 07:03:51,"Knowledge card, People also ask, Top stories, Thumbnails"
+it digital,gb,7,50,NaN,NaN,NA,NaN,it digital,2020-04-16 17:56:26,"People also ask, Top stories, Thumbnails, Image pack"
+passion digital ltd,gb,0,50,NaN,NaN,NA,NaN,digital marketing agency,2020-05-09 15:42:52,"Sitelinks, Image pack"
+what is a media company,gb,12,50,0,NaN,NA,NaN,media company,2020-05-09 09:08:00,"Featured snippet, Thumbnails, People also ask, Top stories"
+what is.a,gb,35,50,NaN,NaN,NA,NaN,a,2020-04-15 05:11:53,"Knowledge card, People also ask, Top stories, Thumbnails"
+market://details,gb,5,50,NaN,NaN,NA,NaN,android market,2020-04-20 10:57:24,"Top stories, Thumbnails"
+what is a com,gb,68,50,0,NaN,NA,NaN,microsoft.com,2020-05-03 00:50:51,"Sitelinks, People also ask"
+go digital reviews,gb,0,50,NaN,NaN,NA,NaN,go digital reviews,2020-05-06 17:13:07,NaN
+marketing message definition,gb,17,50,NaN,NaN,NA,NaN,marketing message examples,2020-05-10 12:26:06,"Featured snippet, People also ask"
+whats digital marketing,gb,67,50,6,NaN,NA,NaN,digital marketing,2020-04-15 18:37:51,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails"
+web designer nottingham,gb,37,50,9,NaN,NA,NaN,web design nottingham,2020-04-16 10:21:07,"Sitelinks, Image pack"
+which and what,gb,9,50,0,NaN,NA,NaN,which or what,2020-04-26 16:12:27,"Featured snippet, People also ask, Top stories, Thumbnails"
+who's online,gb,1,50,0,NaN,NA,NaN,who's online,2020-04-19 23:46:11,"Featured snippet, Top stories, Thumbnails"
+digital marketing technology,gb,41,50,NaN,NaN,NA,NaN,digital marketing technology,2020-05-03 02:14:31,"People also ask, Sitelinks"
+online marketing channels,gb,40,50,9,NaN,NA,NaN,marketing channels,2020-04-16 04:53:23,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask"
+internet marketing business,gb,76,50,4.5,NaN,NA,NaN,online marketing business,2020-04-14 21:47:38,"People also ask, Top stories, Thumbnails, Adwords bottom, Sitelinks"
+didgital,gb,79,50,0,NaN,NA,NaN,digital spy,2020-04-19 08:00:34,"Sitelinks, People also ask, Image pack"
+internet channels,gb,56,50,0.15,NaN,NA,NaN,best wifi channel,2020-05-06 13:13:35,"Featured snippet, Thumbnails, People also ask, Sitelinks, Top stories"
+digital advertising companies,gb,28,50,25,NaN,NA,NaN,digital agency,2020-04-15 21:26:20,"Adwords top, Adwords bottom, Sitelinks"
+definition of digital media,gb,13,50,0,NaN,NA,NaN,digital media,2020-05-01 09:26:01,"Sitelinks, People also ask, Top stories, Thumbnails, Videos"
+essex traffic twitter,gb,0,50,NaN,NaN,NA,NaN,essex travel news,2020-05-07 02:22:09,"Tweet box, Top stories, Thumbnails, Image pack, Videos"
+digital marketers,gb,80,50,NaN,NaN,NA,NaN,digital marketer,2020-04-19 12:47:06,"Sitelinks, People also ask, Top stories, Thumbnails"
+internet description,gb,51,50,0,NaN,NA,NaN,internet,2020-05-10 17:19:42,"Featured snippet, People also ask, Sitelinks, Videos"
+detail online,gb,5,50,NaN,NaN,NA,NaN,detail online,2020-05-07 13:19:17,"Sitelinks, Image pack"
+digital marketing for financial services,gb,0,50,13,NaN,NA,NaN,digital marketing for financial services,2020-04-17 06:01:48,"Adwords top, Sitelinks, Adwords bottom"
+digital marketing colchester,gb,0,50,3,NaN,NA,NaN,digital marketing colchester,2020-04-15 08:27:47,"Adwords top, Sitelinks, Adwords bottom"
+digital world meaning,gb,1,50,NaN,NaN,NA,NaN,digital world meaning,2020-05-01 05:41:57,"Featured snippet, People also ask"
+london digital marketing,gb,39,50,NaN,NaN,NA,NaN,digital marketing agency,2020-05-05 09:48:09,"Adwords top, Sitelinks, Adwords bottom"
+digital marketing experts,gb,9,50,NaN,NaN,NA,NaN,online marketing expert,2020-04-27 11:20:45,"Featured snippet, Thumbnails, Sitelinks, People also ask, Top stories"
+internet marketing london,gb,54,40,2,NaN,NA,NaN,digital marketing agency,2020-04-30 15:02:47,"Featured snippet, Thumbnails, Sitelinks"
+small world marketing,gb,0,40,NaN,NaN,NA,NaN,small world marketing,2020-04-28 02:51:23,"Sitelinks, Image pack"
+clim online,gb,24,40,0,NaN,NA,NaN,climb online,2020-04-28 13:06:51,"Adwords top, Sitelinks"
+blog internet marketing,gb,83,40,0,NaN,NA,NaN,internet marketing blog,2020-04-29 05:25:21,NaN
+what is a ',gb,35,40,NaN,NaN,NA,NaN,a,2020-04-18 11:10:53,"Knowledge card, Top stories, Thumbnails"
+the who website,gb,88,40,NaN,NaN,NA,NaN,the who,2020-04-24 20:34:17,Sitelinks
+market description,gb,17,40,0,NaN,NA,NaN,description of a market,2020-04-26 04:39:23,"Featured snippet, Thumbnails, People also ask, Top stories"
+digitial,gb,79,40,0,NaN,NA,NaN,digital,2020-04-26 12:06:18,"Sitelinks, People also ask, Top stories, Thumbnails"
+now digital,gb,5,40,0,NaN,NA,NaN,now digital,2020-04-24 07:03:43,"Top stories, Thumbnails"
+space marketing,gb,4,40,NaN,NaN,NA,NaN,space marketing,2020-05-06 17:56:23,"Top stories, Thumbnails, Image pack"
+digital 1,gb,26,40,0,NaN,NA,NaN,digital 1,2020-04-21 18:13:04,"Sitelinks, Top stories, Thumbnails, Image pack"
+how of,gb,48,40,0,NaN,NA,NaN,how of,2020-05-08 17:04:27,People also ask
+online marketer,gb,28,40,NaN,NaN,NA,NaN,online marketing,2020-04-25 20:30:41,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
+online marketing solutions,gb,2,40,5,NaN,NA,NaN,online marketing solutions,2020-04-15 09:20:52,"Adwords top, Sitelinks, Adwords bottom"
+the search marketing shop,gb,0,40,25,NaN,NA,NaN,the search marketing shop,2020-04-19 02:19:27,"Sitelinks, Image pack"
+dogital,gb,80,40,NaN,NaN,NA,NaN,digital,2020-05-07 21:34:12,"Sitelinks, People also ask, Image pack"
+marketing channels examples,gb,37,40,2.5,NaN,NA,NaN,marketing channels,2020-04-19 18:19:44,"Featured snippet, Thumbnails, People also ask, Sitelinks"
+biddable media definition,gb,0,40,0,NaN,NA,NaN,biddable media,2020-04-25 15:38:07,"Featured snippet, Thumbnails"
+what will be will be meaning,gb,0,40,0,NaN,NA,NaN,what will be will be,2020-05-07 13:04:17,"Featured snippet, People also ask, Image pack, Videos"
+information marketing,gb,24,40,0.7,NaN,NA,NaN,information marketing,2020-04-19 11:35:27,"Featured snippet, Thumbnails, People also ask, Top stories"
+digital means,gb,23,40,0,NaN,NA,NaN,digital,2020-05-08 05:32:48,"Knowledge card, People also ask, Top stories, Thumbnails"
+define increased,gb,30,40,NaN,NaN,NA,NaN,increased,2020-04-30 11:12:28,"Knowledge card, People also ask"
+direct and digital marketing,gb,1,40,0,NaN,NA,NaN,direct and digital marketing,2020-04-23 10:55:58,"Adwords top, Sitelinks, Featured snippet, People also ask, Top stories, Thumbnails"
+the digital,gb,86,40,0,NaN,NA,NaN,the digital picture,2020-04-28 09:01:55,"Sitelinks, Top stories, Thumbnails, Image pack"
+market sector definition,gb,11,40,0,NaN,NA,NaN,market sector definition,2020-05-09 03:12:46,People also ask
+digital marketing communications,gb,26,40,18,NaN,NA,NaN,digital marketing,2020-04-27 05:12:26,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Image pack"
+full-service,gb,3,40,1.5,NaN,NA,NaN,the full service,2020-04-20 13:59:29,"Adwords top, Sitelinks, People also ask"
+what does .com,gb,5,40,NaN,NaN,NA,NaN,what does .com,2020-04-21 04:27:13,"People also ask, Sitelinks, Top stories, Thumbnails"
+media and marketing,gb,10,40,2,NaN,NA,NaN,media and marketing,2020-05-08 18:57:52,"Featured snippet, People also ask"
+digital online,gb,57,40,1.1,NaN,NA,NaN,google digital garage,2020-04-24 23:51:14,"People also ask, Sitelinks"
+social media marketing companies for small business,gb,41,40,6,NaN,NA,NaN,social media marketing agency,2020-04-14 07:12:20,"Featured snippet, Sitelinks"
+interactive media examples,gb,9,40,1.3,NaN,NA,NaN,interactive media,2020-04-19 11:45:53,"Featured snippet, People also ask, Top stories, Thumbnails, Videos"
+b2b digital marketing agency,gb,40,40,20,NaN,NA,NaN,NaN,NaN,NaN
+social media and digital marketing,gb,61,40,8,NaN,NA,NaN,social media marketing,2020-04-29 04:55:42,"Featured snippet, People also ask"
+go umbrella time online,gb,5,40,11,NaN,NA,NaN,go umbrella time online,2020-05-07 09:55:25,Adwords top
+ccoast,gb,42,40,0.2,NaN,NA,NaN,coast,2020-04-22 03:22:21,"Sitelinks, People also ask, Image pack"
+social media agency bristol,gb,4,40,10,NaN,NA,NaN,social media marketing bristol,2020-05-06 19:31:49,Sitelinks
+internet marketing companies,gb,64,40,60,NaN,NA,NaN,digital marketing agency,2020-04-29 00:18:03,Featured snippet
+service definition business,gb,20,40,NaN,NaN,NA,NaN,service business definition,2020-04-26 00:11:10,"Featured snippet, Thumbnails, People also ask, Sitelinks"
+media industry definition,gb,3,40,NaN,NaN,NA,NaN,media industry,2020-05-10 16:45:31,People also ask
+business market definition,gb,38,40,4,NaN,NA,NaN,business market definition,2020-05-10 00:04:00,"People also ask, Sitelinks, Top stories, Thumbnails"
+coast to coast ipswich menu,gb,0,40,NaN,NaN,NA,NaN,coast to coast ipswich,2020-05-07 20:14:22,"Sitelinks, Image pack"
+coast digital colchester,gb,0,40,NaN,NaN,NA,NaN,digital marketing agency,2020-05-03 15:27:03,Sitelinks
+digital agencies uk,gb,28,40,9,NaN,NA,NaN,digital agency uk,2020-04-29 08:19:51,"Featured snippet, Thumbnails"
+digital space definition,gb,8,40,0,NaN,NA,NaN,digital space definition,2020-04-22 05:03:43,"Featured snippet, People also ask"
+like who who what what where,gb,0,40,NaN,NaN,NA,NaN,who and what and where song,2020-05-07 19:52:49,"Top stories, Thumbnails, Videos, Image pack"
+internet marketing strategy,gb,65,40,9,NaN,NA,NaN,strategy internet marketing,2020-04-15 02:06:14,"Featured snippet, Thumbnails, Top stories, Image pack"
+define: business,gb,64,40,NaN,NaN,NA,NaN,business definition,2020-04-16 08:11:14,"Knowledge card, People also ask, Sitelinks, Top stories, Thumbnails, Image pack"
+online service definition,gb,1,40,NaN,NaN,NA,NaN,what is online services,2020-04-29 22:12:56,"People also ask, Sitelinks"
+website marketing strategy,gb,45,40,6,NaN,NA,NaN,marketing website,2020-04-24 01:13:53,"Adwords top, Sitelinks, Featured snippet, Thumbnails"
+content marketing agencies london,gb,31,40,NaN,NaN,NA,NaN,content agency london,2020-05-04 11:14:13,"Adwords top, Sitelinks, Adwords bottom"
+digital media advertising,gb,12,40,3,NaN,NA,NaN,digital advertising,2020-04-25 11:19:50,"Featured snippet, Thumbnails, People also ask"
+digital media agencies,gb,39,40,14,NaN,NA,NaN,marketing agency,2020-05-09 20:56:34,"Adwords top, Sitelinks, Adwords bottom"
+full personal service,gb,0,40,0,NaN,NA,NaN,full personal service,2020-05-10 02:07:25,"People also ask, Top stories, Thumbnails"
+sales and marketing companies,gb,9,40,2.5,NaN,NA,NaN,shs,2020-04-21 17:33:01,"Sitelinks, People also ask, Image pack"
+digial,gb,78,40,0,NaN,NA,NaN,digital,2020-04-20 13:03:16,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
+the help agency,gb,1,40,0,NaN,NA,NaN,the help agency,2020-05-08 15:25:51,Sitelinks
+coast agency,gb,2,40,0,NaN,NA,NaN,marketing agency poole,2020-04-26 04:51:56,"Sitelinks, Image pack, Videos"
+digital agency essex,gb,55,40,3.5,NaN,NA,NaN,marketing agency essex,2020-05-10 00:47:16,Image pack
+what does encompasses mean,gb,7,40,NaN,NaN,NA,NaN,encompass,2020-04-28 10:03:52,"Knowledge card, People also ask, Videos"
+digital marketing what is it,gb,67,40,3,NaN,NA,NaN,digital marketing,2020-04-14 02:00:24,"People also ask, Sitelinks, Top stories, Thumbnails"
+what does market mean,gb,43,40,NaN,NaN,NA,NaN,market,2020-04-18 01:54:46,"Knowledge card, People also ask, Top stories, Thumbnails"
+web development nottingham,gb,41,40,7,NaN,NA,NaN,web design nottingham,2020-05-07 10:22:48,"Sitelinks, Adwords bottom"
+new media marketing,gb,72,40,0,NaN,NA,NaN,media-marketing,2020-05-03 19:41:57,People also ask
+be website,gb,47,40,0,NaN,NA,NaN,british eventing,2020-04-25 02:23:23,"Sitelinks, Image pack"
+website marketing company,gb,48,40,7,NaN,NA,NaN,online marketing company,2020-04-24 04:47:03,Sitelinks
+digitla,gb,69,40,0,NaN,NA,NaN,digital spy,2020-04-20 08:13:41,"Sitelinks, People also ask, Image pack"
+digital seo.net,gb,41,40,NaN,NaN,NA,NaN,seo sussex,2020-05-06 22:41:36,NaN
+integrated marketing agency london,gb,36,40,7,NaN,NA,NaN,integrated marketing agency london,2020-04-18 17:07:59,NaN
+constitutes define,gb,9,30,0,NaN,NA,NaN,constitute,2020-04-15 00:35:46,"Knowledge card, People also ask"
+uk agency services,gb,56,30,0,NaN,NA,NaN,uk agency,2020-05-08 20:06:59,NaN
 define consist,gb,18,30,0,3,NA,1.17,consists,2020-04-30 00:27:20,"Knowledge card, People also ask"
-marketing company uk,gb,43,30,6,Other,NA,NaN,marketing companies,2020-05-07 18:52:23,"Featured snippet, Thumbnails, People also ask"
-worldofdigital,gb,31,30,0,Other,NA,NaN,digital world,2020-05-09 05:25:30,"Top stories, Thumbnails, Image pack"
-digtial,gb,70,30,0,Other,NA,NaN,digital,2020-05-04 09:55:26,"Sitelinks, People also ask"
-marketing a service,gb,25,30,1.9,Other,NA,NaN,services marketing,2020-04-19 21:20:33,"Featured snippet, Thumbnails, People also ask, Videos"
-top marketing firms uk,gb,6,30,1.8,Other,NA,NaN,marketing agency,2020-05-07 01:36:09,"Featured snippet, Thumbnails, People also ask"
-digital marketing company london,gb,52,30,9,Other,NA,NaN,digital marketing agency,2020-05-10 15:28:03,"Adwords top, Sitelinks, Adwords bottom"
-digital media blog,gb,22,30,Other,Other,NA,NaN,digital media blog,2020-05-10 16:35:49,People also ask
-market business definition,gb,58,30,0,Other,NA,NaN,market,2020-05-06 23:52:43,"Featured snippet, People also ask, Videos"
-network marketing company,gb,30,30,3,Other,NA,NaN,mlm companies,2020-04-29 18:44:38,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
-essex digital media,gb,43,30,0,Other,NA,NaN,digital media blog,2020-04-19 00:19:04,"Sitelinks, Image pack"
-marketing world,gb,0,30,Other,Other,NA,NaN,content marketing world,2020-05-05 08:23:19,"Sitelinks, Top stories, Thumbnails"
-what digital,gb,68,30,0,Other,NA,NaN,what digital,2020-05-09 16:50:09,"Sitelinks, People also ask, Top stories, Thumbnails"
-define wat,gb,15,30,Other,Other,NA,NaN,wat,2020-04-19 22:47:47,"Knowledge card, People also ask"
-what is this ',gb,56,30,Other,Other,NA,NaN,what is this,2020-05-09 21:26:03,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
-digital marketing services uk,gb,Other,30,Other,Other,NA,NaN,NaN,NaN,NaN
-why digital media,gb,53,30,0,Other,NA,NaN,digital media,2020-05-08 19:03:13,"Sitelinks, People also ask, Top stories, Thumbnails"
-internet marketing uk,gb,13,30,3.5,Other,NA,NaN,internet marketing agency,2020-04-24 05:12:40,"Sitelinks, Adwords bottom"
-the who net,gb,44,30,0.9,Other,NA,NaN,the who,2020-04-19 15:41:18,Sitelinks
-what is all about,gb,0,30,Other,Other,NA,NaN,what is all about,2020-04-20 10:28:49,"People also ask, Top stories, Thumbnails"
-marketing agency in london,gb,28,30,8,Other,NA,NaN,digital marketing agency,2020-05-06 13:15:13,"Adwords top, Sitelinks, Adwords bottom"
-digital channels definition,gb,20,30,Other,Other,NA,NaN,digital channel,2020-04-20 12:21:26,"Featured snippet, People also ask, Top stories, Thumbnails"
-internet marketing expert,gb,10,30,11,Other,NA,NaN,online marketing expert,2020-05-08 08:20:31,NaN
-best digital market,gb,6,30,1.2,Other,NA,NaN,best digital market,2020-04-25 07:31:44,"Top stories, Thumbnails"
-marketing service,gb,46,30,3.5,Other,NA,NaN,services marketing,2020-05-07 02:15:55,"Featured snippet, Thumbnails, People also ask, Sitelinks"
-best digital marketing blogs,gb,14,30,6,Other,NA,NaN,digital marketing blog,2020-04-19 11:30:50,NaN
-top uk digital agencies,gb,5,30,Other,Other,NA,NaN,digital agency,2020-04-18 13:49:07,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
-define marketing concept,gb,15,30,Other,Other,NA,NaN,marketing concept,2020-04-20 14:30:47,"Featured snippet, People also ask, Top stories, Thumbnails"
-new digital business,gb,31,30,0,Other,NA,NaN,new digital business,2020-04-26 03:03:12,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Videos, Image pack"
-digital marketing consulting services,gb,Other,30,Other,Other,NA,NaN,NaN,NaN,NaN
-digital media sales,gb,0,30,1,Other,NA,NaN,digital media sales,2020-04-16 05:52:39,People also ask
-digital work,gb,12,30,Other,Other,NA,NaN,digital work,2020-04-24 10:19:32,"People also ask, Image pack"
-solution marketing nottingham,gb,0,30,3,Other,NA,NaN,solution marketing,2020-04-19 06:32:27,NaN
-digital marketing resources,gb,24,30,0,Other,NA,NaN,digital marketing resources,2020-04-15 14:43:31,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Adwords bottom"
-what is digital media marketing,gb,66,30,2.5,Other,NA,NaN,digital marketing,2020-04-15 17:48:01,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Top stories"
-absolute pr and marketing,gb,0,30,0,Other,NA,NaN,absolute pr,2020-04-29 08:32:43,"Sitelinks, Image pack"
-define e marketing,gb,29,30,Other,Other,NA,NaN,what is emarketing,2020-04-23 10:09:59,"Adwords top, People also ask, Videos"
-define the media,gb,45,30,0,Other,NA,NaN,media,2020-05-06 06:11:10,"Knowledge card, People also ask, Sitelinks"
-internet marketing experts,gb,8,20,13,Other,NA,NaN,online marketing expert,2020-04-24 10:20:51,"Adwords top, Sitelinks, Adwords bottom"
-digital marketing sales,gb,Other,20,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing agency services,gb,Other,20,2,Other,NA,NaN,NaN,NaN,NaN
-service marketing strategy,gb,14,20,0,Other,NA,NaN,service marketing strategy,2020-04-26 10:03:44,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
-paid market research nottingham,gb,5,20,2.5,Other,NA,NaN,market research nottingham,NaN,NaN
-digital marketing show,gb,53,20,4,Other,NA,NaN,digital marketing conference,2020-04-28 12:22:18,Sitelinks
-results through digital,gb,1,20,Other,19,NA,1.12,results through digital,2020-05-08 10:34:54,"Sitelinks, Top stories, Thumbnails, Image pack"
-star digital marketing services,gb,Other,10,Other,Other,NA,NaN,star digital,NaN,NaN
-marketing services business,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing professional services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing services company,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing company new york,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-uk online marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-how to market b2b services,gb,Other,10,Other,Other,NA,NaN,b2b marketing strategy,NaN,NaN
-digital marketing company nyc,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-providing marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketin services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing service strategies,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-best online marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-star digital marketing services ltd,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing financial services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-financial services digital marketing,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-selling marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-phone marketing services,gb,Other,10,Other,Other,NA,NaN,tps,NaN,NaN
-digital marketing service,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-virtual snipers digital marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-financial services digital marketing trends,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-sales marketing and service,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services india,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-gannett digital marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing for financial services summit,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-how to sell digital marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-select marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing strategy services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-online marketing services uk,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing sevices,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing services strategies,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services birmingham al,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-website traffic marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing services agency,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing of it services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing in it services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-selling digital marketing services,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-marketing services network,gb,Other,10,Other,Other,NA,NaN,NaN,NaN,NaN
-campaign marketing services,gb,Other,10,Other,Other,NA,NaN,the marketing campaign company,NaN,NaN
-digital marketing trends in financial services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services reading,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services bristol,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-financial services digital marketing agency,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing automation services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services list,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing in financial services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-who needs digital marketing,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-rv digital marketing services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-buy digital marketing services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-how much to charge for digital marketing,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services for small business,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital services marketing,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-how to pitch digital marketing services,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-digital marketing services pricing,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-altitude internet digital marketing services limited,gb,Other,0,Other,Other,NA,NaN,NaN,NaN,NaN
-,,,,,,NA,,,,
+marketing company uk,gb,43,30,6,NaN,NA,NaN,marketing companies,2020-05-07 18:52:23,"Featured snippet, Thumbnails, People also ask"
+worldofdigital,gb,31,30,0,NaN,NA,NaN,digital world,2020-05-09 05:25:30,"Top stories, Thumbnails, Image pack"
+digtial,gb,70,30,0,NaN,NA,NaN,digital,2020-05-04 09:55:26,"Sitelinks, People also ask"
+marketing a service,gb,25,30,1.9,NaN,NA,NaN,services marketing,2020-04-19 21:20:33,"Featured snippet, Thumbnails, People also ask, Videos"
+top marketing firms uk,gb,6,30,1.8,NaN,NA,NaN,marketing agency,2020-05-07 01:36:09,"Featured snippet, Thumbnails, People also ask"
+digital marketing company london,gb,52,30,9,NaN,NA,NaN,digital marketing agency,2020-05-10 15:28:03,"Adwords top, Sitelinks, Adwords bottom"
+digital media blog,gb,22,30,NaN,NaN,NA,NaN,digital media blog,2020-05-10 16:35:49,People also ask
+market business definition,gb,58,30,0,NaN,NA,NaN,market,2020-05-06 23:52:43,"Featured snippet, People also ask, Videos"
+network marketing company,gb,30,30,3,NaN,NA,NaN,mlm companies,2020-04-29 18:44:38,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Adwords bottom"
+essex digital media,gb,43,30,0,NaN,NA,NaN,digital media blog,2020-04-19 00:19:04,"Sitelinks, Image pack"
+marketing world,gb,0,30,NaN,NaN,NA,NaN,content marketing world,2020-05-05 08:23:19,"Sitelinks, Top stories, Thumbnails"
+what digital,gb,68,30,0,NaN,NA,NaN,what digital,2020-05-09 16:50:09,"Sitelinks, People also ask, Top stories, Thumbnails"
+define wat,gb,15,30,NaN,NaN,NA,NaN,wat,2020-04-19 22:47:47,"Knowledge card, People also ask"
+what is this ',gb,56,30,NaN,NaN,NA,NaN,what is this,2020-05-09 21:26:03,"Sitelinks, People also ask, Top stories, Thumbnails, Image pack"
+digital marketing services uk,gb,NaN,30,NaN,NaN,NA,NaN,NaN,NaN,NaN
+why digital media,gb,53,30,0,NaN,NA,NaN,digital media,2020-05-08 19:03:13,"Sitelinks, People also ask, Top stories, Thumbnails"
+internet marketing uk,gb,13,30,3.5,NaN,NA,NaN,internet marketing agency,2020-04-24 05:12:40,"Sitelinks, Adwords bottom"
+the who net,gb,44,30,0.9,NaN,NA,NaN,the who,2020-04-19 15:41:18,Sitelinks
+what is all about,gb,0,30,NaN,NaN,NA,NaN,what is all about,2020-04-20 10:28:49,"People also ask, Top stories, Thumbnails"
+marketing agency in london,gb,28,30,8,NaN,NA,NaN,digital marketing agency,2020-05-06 13:15:13,"Adwords top, Sitelinks, Adwords bottom"
+digital channels definition,gb,20,30,NaN,NaN,NA,NaN,digital channel,2020-04-20 12:21:26,"Featured snippet, People also ask, Top stories, Thumbnails"
+internet marketing expert,gb,10,30,11,NaN,NA,NaN,online marketing expert,2020-05-08 08:20:31,NaN
+best digital market,gb,6,30,1.2,NaN,NA,NaN,best digital market,2020-04-25 07:31:44,"Top stories, Thumbnails"
+marketing service,gb,46,30,3.5,NaN,NA,NaN,services marketing,2020-05-07 02:15:55,"Featured snippet, Thumbnails, People also ask, Sitelinks"
+best digital marketing blogs,gb,14,30,6,NaN,NA,NaN,digital marketing blog,2020-04-19 11:30:50,NaN
+top uk digital agencies,gb,5,30,NaN,NaN,NA,NaN,digital agency,2020-04-18 13:49:07,"Adwords top, Sitelinks, Featured snippet, Adwords bottom"
+define marketing concept,gb,15,30,NaN,NaN,NA,NaN,marketing concept,2020-04-20 14:30:47,"Featured snippet, People also ask, Top stories, Thumbnails"
+new digital business,gb,31,30,0,NaN,NA,NaN,new digital business,2020-04-26 03:03:12,"Adwords top, Sitelinks, People also ask, Top stories, Thumbnails, Videos, Image pack"
+digital marketing consulting services,gb,NaN,30,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital media sales,gb,0,30,1,NaN,NA,NaN,digital media sales,2020-04-16 05:52:39,People also ask
+digital work,gb,12,30,NaN,NaN,NA,NaN,digital work,2020-04-24 10:19:32,"People also ask, Image pack"
+solution marketing nottingham,gb,0,30,3,NaN,NA,NaN,solution marketing,2020-04-19 06:32:27,NaN
+digital marketing resources,gb,24,30,0,NaN,NA,NaN,digital marketing resources,2020-04-15 14:43:31,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Adwords bottom"
+what is digital media marketing,gb,66,30,2.5,NaN,NA,NaN,digital marketing,2020-04-15 17:48:01,"Adwords top, Sitelinks, Featured snippet, Thumbnails, Top stories"
+absolute pr and marketing,gb,0,30,0,NaN,NA,NaN,absolute pr,2020-04-29 08:32:43,"Sitelinks, Image pack"
+define e marketing,gb,29,30,NaN,NaN,NA,NaN,what is emarketing,2020-04-23 10:09:59,"Adwords top, People also ask, Videos"
+define the media,gb,45,30,0,NaN,NA,NaN,media,2020-05-06 06:11:10,"Knowledge card, People also ask, Sitelinks"
+internet marketing experts,gb,8,20,13,NaN,NA,NaN,online marketing expert,2020-04-24 10:20:51,"Adwords top, Sitelinks, Adwords bottom"
+digital marketing sales,gb,NaN,20,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing agency services,gb,NaN,20,2,NaN,NA,NaN,NaN,NaN,NaN
+service marketing strategy,gb,14,20,0,NaN,NA,NaN,service marketing strategy,2020-04-26 10:03:44,"Adwords top, Sitelinks, Featured snippet, Thumbnails, People also ask, Top stories"
+paid market research nottingham,gb,5,20,2.5,NaN,NA,NaN,market research nottingham,NaN,NaN
+digital marketing show,gb,53,20,4,NaN,NA,NaN,digital marketing conference,2020-04-28 12:22:18,Sitelinks
+results through digital,gb,1,20,NaN,19,NA,1.12,results through digital,2020-05-08 10:34:54,"Sitelinks, Top stories, Thumbnails, Image pack"
+star digital marketing services,gb,NaN,10,NaN,NaN,NA,NaN,star digital,NaN,NaN
+marketing services business,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing professional services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing services company,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing company new york,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+uk online marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+how to market b2b services,gb,NaN,10,NaN,NaN,NA,NaN,b2b marketing strategy,NaN,NaN
+digital marketing company nyc,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+providing marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketin services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing service strategies,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+best online marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+star digital marketing services ltd,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing financial services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+financial services digital marketing,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+selling marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+phone marketing services,gb,NaN,10,NaN,NaN,NA,NaN,tps,NaN,NaN
+digital marketing service,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+virtual snipers digital marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+financial services digital marketing trends,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+sales marketing and service,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services india,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+gannett digital marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing for financial services summit,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+how to sell digital marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+select marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing strategy services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+online marketing services uk,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing sevices,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing services strategies,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services birmingham al,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+website traffic marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing services agency,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing of it services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing in it services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+selling digital marketing services,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+marketing services network,gb,NaN,10,NaN,NaN,NA,NaN,NaN,NaN,NaN
+campaign marketing services,gb,NaN,10,NaN,NaN,NA,NaN,the marketing campaign company,NaN,NaN
+digital marketing trends in financial services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services reading,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services bristol,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+financial services digital marketing agency,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing automation services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services list,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing in financial services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+who needs digital marketing,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+rv digital marketing services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+buy digital marketing services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+how much to charge for digital marketing,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services for small business,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital services marketing,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+how to pitch digital marketing services,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+digital marketing services pricing,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
+altitude internet digital marketing services limited,gb,NaN,0,NaN,NaN,NA,NaN,NaN,NaN,NaN
 ,,,,,,NA,,,,
 ,,,,,,NA,,,,
 ,,,,,,NA,,,,
