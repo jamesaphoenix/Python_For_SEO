@@ -5,15 +5,15 @@ import asyncio
 import os
 
 # 1. Choose A Path - You will need to change this to your desired directory:
-path = '/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_asnyc_event_loop'
+path = '/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_async_event_loop'
 
 try:
-    os.mkdir('/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_asnyc_event_loop')
+    os.mkdir('/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_async_event_loop')
 except FileExistsError as e:
     print('The file path already exists!')
 
 # 2. Changing directory into that specific path:
-os.chdir('/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_asnyc_event_loop')
+os.chdir('/Users/jamesaphoenix/Desktop/Imran_And_James/Python_For_SEO/6_downloading_multiple_images/all_images_async_event_loop')
 
 
 # 3. Reading the URLs from the text file:
