@@ -186,6 +186,8 @@ You can also find the YouTube content on the two following channels:
 - Bonus Content: How to curate all of the Facebook Groups, LinkedIn Groups for a specific niche with Python
 - Bonus Content: Automatically generate sentences / novels with GPT2
 
+----
+
 ## Useful Python Packages For AI Marketers
 - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 - [Sci-kit learn](https://scikit-learn.org/)
