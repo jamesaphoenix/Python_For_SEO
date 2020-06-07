@@ -44,7 +44,7 @@ You can also find the YouTube content on the two following channels:
 
 ## Images 
 
-6. How To Download Multiple Image URLs To Your Computer
+6. [How To Download Multiple Image URLs To Your Computer](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/6_downloading_multiple_images)
 7. How To Do Image Compression On Multiple Images
 
 ## Screaming Frog Automation
