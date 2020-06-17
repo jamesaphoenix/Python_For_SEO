@@ -51,119 +51,121 @@ You can also find the YouTube content on the two following channels:
 
 ## Screaming Frog Automation
 
-10. Technical SEO Automation with Screaming Frog
+10. How To Setup Screaming Frog In The Cloud (Headless & With Remote Desktop)
+11. How To Run Screaming Frog Crawls In Headless Mode
+12. Wrangling Screaming Frog Data With Pandas and Numpy
 
 ## Rendering
 
-11. Identifying Rendering Issues At Scale
+13. Identifying Rendering Issues At Scale
 
 ## Web Scraping & Sitemaps
 
-12. Web Scraping Pages from Sitemap.xml files
-13. Sitemap Automation
+14. Web Scraping Pages from Sitemap.xml files
+15. Sitemap Automation
 
 ## Schema Optimisation
 
-14. How to extract schema at scale
-15. How to create video or article schema At Scale
+16. How to extract schema at scale
+17. How to create video or article schema At Scale
 
 ## Google Cloud Platform Continued
 
-16. Google Page Speed Insights
-17. Creating a BigQuery Datawarehouse with Google Analytics + Google Search Console Data
+18. Google Page Speed Insights
+19. Creating a BigQuery Datawarehouse with Google Analytics + Google Search Console Data
 
 ## Content Performance With Pandas
 
-18. Content Performance + Leveling Up With Pandas
+20. Content Performance + Leveling Up With Pandas
 
 ## Content De-duplication Techniques
 
-19. Content De-duplication Techniques
-20. Grouping HTML Pages
+21. Content De-duplication Techniques
+22. Grouping HTML Pages
 
 ## The Power Of Python Combinations - https://www.sammyseo.com/product-comparison-keywords/
 
-21. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
-22. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
+23. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
+24. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
 
 ## Algorithm Updates
 
-23. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
+25. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
 
 ## Data Pipelines, DataForSEO & BigQuery
 
-24. The Comprehensive Guide To GoogleBigQuery With Python
-25. How To Compare GSC Account Permissions vs GA Account Permissions
-26. Creating Data Pipelines with DataForSEO (Data Engineering)
+26. The Comprehensive Guide To GoogleBigQuery With Python
+27. How To Compare GSC Account Permissions vs GA Account Permissions
+28. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
-27. How To Extract Semantic Synonyms / Keywords To Enrich Your HTML Pages
-28. Named Entity Recognition & Named Entity Linking
-29. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-30. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-31. IBM NLP Watson and Google's Natural Language API
-32. Categorising Queries From Google Search Console
+29. How To Extract Semantic Synonyms / Keywords To Enrich Your HTML Pages
+30. Named Entity Recognition & Named Entity Linking
+31. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
+32. Automatic Text Generation & Image Alt Tags / Article Summarisaition
+33. IBM NLP Watson and Google's Natural Language API
+34. Categorising Queries From Google Search Console
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-33. How to connect to your Bing API Data
-34. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-35. Identify Keyword Cannabilisation with GSC + GA
+35. How to connect to your Bing API Data
+36. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+37. Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-36. Server Log File Analysis
+38. Server Log File Analysis
 
 ## G-suite Automation
 
-37. Google Drive Automation 
+39. Google Drive Automation 
 
 ## Wordpress Automation + Shopify
 
-38. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-39. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-40. Creating JSON-LD Schema With Python
-41. How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
-42. How To Find The Fastest Shopify Theme Using Google Page Speed Insights
+40. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+41. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+42. Creating JSON-LD Schema With Python
+43. How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
+44. How To Find The Fastest Shopify Theme Using Google Page Speed Insights
 
 ## Content Promotion
 
-43. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-44. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
+45. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
+46. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
 
 ## Automatic Text Generation
 
-45. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
-46. Automatically Creating Title Tags + Meta Descriptions
-47. Automatically Generate Image Captions with Pythia & MMF
-48. Automatically Generate Meta Descriptions At Scale
+47. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
+48. Automatically Creating Title Tags + Meta Descriptions
+49. Automatically Generate Image Captions with Pythia & MMF
+50. Automatically Generate Meta Descriptions At Scale
 
 ## Automatic Text Summarisation 
 
-49. Automatically Summarise Your HTML Pages For Social Media Copy
+51. Automatically Summarise Your HTML Pages For Social Media Copy
 
 ## Media Synthesis
 
-50. How To Create Featured Images / Author Profile Pictures Using GANs
+52. How To Create Featured Images / Author Profile Pictures Using GANs
 
 ## Social Media Text-Mining
 
-51. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-52. Topic Modelling With Social Media Data
-53. Network Analysis With Social Media Data
-54. How To Do Influencer Research With The Twitter API
-55. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
+53. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+54. Topic Modelling With Social Media Data
+55. Network Analysis With Social Media Data
+56. How To Do Influencer Research With The Twitter API
+57. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
 
 ## Intent Classification
 
-56. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
+58. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
 59. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
 
 
 ## Competitor / Content Research
 
-69. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+60. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
 61. Find PeopleAlsoAsked Questions
 62. How To Find SERP Feature Content Gaps (Comparing Existing Content Features on the SERPs vs JSON elements that map to these content elements) - https://www.slideshare.net/hamletbatista/scaling-keyword-research-to-find-content-gaps
 
@@ -224,4 +226,3 @@ You can also find the YouTube content on the two following channels:
 
 ### Link Database
 [CommonCrawl](https://commoncrawl.org/)
-
