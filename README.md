@@ -19,8 +19,8 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 Every Lesson Can Be Found Under The PythonForSEO Section (within the main nav of https://sempioneer.com/)!
 You can also find the YouTube content on the two following channels:
 
-- Sempioneer: https://www.youtube.com/channel/UCui38sdG1wWlDk_tgyZiJ_w
-- UnderstandingData: https://www.youtube.com/channel/UCLKL6bVqM1WM8VJavfokGSg
+- [Sempioneer](https://www.youtube.com/channel/UCui38sdG1wWlDk_tgyZiJ_w)
+- [UnderstandingData](https://www.youtube.com/channel/UCLKL6bVqM1WM8VJavfokGSg)
 
 ----
 
