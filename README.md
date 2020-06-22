@@ -51,9 +51,9 @@ You can also find the YouTube content on the two following channels:
 
 ## Screaming Frog Automation
 
-10. How To Completely Automate Screaming Frog Crawls In Headless Model
-11. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/11_cloud_crawling_with_screaming_frog)
-12. Wrangling Screaming Frog Data With Pandas and Numpy
+10. [How Use Screaming Frog With The Command Line (Mac + Windows)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/10_automating_screaming_frog)
+11. [How To Wrangle Your Data In Screaming Frog With Python + Pandas](#)
+12. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/12_cloud_crawling_with_screaming_frog)
 
 ## Rendering
 
