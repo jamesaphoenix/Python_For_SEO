@@ -28,32 +28,32 @@ You can also find the YouTube content on the two following channels:
 
 ## Keywords
 
-1. [Keyword De-duplication Techniques + Comparing Keyword Lists + Data Manipulation With Pandas + Stemming/Lemmatization With Pandas](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/1_Keywords)
+1. [Keyword De-duplication Techniques + Comparing Keyword Lists + Data Manipulation With Pandas + Stemming/Lemmatization With Pandas](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/1_Keywords)
 
 ## Bulk Operations With CSV Files
 
-2. [Combining Multiple CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
-3. [Deleting Files, Folders And Specific File Types](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/3_how_to_delete_multiple_local_files)
+2. [Combining Multiple CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/2_bulk_csv_operations)
+3. [Deleting Files, Folders And Specific File Types](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/3_how_to_delete_multiple_local_files)
 
 ## Google Cloud Platform Setup
-4. [How To Setup A Google Cloud Project With Google Sheets API Activated](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/4_how_to_setup_a_google_project)
+4. [How To Setup A Google Cloud Project With Google Sheets API Activated](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/4_how_to_setup_a_google_project)
 
 ## Google Sheets
 
-5. [Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/5_google_sheets_with_pandas)
+5. [Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/5_google_sheets_with_pandas)
 
 ## Images 
 
-6. [How To Download Multiple Image URLs To Your Computer](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/6_downloading_multiple_images)
-7. [How To Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/7_image_compression)
-8. [How To Resize & Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/8_resizing_images)
-9. [How To Convert Images To Newer Formats (.webp)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/9_converting_images_to_optimised_formats)
+6. [How To Download Multiple Image URLs To Your Computer](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/6_downloading_multiple_images)
+7. [How To Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/7_image_compression)
+8. [How To Resize & Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/Course/master/8_resizing_images)
+9. [How To Convert Images To Newer Formats (.webp)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/9_converting_images_to_optimised_formats)
 
 ## Screaming Frog Automation
 
-10. [How Use Screaming Frog With The Command Line (Mac + Windows)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/10_automating_screaming_frog)
+10. [How Use Screaming Frog With The Command Line (Mac + Windows)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/10_automating_screaming_frog)
 11. [How To Wrangle Your Data In Screaming Frog With Python + Pandas](#)
-12. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/12_cloud_crawling_with_screaming_frog)
+12. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/12_cloud_crawling_with_screaming_frog)
 
 ## Rendering
 
