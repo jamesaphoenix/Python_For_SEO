@@ -51,7 +51,10 @@ class ScreamingFrogAnalyser(object):
     def _parse_subprocess_text(self, subprocess_text):
         directory = re.findall('(?<=Output directory:)(.*?)(?=\n)',
                        str(subprocess_text.decode('utf-8')))
-        return directory[0].strip()
+        try:
+            return directory[0].strip()
+        except IndexError:
+            raise ValidationError('No folder was created, check your output folder and export settings', 'Incorrect Response')
 
     def _command_updater(self):
         self.sf_command = self._sf_command + ' ' + self._output_folder + ' --timestamped-output'
