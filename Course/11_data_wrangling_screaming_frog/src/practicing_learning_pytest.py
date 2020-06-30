@@ -75,6 +75,19 @@ def test_expected_all(name, expected):
 
 ########
 
+'''Another thing the parametrize is good for is making permutations.
+In fact, using more than one decorator, instead of a single one with multiple arguments, you will obtain every permutation possible.'''
+
+def is_odd(number):
+    return number % 2 != 0
+
+@pytest.mark.parametrize('odd', range(1, 11, 2))
+@pytest.mark.parametrize('even', range(0, 10, 2))
+def test_sum_odd_even_returns_odd(odd, even):
+    assert is_odd(odd + even)
+
+
+
 # 4. Object Orientated Fixture:
 @pytest.fixture
 def data():
