@@ -34,9 +34,9 @@ export_tabs=False, export_reports=False, export_bulk_exports=False):
     # Return the objects for running tests;
     return sf
 
-
 if __name__ == '__main__':
     run(website_urls=['https://phoenixandpartners.co.uk/'],
+    outputfolder=OUTPUTFOLDER,
     export_tabs='Images:Missing Alt Text',
     export_reports='Redirect & Canonical Chains',
     export_bulk_exports='All Images')

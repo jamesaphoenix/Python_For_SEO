@@ -31,7 +31,7 @@ class ScreamingFrogAnalyser(object):
     def _create_command(self):
         if platform == "linux" or platform == "linux2":
             # Linux
-            self._sf_command = 'screamingfrogspider --headless --save-crawl'
+            self._sf_command = 'screamingfrogseospider --headless --save-crawl'
         elif platform == "darwin":
             # OS X
             self._sf_command = '/Applications/Screaming\ Frog\ SEO\ Spider.app/Contents/MacOS/ScreamingFrogSEOSpiderLauncher --headless --save-crawl'

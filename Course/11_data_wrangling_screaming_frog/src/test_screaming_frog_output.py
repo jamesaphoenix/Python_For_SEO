@@ -65,3 +65,21 @@ def test_correct_output_folder_broken_reports():
         export_tabs='123721893',
         export_reports='123182',
         export_bulk_exports='456456')
+
+
+## 5. A test for crawling multiple URLs;
+def test_multiple_crawls_correct_output_folder():
+        website_urls = ['https://phoenixandpartners.co.uk/',
+        'sempioneer.com']
+
+        sf_worker = run(website_urls=website_urls,
+        outputfolder=OUTPUTFOLDER,
+        export_tabs=False,
+        export_reports=False,
+        export_bulk_exports=False)
+
+        # Testing to see whether there are more than 1 folder that was created:
+        assert len(sf_worker._sf_folders) == len(website_urls)
+
+        # Removing the created folders:
+        delete_folders(sf_worker._sf_folders)
