@@ -1,8 +1,5 @@
 import pytest
 
-
-
-
 # 1. Simpler Fixture:
 def some_amazing_function(name):
     return name
@@ -85,7 +82,6 @@ def is_odd(number):
 @pytest.mark.parametrize('even', range(0, 10, 2))
 def test_sum_odd_even_returns_odd(odd, even):
     assert is_odd(odd + even)
-
 
 
 # 4. Object Orientated Fixture:

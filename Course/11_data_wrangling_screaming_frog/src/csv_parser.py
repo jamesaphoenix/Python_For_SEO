@@ -1,3 +1,4 @@
+from datetime import date
 from errors import ValidationError, UnsupportedPlatformError
 import pandas as pd
 import os
@@ -46,6 +47,8 @@ class CsvParser():
                     # Setting a data source + domain as an extra column:
                     temp_df['Data_Source'] = value
                     temp_df['Domain'] = self._website_urls[index]
+                    # Adding a timestamp column for BigQuery:
+                    temp_df['Date'] = str(date.today())
                     df = df.append(temp_df)
             self._csv_data_dict[key] = df
 

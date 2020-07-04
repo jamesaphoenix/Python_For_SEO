@@ -10,7 +10,7 @@ import pytest
 # Loading Wrapper Classes
 from csv_parser import CsvParser
 from screaming_frog_automation import ScreamingFrogAnalyser
-from main import run
+from main import sf_run
 
 OUTPUTFOLDER = '/Users/jamesaphoenix/Desktop'
 INCORRECTOUTPUTFOLDER = 'iurhgeuihge/Desktop'
@@ -22,7 +22,7 @@ def delete_folders(folders):
 
 # 1. A test for the correct outputfolder (with exports)
 def test_correct_outputfolder_with_exports():
-    sf_worker = run(website_urls=['https://phoenixandpartners.co.uk/'],
+    sf_worker = sf_run(website_urls=['https://phoenixandpartners.co.uk/'],
     outputfolder=OUTPUTFOLDER,
     export_tabs='Images:Missing Alt Text',
     export_reports='Redirect & Canonical Chains',
@@ -37,7 +37,7 @@ def test_correct_outputfolder_with_exports():
 # 2. A test for the incorrect output folder (with exports)
 def test_incorrect_outputfolder_with_exports():
     with pytest.raises(ValidationError):
-        sf_worker = run(website_urls=['https://phoenixandpartners.co.uk/'],
+        sf_worker = sf_run(website_urls=['https://phoenixandpartners.co.uk/'],
         outputfolder=INCORRECTOUTPUTFOLDER,
         export_tabs='Images:Missing Alt Text',
         export_reports='Redirect & Canonical Chains',
@@ -45,7 +45,7 @@ def test_incorrect_outputfolder_with_exports():
 
 # 3. A test for correct_output folders but no reports
 def test_correct_output_folder_no_reports():
-    sf_worker = run(website_urls=['https://phoenixandpartners.co.uk/'],
+    sf_worker = sf_run(website_urls=['https://phoenixandpartners.co.uk/'],
     outputfolder=OUTPUTFOLDER,
     export_tabs=False,
     export_reports=False,
@@ -60,7 +60,7 @@ def test_correct_output_folder_no_reports():
 # 4. A test for correctoutput folders but the wrong reports
 def test_correct_output_folder_broken_reports():
     with pytest.raises(ValidationError):
-        sf_worker = run(website_urls=['https://phoenixandpartners.co.uk/'],
+        sf_worker = sf_run(website_urls=['https://phoenixandpartners.co.uk/'],
         outputfolder=OUTPUTFOLDER,
         export_tabs='123721893',
         export_reports='123182',
@@ -72,7 +72,7 @@ def test_multiple_crawls_correct_output_folder():
         website_urls = ['https://phoenixandpartners.co.uk/',
         'sempioneer.com']
 
-        sf_worker = run(website_urls=website_urls,
+        sf_worker = sf_run(website_urls=website_urls,
         outputfolder=OUTPUTFOLDER,
         export_tabs=False,
         export_reports=False,
