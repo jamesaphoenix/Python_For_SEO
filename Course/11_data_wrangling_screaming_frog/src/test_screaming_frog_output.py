@@ -66,7 +66,6 @@ def test_correct_output_folder_broken_reports():
         export_reports='123182',
         export_bulk_exports='456456')
 
-
 ## 5. A test for crawling multiple URLs;
 def test_multiple_crawls_correct_output_folder():
         website_urls = ['https://phoenixandpartners.co.uk/',

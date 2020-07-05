@@ -26,7 +26,7 @@ def check_data_frame(obj):
         df = obj._csv_data_dict[key]
         assert type(df).__name__ == 'DataFrame'
 
-# Tests
+# Tests:
 def test_parser_single_files_no_csvs():
     parser = CsvParser(outputfolder=outputfolder,
                       file_paths=seo_spider_single_file_path,
