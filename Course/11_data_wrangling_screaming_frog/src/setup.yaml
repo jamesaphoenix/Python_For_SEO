@@ -1,0 +1,9 @@
+environment-variables:
+  OUTPUTFOLDER: /Users/jamesaphoenix/Desktop
+  SERVICE_ACCOUNT_KEY_LOCATION: 'service_account_credentials/service_account_key.json'
+  GOOGLE_CLOUD_PROJECT_ID: 'screaming-frog-268422'
+  GOOGLE_CLOUD_BIGQUERY_DATASET_ID: 'Screaming_Frog_Data'
+bigquery_table_id_mappings:
+  internal_all.csv: 'internal_all'
+  all_images.csv: 'all_images'
+  images_missing_alt_text.csv: 'images_missing_alt_text'

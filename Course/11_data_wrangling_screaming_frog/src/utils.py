@@ -1,3 +1,5 @@
+import yaml
+
 class ConfigurationError(Exception):
     def __init__(self, message, errors):
         super().__init__(message)
@@ -34,3 +36,18 @@ def dataframe_row_checker(obj):
         if type(df).__name__ == 'DataFrame' and df.shape[0] > 0:
             new_dict[key] = value
     return new_dict
+
+class YamlParser(object):
+    def __init__(self):
+        self._parse_setup_file()
+        self._check_bigquery_inputs()
+    def _parse_setup_file(self):
+        with open('setup.yaml') as f:
+            self.data = yaml.load(f, Loader=yaml.FullLoader)
+    def _check_bigquery_inputs(self):
+        """ Checking to see whether all of the bigquery inputs are numbers."""
+        good_values = [item for item in self.data['bigquery_table_id_mappings'].values() if item]
+        if len(good_values) == len(self.data['bigquery_table_id_mappings'].values()):
+            self._bigquery_inputs_validated = True
+        else:
+            self._bigquery_inputs_validated = False

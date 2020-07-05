@@ -48,7 +48,7 @@ def test_parser_single_files_csvs():
 
 def test_parser_multiple_files_csvs():
     parser = CsvParser(outputfolder=outputfolder,
-                      file_paths=csv_multiple_file_paths ,
+                      file_paths=csv_multiple_file_paths,
                       website_urls=website_urls)
     # Multiple tests here:
     check_data_frame(parser)
