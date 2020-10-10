@@ -37,7 +37,7 @@ class ScreamingFrogAnalyser(object):
             self._sf_command = '/Applications/Screaming\ Frog\ SEO\ Spider.app/Contents/MacOS/ScreamingFrogSEOSpiderLauncher --headless --save-crawl'
         elif platform == "win32":
             # Windows...
-            raise UnsupportedPlatformError("Windows Is Currently Not Supported", 'Please stop using windows!')
+            raise UnsupportedPlatformError("Windows Is Currently Not Supported", "Sorry Bill Gates, its on the waiting list!")
 
     def _add_reports(self):
         for _, argument in zip([self._export_tabs, self._export_reports, self.export_bulk_exports],
