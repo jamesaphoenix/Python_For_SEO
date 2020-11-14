@@ -46,7 +46,7 @@ You can also find the YouTube content on the two following channels:
 
 6. [How To Download Multiple Image URLs To Your Computer](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/6_downloading_multiple_images)
 7. [How To Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/7_image_compression)
-8. [How To Resize & Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/Course/master/8_resizing_images)
+8. [How To Resize & Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/Course/master/8_resizing_and_compressing_images)
 9. [How To Convert Images To Newer Formats (.webp)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/9_converting_images_to_optimised_formats)
 
 ## Screaming Frog Automation
