@@ -214,20 +214,20 @@ Forecasting SEO Traffic with Sarimax + Facebook Prophet -->
 
 ## Useful Resources For AI Marketers
 ### SEO APIs
-[Dataforseo](https://dataforseo.com/)  
-[SEMrush](https://www.semrush.com/api-documentation/)  
-[Ahrefs](https://ahrefs.com/api)  
-[SEOmoz](https://moz.com/api)
-[OPR](https://www.domcop.com/openpagerank/documentation)  
-[OnCrawl](http://developer.oncrawl.com/)
+- [Dataforseo](https://dataforseo.com/)  
+- [SEMrush](https://www.semrush.com/api-documentation/)  
+- [Ahrefs](https://ahrefs.com/api)  
+- [SEOmoz](https://moz.com/api)
+- [OPR](https://www.domcop.com/openpagerank/documentation)  
+- [OnCrawl](http://developer.oncrawl.com/)
 
 ### Useful APIs for Internal Data Pipelines & Internal Operations / Reporting
-[Google Search Console](https://developers.google.com/webmaster-tools)
-[Google Analytics](https://developers.google.com/analytics/devguides/reporting/core/v4)
-[Google Analytics Management API](https://developers.google.com/analytics/devguides/config/mgmt/v3)
-[Google Drive API](https://developers.google.com/drive/api/v3/about-sdk)
-[Google Docs API](https://developers.google.com/docs/api)
-[Google Sheets API](https://developers.google.com/sheets/api)
+- [Google Search Console](https://developers.google.com/webmaster-tools)
+- [Google Analytics](https://developers.google.com/analytics/devguides/reporting/core/v4)
+- [Google Analytics Management API](https://developers.google.com/analytics/devguides/config/mgmt/v3)
+- [Google Drive API](https://developers.google.com/drive/api/v3/about-sdk)
+- [Google Docs API](https://developers.google.com/docs/api)
+- [Google Sheets API](https://developers.google.com/sheets/api)
 
 ### Link Database
 [CommonCrawl](https://commoncrawl.org/)
