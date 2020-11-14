@@ -42,7 +42,7 @@ You can also find the YouTube content on the two following channels:
 
 5. [Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/5_google_sheets_with_pandas)
 
-## Images 
+## Images
 
 6. [How To Download Multiple Image URLs To Your Computer](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/6_downloading_multiple_images)
 7. [How To Compress Single & Multiple Images](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/7_image_compression)
@@ -52,147 +52,149 @@ You can also find the YouTube content on the two following channels:
 ## Screaming Frog Automation
 
 10. [How Use Screaming Frog With The Command Line (Mac + Windows)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/10_automating_screaming_frog)
-11. [How To Wrangle Your Data In Screaming Frog With Python + Pandas](#)
-12. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/12_cloud_crawling_with_screaming_frog)
+11. [How To Setup Screaming Frog In The Cloud (With Remote Desktop)](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/11_cloud_crawling_with_screaming_frog)
 
-## Rendering
+## Web Scraping
 
-13. Identifying Rendering Issues At Scale
+12. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](#)
+13. [How To Easily Find All Of The Sitemap.xml Files On A Website](#)
+14. [Web Scraping Pages From Sitemap.xml Files](#)
+15. [How To Extract Text Content + HTML From Pages At Scale](#)
 
-## Web Scraping & Sitemaps
+## NLP
 
-14. Web Scraping Pages from Sitemap.xml files
-15. Sitemap Automation
+16. [How To Identify All Of The Entities On A HTML Page - Googles NLP API](#)
+17. [How To Extract Semantic Synonyms / Keywords To Enrich Your HTML Pages](#)
+18. [Named Entity Linking - How To Build A Knowledge Graph](#)
+19. [Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores](#)
+
+
+
+<!-- ## Web Scraping & Sitemaps
+
+Web Scraping Pages from Sitemap.xml files
+Sitemap Automation
 
 ## Schema Optimisation
 
-16. How to extract schema at scale
-17. How to create video or article schema At Scale
+How to extract schema at scale
+How to create video or article schema At Scale
 
 ## Google Cloud Platform Continued
 
-18. Google Page Speed Insights
-19. Creating a BigQuery Datawarehouse with Google Analytics + Google Search Console Data
+Google Page Speed Insights
+Creating a BigQuery Datawarehouse with Google Analytics + Google Search Console Data
 
 ## Content Performance With Pandas
 
-20. Content Performance + Leveling Up With Pandas
+Content Performance + Leveling Up With Pandas
 
 ## Content De-duplication Techniques
 
-21. Content De-duplication Techniques
-22. Grouping HTML Pages
+Content De-duplication Techniques
+Grouping HTML Pages
 
 ## The Power Of Python Combinations - https://www.sammyseo.com/product-comparison-keywords/
 
-23. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
-24. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
+Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
+Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
 
 ## Algorithm Updates
 
-25. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
+Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
 
 ## Data Pipelines, DataForSEO & BigQuery
 
-26. The Comprehensive Guide To GoogleBigQuery With Python
-27. How To Compare GSC Account Permissions vs GA Account Permissions
-28. Creating Data Pipelines with DataForSEO (Data Engineering)
-
-## NLP For SEO
-
-29. How To Extract Semantic Synonyms / Keywords To Enrich Your HTML Pages
-30. Named Entity Recognition & Named Entity Linking
-31. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-32. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-33. IBM NLP Watson and Google's Natural Language API
-34. Categorising Queries From Google Search Console
+The Comprehensive Guide To GoogleBigQuery With Python
+How To Compare GSC Account Permissions vs GA Account Permissions
+Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-35. How to connect to your Bing API Data
-36. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-37. Identify Keyword Cannabilisation with GSC + GA
+How to connect to your Bing API Data
+Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-38. Server Log File Analysis
+Server Log File Analysis
 
 ## G-suite Automation
 
-39. Google Drive Automation 
+Google Drive Automation
 
 ## Wordpress Automation + Shopify
 
-40. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-41. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-42. Creating JSON-LD Schema With Python
-43. How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
-44. How To Find The Fastest Shopify Theme Using Google Page Speed Insights
+How to automatically update a series of Wordpress Posts from 2019 -->[Wordpress REST API](https://developer.wordpress.org/rest-api/)
+<!-- How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+Creating JSON-LD Schema With Python
+How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
+How To Find The Fastest Shopify Theme Using Google Page Speed Insights
 
 ## Content Promotion
 
-45. Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
-46. Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
+Creating A LinkedIn Bot For Finding Relevant Influencers + Sending Direct Messages
+Creating A Facebook Bot For Auto-posting Content To Relevant Groups + Collecting Mod Facebook Accounts For Content Approval
 
 ## Automatic Text Generation
 
-47. Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
-48. Automatically Creating Title Tags + Meta Descriptions
-49. Automatically Generate Image Captions with Pythia & MMF
-50. Automatically Generate Meta Descriptions At Scale
+Automatically Creating Text With GP2-Simple From LinkedIn Posts - https://github.com/minimaxir/gpt-2-simple
+Automatically Creating Title Tags + Meta Descriptions
+Automatically Generate Image Captions with Pythia & MMF
+Automatically Generate Meta Descriptions At Scale
 
-## Automatic Text Summarisation 
+## Automatic Text Summarisation
 
-51. Automatically Summarise Your HTML Pages For Social Media Copy
+Automatically Summarise Your HTML Pages For Social Media Copy
 
 ## Media Synthesis
 
-52. How To Create Featured Images / Author Profile Pictures Using GANs
+How To Create Featured Images / Author Profile Pictures Using GANs
 
 ## Social Media Text-Mining
 
-53. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
-54. Topic Modelling With Social Media Data
-55. Network Analysis With Social Media Data
-56. How To Do Influencer Research With The Twitter API
-57. Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) --> Facebook Custom Audiences
+Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+Topic Modelling With Social Media Data
+Network Analysis With Social Media Data
+How To Do Influencer Research With The Twitter API
+Scraping Phone Numbers + Email Addresses Across Twitter, LinkedIn, Web (Email/Phone/First Name + Last Name + Address) -->
 
-## Intent Classification
+<!-- ## Intent Classification
 
-58. Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
-59. Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
+Scraping SERP Intent - https://medium.com/@benjburkholder/uncovering-google-search-intent-serpapi-and-python-9d0f93fcb315
+Intent Classification of Keywords With Deep Learning - https://venturebeat.com/2019/11/30/a-super-fast-machine-learning-model-for-finding-user-search-intent/
 
 
 ## Competitor / Content Research
 
-60. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-61. Find PeopleAlsoAsked Questions
-62. How To Find SERP Feature Content Gaps (Comparing Existing Content Features on the SERPs vs JSON elements that map to these content elements) - https://www.slideshare.net/hamletbatista/scaling-keyword-research-to-find-content-gaps
+How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+Find PeopleAlsoAsked Questions
+How To Find SERP Feature Content Gaps (Comparing Existing Content Features on the SERPs vs JSON elements that map to these content elements) - https://www.slideshare.net/hamletbatista/scaling-keyword-research-to-find-content-gaps
 
 ## Internal Links
 
-63. Internal Links Graphs with NetworkX + Internal Link Recommendations
+Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-64. How to use Selemium With Python
-65 How to run CRON jobs for SEO
-66. How to run Cloud Functions + Cloud Tasks for SEO
-67. How to run Screaming Frog inside of a .sh bash script / OS packages to automate your ScreamingFrog Data Pipelines!
+How to use Selemium With Python
+How to run CRON jobs for SEO
+How to run Cloud Functions + Cloud Tasks for SEO
+How to run Screaming Frog inside of a .sh bash script / OS packages to automate your ScreamingFrog Data Pipelines!
 
 ## SEO Migrations
-68. How To Find A List Of Old URLs with Wayback CDX API
+How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-69. SEO Split Test Using Python + CausalImpact + Tag Manager
-70. Stratified Sampling Using Google Analytics + Python
-71. SEO Split-Testing Experiments using Google Tag Manager
-72. CausalImpact for SEO
+SEO Split Test Using Python + CausalImpact + Tag Manager
+Stratified Sampling Using Google Analytics + Python
+SEO Split-Testing Experiments using Google Tag Manager
+CausalImpact for SEO
 
 ## SEO Forecasting
-73. Spot (positive/negative) trends in GA (sessions)
-74. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+Spot (positive/negative) trends in GA (sessions)
+Forecasting SEO Traffic with Sarimax + Facebook Prophet -->
 
 ----
 
@@ -215,9 +217,9 @@ You can also find the YouTube content on the two following channels:
 [Dataforseo](https://dataforseo.com/)  
 [SEMrush](https://www.semrush.com/api-documentation/)  
 [Ahrefs](https://ahrefs.com/api)  
-[SEOmoz](https://moz.com/api) 
+[SEOmoz](https://moz.com/api)
 [OPR](https://www.domcop.com/openpagerank/documentation)  
-[OnCrawl](http://developer.oncrawl.com/) 
+[OnCrawl](http://developer.oncrawl.com/)
 
 ### Useful APIs for Internal Data Pipelines & Internal Operations / Reporting
 [Google Search Console](https://developers.google.com/webmaster-tools)
