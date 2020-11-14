@@ -125,7 +125,7 @@ Google Drive Automation
 
 ## Wordpress Automation + Shopify
 
-How to automatically update a series of Wordpress Posts from 2019 -->[Wordpress REST API](https://developer.wordpress.org/rest-api/)
+How to automatically update a series of Wordpress Posts from 2019
 <!-- How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
 Creating JSON-LD Schema With Python
 How To Find The Fastest Wordpress Theme Using Google Page Speed Insights
@@ -223,7 +223,7 @@ Forecasting SEO Traffic with Sarimax + Facebook Prophet -->
 
 ### Useful APIs for Internal Data Pipelines & Internal Operations / Reporting
 [Google Search Console](https://developers.google.com/webmaster-tools)
-[Google Analytics]((https://developers.google.com/analytics/devguides/reporting/core/v4)
+[Google Analytics](https://developers.google.com/analytics/devguides/reporting/core/v4)
 [Google Analytics Management API](https://developers.google.com/analytics/devguides/config/mgmt/v3)
 [Google Drive API](https://developers.google.com/drive/api/v3/about-sdk)
 [Google Docs API](https://developers.google.com/docs/api)
