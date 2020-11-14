@@ -57,7 +57,7 @@ You can also find the YouTube content on the two following channels:
 ## Web Scraping
 
 12. [Web Scraping With Beautiful Soup](#)
-13. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](#)
+<!-- 13. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](#)
 14. [How To Easily Find All Of The Sitemap.xml Files On A Website](#)
 15. [Web Scraping Pages From Sitemap.xml Files](#)
 16. [How To Extract Text Content + HTML From Pages At Scale](#)
@@ -67,7 +67,7 @@ You can also find the YouTube content on the two following channels:
 17. [How To Identify All Of The Entities On A HTML Page - Googles NLP API](#)
 18. [How To Extract Semantic Synonyms / Keywords To Enrich Your HTML Pages](#)
 19. [Named Entity Linking - How To Build A Knowledge Graph](#)
-20. [Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores](#)
+20. [Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores](#) -->
 
 
 
