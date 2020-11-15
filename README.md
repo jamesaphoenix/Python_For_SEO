@@ -56,7 +56,7 @@ You can also find the YouTube content on the two following channels:
 
 ## Web Scraping
 
-12. [Web Scraping With Beautiful Soup](#)
+12. [Web Scraping With Beautiful Soup](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/12_web_scraping_with_python_and_beautifulsoup)
 <!-- 13. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](#)
 14. [How To Easily Find All Of The Sitemap.xml Files On A Website](#)
 15. [Web Scraping Pages From Sitemap.xml Files](#)
