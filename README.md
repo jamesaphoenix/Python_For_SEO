@@ -57,9 +57,14 @@ You can also find the YouTube content on the two following channels:
 ## Web Scraping
 
 12. [Web Scraping With Beautiful Soup](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/12_web_scraping_with_python_and_beautifulsoup)
-13. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/13_asychronous_web_scraping)
-<!-- 
-14. [How To Easily Find All Of The Sitemap.xml Files On A Website](#)
+13. [How To Create A Asychronous Web Scraper In Python Using Aiohttp + Asyncio](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/13_asychronous_web_scraping) 
+14. [How To Easily Find All Of The Sitemap.xml Files On A Website](https://github.com/jamesaphoenix/Python_For_SEO)
+15. [How To Scrape Text From Multiple Web Pages](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/15_how_to_extract_scrape_text_from_multiple_web_pages)
+16. [How To Turn A .csv File Into A .json File](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/Course/16_how_to_turn_a_csv_into_json)
+
+
+
+<!--
 15. [Web Scraping Pages From Sitemap.xml Files](#)
 16. [How To Extract Text Content + HTML From Pages At Scale](#)
 
