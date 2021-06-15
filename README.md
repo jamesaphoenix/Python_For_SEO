@@ -2,7 +2,7 @@
 
 ![PythonForSEO](https://sempioneer.com/wp-content/uploads/2020/05/Python-For-SEO.png)
 
-A 73 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
+A 16 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
 Prerequisites:
