@@ -1,4 +1,4 @@
-# 🐍 Python For SEO 🐍(In Progress)
+# 🐍 Python For SEO 🐍
 
 ![PythonForSEO](https://sempioneer.com/wp-content/uploads/2020/05/Python-For-SEO.png)
 
