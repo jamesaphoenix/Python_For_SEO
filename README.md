@@ -1,8 +1,9 @@
 # 🐍 Python For SEO 🐍
 
-![PythonForSEO](https://sempioneer.com/wp-content/uploads/2020/05/Python-For-SEO.png)
+![PythonForSEO](https://understandingdata.com/wp-content/uploads/2022/02/python-for-seo.png)
 
 A 16 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
+
 ----
 
 Prerequisites:
@@ -16,10 +17,9 @@ Its time to level up your SEO game, so grab a ☕ and get ready to start learnin
 
 ----
 
-Every Lesson Can Be Found Under The PythonForSEO Section (within the main nav of https://sempioneer.com/)!
+Every Lesson Can Be Found Under The PythonForSEO Section (within the main nav of https://understandingdata.com)!
 You can also find the YouTube content on the two following channels:
 
-- [Sempioneer](https://www.youtube.com/channel/UCui38sdG1wWlDk_tgyZiJ_w)
 - [UnderstandingData](https://www.youtube.com/channel/UCLKL6bVqM1WM8VJavfokGSg)
 
 ----
