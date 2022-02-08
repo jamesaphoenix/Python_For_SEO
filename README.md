@@ -1,6 +1,6 @@
 # 🐍 Python For SEO 🐍
 
-<img src="https://understandingdata.com/wp-content/uploads/2022/02/python-for-seo.png" alt="python for seo" width="300"/>
+<img src="https://understandingdata.com/wp-content/uploads/2022/02/python-for-seo.png" alt="python for seo" width="225"/>
 
 A 16 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 
